@@ -30,10 +30,20 @@ Descubrir las localizaciones desde la portada de la partida y descargarlas todas
 npm run scrape
 ```
 
+Analizar la cronologia global y generar entidades/eventos historicos:
+
+```bash
+npm run analyze:history
+```
+
 ## Salidas
 
 - `data/localizaciones/<slug>.json`
 - `data/cronologia_global.json`
 - `data/cronologia_global.md`
+- `data/entidades/npcs.json`
+- `data/entidades/facciones.json`
+- `data/entidades/localizaciones.json`
+- `data/eventos/eventos_importantes.json`
 
 Cada mensaje incluye fecha, fecha ISO para ordenar, autor, personaje, texto plano, HTML original del mensaje, URL, pagina y localizacion.
