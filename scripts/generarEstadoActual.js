@@ -37,9 +37,9 @@ const THREAT_WORDS = [
 ];
 
 const MISSION_PATTERNS = [
-  /\b(?:mision|misión|objetivo|encargo)\b[^.!?]{0,120}\b(?:investigar|escoltar|derrotar|encontrar|proteger|entregar|viajar a|ir a|rescatar|recuperar|liberar|detener)\b/i,
-  /\b(?:hay que|tenemos que|debe(?:mos|n)?|necesita(?:mos|n)?|se debe)\b[^.!?]{0,120}\b(?:investigar|escoltar|derrotar|vencer|encontrar|hallar|proteger|entregar|llevar|viajar a|ir a|rescatar|recuperar|liberar|detener|parar)\b/i,
-  /\b(?:investigar|escoltar|derrotar|vencer|encontrar|hallar|proteger|entregar|llevar|viajar a|ir a|rescatar|recuperar|liberar|detener|parar)\b[^.!?]{0,120}\b(?:mision|misión|objetivo|encargo)\b/i
+  /\b(?:mision|misión|objetivo|encargo)\b[^.!?]{0,100}\b(?:investigar|escoltar|derrotar|encontrar|proteger|entregar|viajar|rescatar|capturar|limpiar|explorar)\b/i,
+  /\b(?:hay que|tenemos que|debe(?:mos|n)?|necesita(?:mos|n)?|se debe)\b[^.!?]{0,100}\b(?:investigar|escoltar|derrotar|encontrar|proteger|entregar|viajar|rescatar|capturar|limpiar|explorar)\b/i,
+  /\b(?:investigar|escoltar|derrotar|encontrar|proteger|entregar|viajar|rescatar|capturar|limpiar|explorar)\b[^.!?]{0,100}\b(?:mision|misión|objetivo|encargo)\b/i
 ];
 
 const CHANGE_WORDS = [
@@ -85,7 +85,19 @@ const BASE_CONTROL_NAMES = new Set(
   ].map(normalize)
 );
 
+const CONTROL_PATTERNS = [
+  /\bcontrola(?:n)?\b/i,
+  /\bgobierna(?:n)?\b/i,
+  /\btom[oó](?: la| el)?\b/i,
+  /\btomaron(?: la| el)?\b/i,
+  /\bpertenece a\b/i,
+  /\bbajo control de\b/i,
+  /\bdomina(?:n)?\b/i,
+  /\bocupa(?:n)?\b/i
+];
+
 const DND_TERMS = [
+  "clase de armadura",
   "armor class",
   "hit points",
   "languages",
@@ -191,6 +203,26 @@ const BAD_ENTITY_WORDS = new Set(
   ].map(normalize)
 );
 
+const FORBIDDEN_NPC_FRAGMENTS = [
+  "añadió",
+  "añadio",
+  "exclama",
+  "murmura",
+  "dijo",
+  "gritó",
+  "grito",
+  "comentó",
+  "comento",
+  "perfecto",
+  "ahora",
+  "clase de armadura",
+  "armor class",
+  "hit points",
+  "languages",
+  "attack",
+  "medium humanoid"
+].map(normalize);
+
 function normalize(value) {
   return String(value || "")
     .normalize("NFD")
@@ -248,11 +280,18 @@ function isDndTerm(value) {
   return DND_TERMS.some((term) => normalized === normalize(term) || normalized.includes(normalize(term)));
 }
 
-function isUsefulName(name, knownNames = new Set()) {
+function hasForbiddenPublicTerm(value) {
+  const normalized = normalize(value);
+  return FORBIDDEN_NPC_FRAGMENTS.some((fragment) => normalized.includes(fragment)) || isDndTerm(value);
+}
+
+function esNpcValido(name, knownNames = new Set()) {
   const normalized = normalize(name);
   if (!normalized || BAD_ENTITY_WORDS.has(normalized)) return false;
+  if (FORBIDDEN_NPC_FRAGMENTS.some((fragment) => normalized.includes(fragment))) return false;
   if (isDndTerm(name) || startsWithNarrativeVerb(name)) return false;
   if (/^[?¿!¡.\-]+$/.test(name)) return false;
+  if (clean(name).includes(".")) return false;
   if (wordCount(name) > 4 && !knownNames.has(normalized)) return false;
   if (/\b(y|e)$/i.test(clean(name))) return false;
   return clean(name).length >= 3;
@@ -266,12 +305,13 @@ function sentenceSplit(text) {
     .filter(Boolean);
 }
 
-function oneSentence(text, max = 240) {
-  const first = sentenceSplit(text)[0] || clean(text).replace(/\n+/g, " ");
+function oneSentence(text, max = 120) {
+  const first = sentenceSplit(text).find((sentence) => !hasForbiddenPublicTerm(sentence));
+  if (!first) return "Resumen no incluido; ver DEBUG.";
   if (first.length <= max) return first;
   const cut = first.slice(0, max);
   const lastSpace = cut.lastIndexOf(" ");
-  return `${cut.slice(0, lastSpace > 120 ? lastSpace : max).trim()}...`;
+  return `${cut.slice(0, lastSpace > 80 ? lastSpace : max).trim()}...`;
 }
 
 function findSentences(posts, matcher, limit = 3) {
@@ -279,11 +319,11 @@ function findSentences(posts, matcher, limit = 3) {
 
   for (const post of posts) {
     for (const sentence of sentenceSplit(post.texto)) {
-      if (matcher(sentence)) {
+      if (matcher(sentence) && !hasForbiddenPublicTerm(sentence)) {
         out.push({
           fecha: post.fecha,
           autor: post.autor,
-          texto: oneSentence(sentence, 260),
+          texto: oneSentence(sentence, 120),
           url: post.url
         });
       }
@@ -325,34 +365,34 @@ function inferState(recentPosts, events) {
   return { value: UNKNOWN, confidence: "baja", evidence: "No hay evidencia reciente clara." };
 }
 
-function inferControl(locationEntity, recentPosts, locationEvents) {
-  const candidates = new Map();
-  for (const faction of locationEntity?.facciones || []) {
-    const key = normalize(faction.nombre);
-    if (BASE_CONTROL_NAMES.has(key) && faction.frecuencia >= 3) {
-      candidates.set(faction.nombre, (candidates.get(faction.nombre) || 0) + faction.frecuencia);
-    }
-  }
+function inferControl(locationEntity, posts, locationEvents) {
+  const knownFactions = [
+    ...(locationEntity?.facciones || []).map((faction) => faction.nombre),
+    ...locationEvents.flatMap((event) => event.faccionesMencionadas || [])
+  ].filter((name) => BASE_CONTROL_NAMES.has(normalize(name)));
+  const candidates = [];
+  const evidencePosts = [...posts.slice(0, 3), ...posts.slice(-RECENT_POSTS)];
 
-  const recentText = normalize(recentPosts.map((post) => post.texto).join(" "));
-  for (const event of locationEvents.slice(-8)) {
-    for (const faction of event.faccionesMencionadas || []) {
-      const key = normalize(faction);
-      if (BASE_CONTROL_NAMES.has(key) && recentText.includes(key)) {
-        candidates.set(faction, (candidates.get(faction) || 0) + 2);
+  for (const post of evidencePosts) {
+    for (const sentence of sentenceSplit(post.texto)) {
+      const normalizedSentence = normalize(sentence);
+      if (!CONTROL_PATTERNS.some((pattern) => pattern.test(sentence))) continue;
+      for (const faction of knownFactions) {
+        if (normalizedSentence.includes(normalize(faction))) {
+          candidates.push({ faction, fecha: post.fecha, texto: oneSentence(sentence, 120), url: post.url });
+        }
       }
     }
   }
 
-  const sorted = [...candidates.entries()].sort((a, b) => b[1] - a[1]);
-  if (!sorted.length) {
+  if (!candidates.length) {
     return { value: UNKNOWN, confidence: "baja", evidence: "No hay faccion dominante confirmada por mapa base o evidencia reciente clara." };
   }
 
   return {
-    value: sorted[0][0],
-    confidence: sorted[0][1] >= 10 ? "media" : "baja",
-    evidence: `Candidato detectado por menciones en entidades/eventos: ${sorted[0][0]} (${sorted[0][1]} puntos).`
+    value: candidates[0].faction,
+    confidence: "media",
+    evidence: candidates[0]
   };
 }
 
@@ -363,12 +403,12 @@ function formatBullets(items, render) {
 
 function eventLine(event) {
   const keys = (event.palabrasClave || []).slice(0, 4).join(", ");
-  const summary = oneSentence(event.textoFuente || event.resumenAutomatico || "", 220);
+  const summary = oneSentence(event.textoFuente || event.resumenAutomatico || "", 120);
   return `${event.fecha || "Sin fecha"}: ${keys || "evento"} - ${summary}${event.url ? ` (${event.url})` : ""}`;
 }
 
 function recentLine(post) {
-  return `${post.fecha || "Sin fecha"} - ${post.autor || UNKNOWN}: ${oneSentence(post.texto || "", 260)}${post.url ? ` (${post.url})` : ""}`;
+  return `${post.fecha || "Sin fecha"} - ${post.autor || UNKNOWN}: ${oneSentence(post.texto || "", 120)}${post.url ? ` (${post.url})` : ""}`;
 }
 
 async function loadLocations() {
@@ -476,13 +516,13 @@ async function main() {
       location.posts
         .flatMap((post) => [post.personaje, post.autor])
         .filter((name) => name && !["Director", "SISTEMA", "No indicado", "Desconocido"].includes(name))
-        .filter((name) => isUsefulName(name, knownNames))
+        .filter((name) => esNpcValido(name, knownNames))
     );
     const entityNames = (npcByLocation.get(location.title) || [])
       .sort((a, b) => (b.frecuencia || 0) - (a.frecuencia || 0))
       .filter((item) => item.esAutorOPersonaje || knownNames.has(normalize(item.nombre)))
       .map((item) => item.nombre)
-      .filter((name) => isUsefulName(name, knownNames));
+      .filter((name) => esNpcValido(name, knownNames));
     const relevantNpcs = unique([...actorNames, ...entityNames]).slice(0, 12);
     const players = actorNames.slice(0, 12);
 
@@ -490,7 +530,7 @@ async function main() {
     const missions = findSentences(recentPosts, isMissionSentence, 3);
     const changes = findSentences(recentPosts, (sentence) => containsAnyWord(sentence, CHANGE_WORDS), 3);
     const state = inferState(recentPosts, locationEvents);
-    const control = inferControl(entity, recentPosts, locationEvents);
+    const control = inferControl(entity, location.posts, locationEvents);
     const threatConfidence = confidenceForEvidence(threats);
     const missionConfidence = confidenceForEvidence(missions);
 
@@ -548,7 +588,7 @@ async function main() {
           autor: post.autor,
           personaje: post.personaje,
           url: post.url,
-          texto: oneSentence(post.texto, 600)
+          texto: oneSentence(post.texto, 300)
         }))
       ),
       debugBlock("Amenazas detectadas", threats),
@@ -560,7 +600,7 @@ async function main() {
           id: event.id,
           fecha: event.fecha,
           palabrasClave: event.palabrasClave,
-          resumen: oneSentence(event.textoFuente || event.resumenAutomatico, 400),
+          resumen: oneSentence(event.textoFuente || event.resumenAutomatico, 300),
           url: event.url
         }))
       )
