@@ -206,7 +206,9 @@ const BAD_ENTITY_WORDS = new Set(
 const FORBIDDEN_NPC_FRAGMENTS = [
   "añadió",
   "añadio",
+  "añade",
   "exclama",
+  "exclamó",
   "murmura",
   "dijo",
   "gritó",
@@ -292,6 +294,7 @@ function esNpcValido(name, knownNames = new Set()) {
   if (isDndTerm(name) || startsWithNarrativeVerb(name)) return false;
   if (/^[?¿!¡.\-]+$/.test(name)) return false;
   if (clean(name).includes(".")) return false;
+  if (clean(name).includes("—") || clean(name).includes("–") || clean(name).includes("-")) return false;
   if (wordCount(name) > 4 && !knownNames.has(normalized)) return false;
   if (/\b(y|e)$/i.test(clean(name))) return false;
   return clean(name).length >= 3;
@@ -459,6 +462,22 @@ function debugBlock(title, data) {
   return ["", `### ${title}`, "", "```json", JSON.stringify(data, null, 2), "```", ""].join("\n");
 }
 
+function pushSection(lines, title, rows) {
+  lines.push(`### ${title}`);
+  for (const row of rows) lines.push(row);
+  lines.push("");
+}
+
+function pushList(lines, title, items, render) {
+  lines.push(`### ${title}`);
+  if (!items.length) {
+    lines.push(`- ${UNKNOWN}`);
+  } else {
+    for (const item of items) lines.push(`- ${render(item)}`);
+  }
+  lines.push("");
+}
+
 async function main() {
   const [locations, locationEntities, npcs, events] = await Promise.all([
     loadLocations(),
@@ -534,44 +553,60 @@ async function main() {
     const threatConfidence = confidenceForEvidence(threats);
     const missionConfidence = confidenceForEvidence(missions);
 
-    lines.push(
-      `## ${location.code} ${titleWithoutCode(location.title) || location.title}`,
-      "",
-      `- Estado actual: ${state.value}`,
-      `- Confianza estado: ${state.confidence}`,
-      "",
-      `- Control / faccion dominante: ${control.value}`,
-      `- Confianza control: ${control.confidence}`,
-      "",
-      "- NPCs presentes o relevantes:",
-      formatBullets(relevantNpcs, (name) => name),
-      "",
-      "- Jugadores que han actuado aqui:",
-      formatBullets(players, (name) => name),
-      "",
-      "- Eventos importantes ocurridos:",
-      formatBullets(importantEvents, eventLine),
-      "",
-      "- Ultimo evento conocido:",
-      `  - ${latestPost ? recentLine(latestPost) : UNKNOWN}`,
-      "",
-      "- Amenazas activas:",
-      `  - Confianza: ${threatConfidence}`,
-      formatBullets(threats, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
-      "",
-      "- Misiones abiertas:",
-      `  - Confianza: ${missionConfidence}`,
-      formatBullets(missions, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
-      "",
-      "- Cambios respecto al mapa base:",
-      formatBullets(changes, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
-      "",
-      "- Dudas / necesita revision manual:",
-      `  - ${threats.length || missions.length || changes.length || importantEvents.length ? "Revisar manualmente para confirmar inferencias automaticas." : UNKNOWN}`,
-      "",
-      `- URL original: ${location.url || latestPost?.url || UNKNOWN}`,
-      ""
+    lines.push(`## ${location.code} ${titleWithoutCode(location.title) || location.title}`);
+    lines.push("");
+
+    pushSection(lines, "Estado actual", [`- Valor: ${state.value}`, `- Confianza: ${state.confidence}`]);
+
+    pushSection(lines, "Control / faccion dominante", [
+      `- Valor: ${control.value}`,
+      `- Confianza: ${control.confidence}`
+    ]);
+
+    pushList(lines, "NPCs presentes o relevantes", relevantNpcs, (name) => name);
+
+    pushList(lines, "Jugadores que han actuado aqui", players, (name) => name);
+
+    pushList(lines, "Eventos importantes ocurridos", importantEvents, eventLine);
+
+    pushSection(lines, "Ultimo evento conocido", [
+      `- ${latestPost ? recentLine(latestPost) : UNKNOWN}`
+    ]);
+
+    lines.push("### Amenazas activas");
+    lines.push(`- Confianza: ${threatConfidence}`);
+    if (!threats.length) {
+      lines.push(`- ${UNKNOWN}`);
+    } else {
+      for (const item of threats) {
+        lines.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
+      }
+    }
+    lines.push("");
+
+    lines.push("### Misiones abiertas");
+    lines.push(`- Confianza: ${missionConfidence}`);
+    if (!missions.length) {
+      lines.push(`- ${UNKNOWN}`);
+    } else {
+      for (const item of missions) {
+        lines.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
+      }
+    }
+    lines.push("");
+
+    pushList(
+      lines,
+      "Cambios respecto al mapa base",
+      changes,
+      (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`
     );
+
+    pushSection(lines, "Dudas / necesita revision manual", [
+      `- ${threats.length || missions.length || changes.length || importantEvents.length ? "Revisar manualmente para confirmar inferencias automaticas." : UNKNOWN}`
+    ]);
+
+    pushSection(lines, "URL original", [`- ${location.url || latestPost?.url || UNKNOWN}`]);
 
     debug.push(
       `## ${location.code} ${titleWithoutCode(location.title) || location.title}`,
