@@ -1,0 +1,70 @@
+[
+  {
+    "id": "msj20224960",
+    "messageId": "20224960",
+    "fecha": "13/05/2023, 12:50",
+    "fechaIso": "2023-05-13T12:50:00",
+    "autor": "Jacklin",
+    "personaje": "Jacklin",
+    "texto": "Voy a usar esta sección para tener un control de las subidas de nivel y el progreso del personaje además de para preguntar dudas.\n\nCreación\nCaracterísticas:\n\nFuerza: 12 puntos\nDestreza: 8 puntos\nConstitución: 12 puntos\nInteligencia: 14 puntos\nSabiduría: 12puntos\nCarisma: 8 puntos\n\nSubtotal: 66 puntos\nRaza:\n Se mantiene \"Sin raza\" siendo un Humano promedio por lo que el coste es 0\nAtributos:\n\nAumento (Fuerza): Rank 4 x 1 punto = 4 puntos\nTécnica de combate (Juzgar Oponente): Rank 1 x 1 punto = 1 punto\nCurar: Rank 1 x 1 punto = 1 punto\nPoder Desconocido: 14 puntos\n\nSubtotal: 20 puntos\nDefectos:\n\nDiscapacidad Sensorial: Rank 2 x 3 puntos = 6 puntos\n\nSubtotal: -6 puntos\n\nAl ser defectos se hace negativo\nTotal: 80 puntos\n\nEquipo:\n\nEspadón: 50 gp\nArmadura de anillas: 50 gp\n\nTotal: 100 gp\n\nClase (Luchador):\n\nCompetencias: Trato con Animales, Engañar, Investigación, Perspicacia\nArquetipo Marcial: Defensivo\nSegundo Aliento",
+    "textoHtml": "<p>Voy a usar esta sección para tener un control de las subidas de nivel y el progreso del personaje además de para preguntar dudas.</p>\n<blockquote><p><u><strong>Creación</strong></u></p>\n<p><strong>Características:</strong></p>\n<ul>\n<li><b>Fuerza:&nbsp;</b>12 puntos</li>\n<li><b>Destreza:&nbsp;</b>8 puntos</li>\n<li><b>Constitución:&nbsp;</b>12 puntos</li>\n<li><b>Inteligencia:&nbsp;</b>14 puntos</li>\n<li><b>Sabiduría:&nbsp;</b>12puntos</li>\n<li><b>Carisma:&nbsp;</b>8 puntos</li>\n</ul>\n<p><b>Subtotal: </b>66 puntos</p>\n<p><strong>Raza:</strong></p>\n<p><strong>&nbsp;&nbsp;</strong>Se mantiene \"Sin raza\" siendo un Humano promedio&nbsp;por lo que el coste es 0</p>\n<p><strong>Atributos:</strong></p>\n<ul>\n<li><strong>Aumento (Fuerza):&nbsp;</strong>Rank 4 x 1 punto = 4 puntos</li>\n<li><strong>Técnica de combate (Juzgar Oponente): </strong>Rank 1 x 1 punto = 1 punto</li>\n<li><strong>Curar:&nbsp;</strong>Rank 1 x 1 punto = 1 punto</li>\n<li><strong>Poder Desconocido:&nbsp;</strong>14 puntos</li>\n</ul>\n<p><strong>Subtotal:&nbsp;</strong>20 puntos</p>\n<p><strong>Defectos:</strong></p>\n<ul>\n<li><strong>Discapacidad Sensorial:&nbsp;</strong>Rank 2 x 3 puntos = 6 puntos</li>\n</ul>\n<p><strong>Subtotal:&nbsp;</strong>-6 puntos<br>\n<em>Al ser defectos se hace negativo</em></p>\n<p><strong>Total: </strong>80 puntos</p>\n<p>&nbsp;</p>\n<p><strong>Equipo:</strong></p>\n<ul>\n<li><strong>Espadón:&nbsp;</strong>50 gp</li>\n<li><strong>Armadura de anillas: </strong>50 gp</li>\n</ul>\n<p>\n<strong>Total:&nbsp;</strong>100 gp</p>\n<p>&nbsp;</p>\n<p><strong>Clase (Luchador):</strong></p>\n<ul>\n<li><strong>Competencias:&nbsp;</strong>Trato con Animales, Engañar, Investigación, Perspicacia</li>\n<li><strong>Arquetipo Marcial:&nbsp;</strong>Defensivo</li>\n<li><strong>Segundo Aliento</strong></li>\n</ul>\n</blockquote>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "dudas-jacklin",
+      "titulo": "Dudas Jacklin",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin"
+    }
+  },
+  {
+    "id": "msj20576002",
+    "messageId": "20576002",
+    "fecha": "28/01/2024, 23:45",
+    "fechaIso": "2024-01-28T23:45:00",
+    "autor": "Jacklin",
+    "personaje": "Jacklin",
+    "texto": "1º Misión: Oro en las montañas\n\nNUEVO TITULO: MATAGIGANTES\n+1D6 AL DAÑO SI EL ENEMIGO ES DE UN VD SUPERIOR A TU NIVEL\n\n---\nNUEVO TITULO: HEROE EN CIERNES\n+2 A CARISMA\nCOMPETENCIA EN TIRADAS DE PERSUASION CUANDO SEA PARA UN DISCURSO HEROICO\n\n---\nNUEVO NIVEL ADQUIRIDO\nHABILIDAD ACCION SUBITA ADQUIRIDO\n+1D10 + CON A HP (+8)\n\n---\nFAMA TALSYRC +4\nHONOR TALSYRC +10\nNUEVO TITULO ADQUIRIDO\nMIEMBRO DESTACADO DE TALSYRC\n+2 TIRADAS DE DIPLOMACIA CON TALSYRC",
+    "textoHtml": "<p>1º Misión: <a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/1012-la-aldea-2\" rel=\"nofollow\">Oro en las montañas</a></p>\n<blockquote><p style=\"text-align:center\"><strong>NUEVO TITULO: MATAGIGANTES</strong></p>\n<p style=\"text-align:center\"><strong>+1D6 AL DAÑO SI EL ENEMIGO ES DE UN VD SUPERIOR A TU NIVEL<br>\n---</strong></p>\n<p style=\"text-align:center\"><strong>NUEVO TITULO: HEROE EN CIERNES</strong></p>\n<p style=\"text-align:center\"><strong>+2 A CARISMA</strong></p>\n<p style=\"text-align:center\"><strong>COMPETENCIA EN TIRADAS DE PERSUASION CUANDO SEA PARA UN DISCURSO HEROICO</strong><br>\n---</p>\n<p style=\"text-align:center\"><strong>NUEVO NIVEL ADQUIRIDO</strong></p>\n<p style=\"text-align:center\"><strong>HABILIDAD ACCION SUBITA ADQUIRIDO</strong></p>\n<p style=\"text-align:center\"><strong>+1D10&nbsp;+ CON A HP (+8)</strong><br>\n---</p>\n<p style=\"text-align:center\"><strong>FAMA TALSYRC&nbsp;+4&nbsp;</strong></p>\n<p style=\"text-align:center\"><strong>HONOR TALSYRC +10</strong></p>\n<p style=\"text-align:center\"><strong>NUEVO TITULO ADQUIRIDO</strong></p>\n<p style=\"text-align:center\"><strong>MIEMBRO DESTACADO DE TALSYRC</strong></p>\n<p style=\"text-align:center\"><strong>+2 TIRADAS DE DIPLOMACIA CON TALSYRC</strong></p>\n</blockquote>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "dudas-jacklin",
+      "titulo": "Dudas Jacklin",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin"
+    }
+  },
+  {
+    "id": "msj20669372",
+    "messageId": "20669372",
+    "fecha": "03/04/2024, 17:40",
+    "fechaIso": "2024-04-03T17:40:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Pues es cierto, habia olvidado controlar los puntos, solo te estaba dando poderes sin restarlos XD.\n\nLa mayoria de titulos que tienes han tirado de puntos de personaje, normalmente los titulos los entrego con defectos, pero los tuyos vienen sin ellos.\n\nMulligan 1 rango= 2 puntos por ser oculto mitad 1 punto\n\nDaño masivo 2 + Limitado a espadones 1 rango extra = 6 puntos mitad por ser oculto 3 puntos\n\nMATAGIGANTES Masive damage 1 + Limitado a VD superiores 2 rangos extra = 3 puntos mitado por ser oculto 1.5\n\nHeroe en ciernes +2 Car + Edge 1 Limitado a cuando sea para un discurso 1 rango extra = 3 puntos por ser oculto 1.5\n\nMiembro y ciudadano son gratis\n\nMaestro del brazo de acero +2 Fue = 2 puntos 1 por ser oculto\n\ntitulo\ncoste\ncoste final\n\nMulligan\n2\n1\n\nDaño masivo\n6\n3\n\nMatagigantes\n3\n1.5\n\nHeroe en ciernes\n2\n1.5\n\nMaestro del brazo de acero\n2\n1\n\nYa te lo he apañado si no me fallan los calculos te quedan 8 puntos de personaje.\n\nTienes 80 puntos de base + 6 por el defecto\n\nCaracteristicas =66 puntos\n\nSubida de fuerza +4= 4puntos\n\nTitulos = 8 puntos\n\nTotal 78/86 puntos",
+    "textoHtml": "<p>Pues es cierto, habia olvidado controlar los puntos, solo te estaba dando poderes sin restarlos XD.</p>\n<p>La mayoria de titulos que tienes han tirado de puntos de personaje, normalmente los titulos los entrego con defectos, pero los tuyos vienen sin ellos.</p>\n<p>Mulligan 1 rango= 2 puntos por ser oculto mitad 1 punto<br>\nDaño masivo 2 + Limitado a espadones 1 rango extra = 6 puntos mitad por ser oculto 3 puntos<br>\nMATAGIGANTES Masive damage 1&nbsp;+ Limitado a VD superiores 2 rangos extra =&nbsp;3 puntos mitado por ser oculto 1.5&nbsp;<br>\nHeroe en ciernes +2 Car + Edge 1 Limitado a cuando sea para un discurso 1 rango extra = 3&nbsp;puntos por ser oculto 1.5<br>\nMiembro y ciudadano son gratis<br>\nMaestro del brazo de acero +2 Fue = 2 puntos 1 por ser oculto</p>\n<table class=\"bbcodeTable\" style=\"width:500px\">\n<tbody>\n<tr>\n<td>titulo</td>\n<td>coste</td>\n<td>coste final</td>\n</tr>\n<tr>\n<td>Mulligan</td>\n<td>2</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Daño masivo</td>\n<td>6</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Matagigantes</td>\n<td>3</td>\n<td>1.5</td>\n</tr>\n<tr>\n<td>Heroe en ciernes</td>\n<td>2</td>\n<td>1.5</td>\n</tr>\n<tr>\n<td>Maestro del brazo de acero</td>\n<td>2</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Ya te lo he apañado si no me fallan los calculos te quedan 8 puntos de personaje.</p>\n<p>Tienes 80 puntos de base + 6 por el defecto<br>\nCaracteristicas =66 puntos<br>\nSubida de fuerza +4= 4puntos<br>\nTitulos = 8 puntos</p>\n<p>Total 78/86 puntos</p>\n<p>\n&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "dudas-jacklin",
+      "titulo": "Dudas Jacklin",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin"
+    }
+  },
+  {
+    "id": "msj20688838",
+    "messageId": "20688838",
+    "fecha": "19/04/2024, 04:31",
+    "fechaIso": "2024-04-19T04:31:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El titulos de las driades ha sido gratis recompensa por la mini mision.\n\nLa subida de constitucion te ha costado 3 puntos",
+    "textoHtml": "<p>El titulos de las driades ha sido gratis recompensa por la mini mision.</p>\n<p>La subida de constitucion te ha costado 3 puntos</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "dudas-jacklin",
+      "titulo": "Dudas Jacklin",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/dudas-jacklin"
+    }
+  }
+]

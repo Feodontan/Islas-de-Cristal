@@ -1,0 +1,36 @@
+[
+  {
+    "id": "msj20222799",
+    "messageId": "20222799",
+    "fecha": "11/05/2023, 20:37",
+    "fechaIso": "2023-05-11T20:37:00",
+    "autor": "SISTEMA",
+    "personaje": "SISTEMA",
+    "texto": "",
+    "textoHtml": "<p><img alt=\"\" src=\"https://i.ibb.co/qY59hczm/image.webp\" style=\"width:100%\"></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/mapa-del-mundo?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "mapa-del-mundo",
+      "titulo": "Mapa del mundo",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/mapa-del-mundo"
+    }
+  },
+  {
+    "id": "msj20225673",
+    "messageId": "20225673",
+    "fecha": "14/05/2023, 00:29",
+    "fechaIso": "2023-05-14T00:29:00",
+    "autor": "SISTEMA",
+    "personaje": "SISTEMA",
+    "texto": "UBICACION ACTUAL",
+    "textoHtml": "<h1>UBICACION ACTUAL</h1>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://cdn.discordapp.com/attachments/910344650634723372/1202263687365410826/image.png?ex=65ccd250&amp;is=65ba5d50&amp;hm=72c7865f8b81326119a23db8fb763175e8e8fe063f2fdbde2d549953ffd36328&amp;\" style=\"width:100%\"></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/mapa-del-mundo?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "mapa-del-mundo",
+      "titulo": "Mapa del mundo",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/mapa-del-mundo"
+    }
+  }
+]

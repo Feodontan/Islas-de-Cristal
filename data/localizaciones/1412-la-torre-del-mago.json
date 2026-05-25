@@ -1,0 +1,920 @@
+[
+  {
+    "id": "msj20251907",
+    "messageId": "20251907",
+    "fecha": "30/05/2023, 21:00",
+    "fechaIso": "2023-05-30T21:00:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Recogeis el campamento con bastante presteza, mientras las primeras gotas de lluvia comienzan a caer y cada vez mas truenos rompian el sonido de la madrugada, por suerte, habia empezado a clarear, con lo que tuvisteis luz suficiente para hacer todo el trabajo.\n\nFinalmente llegasteis a la torre, al entrar veis que todo esta bastante desmoronado y lleno de escombros, y la escalera que sube, ha pasado dias mejores.\n\nDe repente, una pila de rocas parece recomponerse y tomar forma.\n\n-¿Que haceis aqui?Debeis marcharos, o el nuevo maestro os matara, el nunca quiere visita, no viva al menos. ¡Deberiais marcharos!",
+    "textoHtml": "<p style=\"text-align:center\">\n<iframe allow=\";\" allowfullscreen=\"\" frameborder=\"0\" height=\"50\" src=\"https://www.youtube.com/embed/y4h_4NIOxuY?rel=0\" width=\"640\"></iframe></p>\n<p>Recogeis el campamento con bastante presteza, mientras las primeras gotas de lluvia comienzan a caer y cada vez mas truenos rompian el sonido de la madrugada, por suerte, habia empezado a clarear, con lo que tuvisteis luz suficiente para hacer todo el trabajo.</p>\n<p>Finalmente llegasteis a la torre, al entrar veis que todo esta bastante desmoronado y lleno de escombros, y la escalera que sube, ha pasado dias mejores.</p>\n<p>De repente, una pila de rocas parece recomponerse y tomar forma.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/earth-elemental-aaron-spong.jpg\" style=\"height:375px; width:500px\"></p>\n<p><strong>-¿Que haceis aqui?Debeis marcharos, o el nuevo maestro os matara, el nunca quiere visita, no viva al menos. ¡Deberiais marcharos!</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20253450",
+    "messageId": "20253450",
+    "fecha": "31/05/2023, 17:59",
+    "fechaIso": "2023-05-31T17:59:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "LLegamos a la torre con rápidez, no me esperaba semejante tormenta de la nada, al menos estábamos bajo techo. Iba a relajarme cuando una voz apareció de la nada. Me erice por completo ante la voz desconocida casi saltando del susto.\n\n¿Que? ¿Quien? ¿Qué es eso?\n\nMire a la criatura con un poco de miedo.\n\n¿Maestro? ¿Quien? Nosotros solo queriamos protegernos de la lluvia, nada mas.",
+    "textoHtml": "<p>LLegamos a la torre con rápidez, no me esperaba semejante tormenta de la nada, al menos estábamos bajo techo. Iba a relajarme cuando una voz apareció&nbsp;de la nada. Me erice por completo ante la voz desconocida casi saltando del susto.</p>\n<p><strong>¿Que? ¿Quien? ¿Qué es eso?&nbsp;</strong></p>\n<p>Mire a la criatura con un poco de miedo.</p>\n<p><strong>¿Maestro? ¿Quien? Nosotros solo queriamos protegernos de la lluvia,&nbsp; nada mas.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20254191",
+    "messageId": "20254191",
+    "fecha": "01/06/2023, 01:14",
+    "fechaIso": "2023-06-01T01:14:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El golem insistio con la cabeza.\n\n-No, no, no, al maestro le da igual eso, debeis marcharos u os matara.",
+    "textoHtml": "<p>El golem insistio con la cabeza.</p>\n<p><strong>-No, no, no, al maestro le da igual eso, debeis marcharos u os matara.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20255269",
+    "messageId": "20255269",
+    "fecha": "01/06/2023, 18:59",
+    "fechaIso": "2023-06-01T18:59:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "¿Y sino molestamos? ¿Quién es tu maestro? O sino podemos quedarnos... ¿Hay algún otro sitio por aqui en el que nos podamos resguardar? Hace frio fuera.",
+    "textoHtml": "<p><strong>¿Y sino molestamos? ¿Quién es tu maestro? O sino podemos quedarnos... ¿Hay algún otro sitio por aqui en el&nbsp;que nos podamos resguardar? Hace frio fuera.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20256027",
+    "messageId": "20256027",
+    "fecha": "02/06/2023, 05:53",
+    "fechaIso": "2023-06-02T05:53:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El golem no parecia dle todo convencido, pero tampoco tenia muchas ganas d discutir, con lo que simplemente se encogio de hombros.\n\n-Esta bien, yo seguire con mi faena.\n\nDijo mientras se volvia a una esquina y comenzaba a recojer los escombros para ponerlos en una pila.",
+    "textoHtml": "<p>El golem no parecia dle todo convencido, pero tampoco tenia muchas ganas d discutir, con lo que simplemente se encogio de hombros.</p>\n<p><strong>-Esta bien, yo seguire con mi faena.</strong></p>\n<p>Dijo mientras se volvia a una esquina y comenzaba a recojer los escombros para ponerlos en una pila.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20257835",
+    "messageId": "20257835",
+    "fecha": "03/06/2023, 13:01",
+    "fechaIso": "2023-06-03T13:01:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Mmmm, no parecen muy contento... ¿Quizá deberíamos buscar otro lugar? ¿Sabéis que es este lugar alguno?",
+    "textoHtml": "<p><strong>Mmmm, no parecen muy contento... ¿Quizá deberíamos buscar otro lugar? ¿Sabéis que es este lugar alguno?</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20258099",
+    "messageId": "20258099",
+    "fecha": "03/06/2023, 17:24",
+    "fechaIso": "2023-06-03T17:24:00",
+    "autor": "Ganondorf",
+    "personaje": "Ganondorf",
+    "texto": "El enorme pelirojo se cruzo de brazos.\n\n-Estuve haciendo una investigacion por mi cuenta hace tiempo, no hay muhco sobre esta torre la verdad, al parecer, fue construida con magia, el golem que esta \"reparando\" me confirma que ese rumor es cierto. La torre claramente es anterior a la llegada de las diez naciones a estas tierras, con lo que seguramente la construyese un aborigen, o alguien que llego aqui por su cuenta, supongo que podrian haber restos de su magia en esta torre, ademas de lo evidente.\n\nComento señalando al golem\n\n-Tambien escuche que un granjero que tiene su granja cerca, ha sufrido robos de ganado, y no han dejado marcas, con lo que se rumoreaba que el ladron podria estar en esta torre.\n\nSuspiro algo preocupado\n\n-Lo ultimo, y mas preocupante es que hace poco se encontro un cuerpo cerca de la torre totalmente desangrado.\n\nDiria finalmente\n\n-Creo que podriamos quedarnos en la torre mientras llueve, solo estemos atentos y tratemos de no molestar a ese golem.",
+    "textoHtml": "<p>El enorme pelirojo se cruzo de brazos.</p>\n<p><strong>-Estuve haciendo una investigacion por mi cuenta hace tiempo, no hay muhco sobre esta torre la verdad, al parecer, fue construida con magia, el golem que esta \"reparando\" me confirma que ese rumor es cierto. La torre claramente es anterior a la llegada de las diez naciones a estas tierras, con lo que seguramente la construyese un aborigen, o alguien que llego aqui por su cuenta, supongo que podrian haber restos de su magia en esta torre, ademas de lo evidente.</strong>&nbsp;</p>\n<p>Comento señalando al golem</p>\n<p><strong>-Tambien escuche que un granjero que tiene su granja cerca, ha sufrido robos de ganado, y no han dejado marcas, con lo que se rumoreaba que el ladron podria estar en esta torre.</strong></p>\n<p>Suspiro algo preocupado</p>\n<p><strong>-Lo ultimo, y mas preocupante es que hace poco se encontro un cuerpo cerca de la torre totalmente desangrado.</strong></p>\n<p>Diria finalmente</p>\n<p><strong>-Creo que podriamos quedarnos en la torre mientras llueve, solo estemos atentos y tratemos de no molestar a ese golem.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20259044",
+    "messageId": "20259044",
+    "fecha": "04/06/2023, 14:39",
+    "fechaIso": "2023-06-04T14:39:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Me senté en un rincón con Saku y Tama intentando no hacer nada que molestará al Golem.\n\nEntonces mejor no hacer mucho ruido, aunque me dan un poco de mala espina esos rumores. ¿No será su maestro el culpable de estas cosas?",
+    "textoHtml": "<p>Me senté en un rincón con Saku y Tama intentando no hacer nada que molestará al Golem.</p>\n<p><strong>Entonces mejor no hacer mucho ruido, aunque me dan un poco de mala espina esos rumores. ¿No será su maestro el culpable de estas cosas?</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20259234",
+    "messageId": "20259234",
+    "fecha": "04/06/2023, 17:36",
+    "fechaIso": "2023-06-04T17:36:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Zelda suspiro mirando hacia la escalera.\n\n-Es muy posible que tenga que ver con esta torre, ¿Quizás un vampiro?, podríamos echar un vistazo, aunque me sabría mal que nos retrasásemos.\n\nComentaria mirando a Linkle.\n\n-P..por mi no os preocupeis... quiero decir, claro que tengo prisa, cada minuto cuenta, pero, entiendo que aqui tambien necesitaran ayuda.",
+    "textoHtml": "<p>Zelda suspiro mirando hacia la escalera.</p>\n<p><strong>-Es muy posible que tenga que ver con esta torre, ¿Quizás un vampiro?, podríamos echar un vistazo, aunque me sabría mal que nos retrasásemos.</strong></p>\n<p>Comentaria mirando a Linkle.</p>\n<p><strong>-P..por mi no os preocupeis... quiero decir, claro que tengo prisa, cada minuto cuenta, pero, entiendo que aqui tambien necesitaran ayuda.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20260155",
+    "messageId": "20260155",
+    "fecha": "05/06/2023, 09:46",
+    "fechaIso": "2023-06-05T09:46:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Espera... ¿Vampiro? ¿De verdad?\n\n​​​​​Este mundo no dejaba de sorprenderme.\n\nQuizá no perder todo el tiempo, pero quizá podamos echar un ojo mientras esperamos a que escampe, por no perder el tiempo y así tener información cuando vengamos después del pueblo.\n\nMe levanto de mi sitio dispuesta a investigar.",
+    "textoHtml": "<p><strong>Espera... ¿Vampiro? ¿De verdad?</strong></p>\n<p>​​​​​Este mundo no dejaba de sorprenderme.</p>\n<p><strong>Quizá no perder todo el tiempo, pero quizá podamos echar un ojo mientras esperamos a que escampe, por no perder el tiempo y así tener información cuando vengamos después del pueblo.</strong></p>\n<p>Me levanto de mi sitio dispuesta a investigar.&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20261765",
+    "messageId": "20261765",
+    "fecha": "06/06/2023, 06:19",
+    "fechaIso": "2023-06-06T06:19:00",
+    "autor": "Zelda",
+    "personaje": "Zelda",
+    "texto": "Zelda miraría la torre.\n\n-Bueno, no parece una torre muy alta, podríamos echar un vistazo rápido, además, mientras llueve, no podemos viajar.\n\nComentaría dándote la razón.\n\nAsi que ni cortos ni perezosos, comenzasteis a subir las escaleras.\n\n-Nooo, el amo, no subais o os matara.\n\nOs dijo el golem en una voz completamente monotona, mientras continuaba moviendo rocas de un lado para otro.\n\nNada mas cruzasteis el umbral de la puerta, pudisteis escuchar el deslizamiento de una baldosa.\n\n-Oh oh...\n\nDijo Ganondorf poniendose en guardia mientras se preparaba para lo que venia.",
+    "textoHtml": "<p>Zelda miraría la torre.</p>\n<p><strong>-Bueno, no parece una torre muy alta, podríamos echar un vistazo rápido, además, mientras llueve, no podemos viajar.</strong></p>\n<p>Comentaría dándote la razón.</p>\n<p>Asi que ni cortos ni perezosos, comenzasteis a subir las escaleras.</p>\n<p><strong>-Nooo, el amo, no subais o os matara.</strong></p>\n<p>Os dijo el golem en una voz completamente monotona, mientras continuaba moviendo rocas de un lado para otro.</p>\n<p>Nada mas cruzasteis el umbral de la puerta, pudisteis escuchar el deslizamiento de una baldosa.</p>\n<p><strong>-Oh&nbsp;oh...</strong></p>\n<p>Dijo Ganondorf poniendose en guardia mientras se preparaba para lo que venia.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20261968",
+    "messageId": "20261968",
+    "fecha": "06/06/2023, 10:33",
+    "fechaIso": "2023-06-06T10:33:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Empezamos a dirigirnos arriba cuando de repente se escuchó un click como en las películas de acción..\n\noh, oh, con rapidez me aleje de lo que fuera que hubiésemos desencaenado",
+    "textoHtml": "<p>Empezamos a dirigirnos arriba cuando de repente se escuchó un click como en las películas de acción..&nbsp;</p>\n<p><strong>oh, oh,&nbsp;</strong>con rapidez me aleje de lo que fuera que hubiésemos desencaenado</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20262811",
+    "messageId": "20262811",
+    "fecha": "06/06/2023, 20:04",
+    "fechaIso": "2023-06-06T20:04:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Visteis claramente una especie de onda expansiva magica, por suerte, todos estubisteis bastante agiles para esquivarlo de un salto.\n\nTras el estruendo aparecio un chico medio dormido de entre los escombros.\n\n-¿Quienes sois? Me habeis despertado de mi siesta, este es mi lugar para refugiarme de la lluvia.\n\nDijo oliendo el aire.\n\n-Mmmm, huelo a gato, no me gustan los gatos... grrrr....\n\nJunto a el, salio una especie de perro, aunque tu podias identificarlo como un Growlithe de Hisui.\n\nAlgo mas despierto te miro de arriba a abajo.\n\n-Tu, tu eres la que huele a gato, fuera de mi territorio...\n\nAñadiria para volver a oler el aire.\n\n-Tambien... hueles a Eveee... ¿Eres una entrenadora pokemon? aun no habia encontrado a ninguna... combate contra mi, Growlithe, espera que lance a su Eveee y vapulealo.\n\nLos otros se pusieron en postura de defensa sacando sus armas.\n\n-Oye, oye, eso no vale, esto es un combate pokemon, solo pueden combatir pokemons. Vosotros sois Zelda, Ganon y Link, algo extraño veros juntos por cierto, nunca me acostumbrare a los designios de quien fuera que hiciese este videojuego, vosotros no podeis combatir...\n\nDiria mientras mostraba su pantalla de sistema, mostrando que el tambien era un heroe.\n\n-No hice mucho caso, pero se que existen varias normas, sois NPCs despues de todo, no podermes hacer daño a no ser que os lo ordene quien os controla en este momento, creo en tu alma de entrenadora y confio en que no haras trampas.",
+    "textoHtml": "<p>Visteis claramente una especie de onda expansiva magica, por suerte, todos estubisteis bastante agiles para esquivarlo de un salto.</p>\n<p>Tras el estruendo aparecio un chico medio dormido de entre los escombros.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://i.pinimg.com/550x/70/c2/50/70c250847ad7309910b647c4ca9f72bd.jpg\" style=\"width:549px; height:577px\"></p>\n<p><strong>-¿Quienes sois? Me habeis despertado de mi siesta, este es mi lugar para refugiarme de la lluvia.</strong></p>\n<p>Dijo oliendo el aire.</p>\n<p><strong>-Mmmm, huelo a gato, no me gustan los gatos... grrrr....</strong></p>\n<p>Junto a el, salio una especie de perro, aunque tu podias identificarlo como un Growlithe de Hisui.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAOEzxDArerTIKsxZU_qe7FyILo8boVzz5A&amp;usqp=CAU\" style=\"width:226px; height:223px\"></p>\n<p>Algo mas despierto te miro de arriba a abajo.</p>\n<p><strong>-Tu, tu eres la que huele a gato, fuera de mi territorio...</strong></p>\n<p>Añadiria para volver a oler el aire.</p>\n<p><strong>-Tambien... hueles a Eveee... ¿Eres una entrenadora pokemon? aun no habia encontrado a ninguna... combate contra mi, Growlithe, espera que lance a su Eveee y vapulealo.</strong></p>\n<p>Los otros se pusieron en postura de defensa sacando sus armas.</p>\n<p><strong>-Oye, oye, eso no vale, esto es un combate pokemon, solo pueden combatir pokemons. Vosotros sois Zelda, Ganon y Link, algo extraño veros juntos por cierto, nunca me acostumbrare a los designios de quien fuera que hiciese este videojuego, vosotros no podeis combatir...</strong></p>\n<p>Diria mientras mostraba su pantalla de sistema, mostrando que el tambien era un heroe.</p>\n<p><strong>-No hice mucho caso, pero se que existen varias normas, sois NPCs despues de todo, no podermes hacer daño a no ser que os lo ordene quien os controla en este momento, creo en tu alma de entrenadora y confio en que no haras trampas.</strong></p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20263075",
+    "messageId": "20263075",
+    "fecha": "06/06/2023, 22:17",
+    "fechaIso": "2023-06-06T22:17:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Cuando salte para evitar la honda me coloque entre Saku y Tama para evitar que les diera nada. Cuando miramos y el polvo se disipó apareció un chico... Espera ¿Era como yo? También tenía rasgos animales y ¿Un growlote? Además de los nuevos, no eran mi forma favorita pero era un Pokémon que me encantaba, empecé a derribar gimnasios gracias a un par de growlites muy fuertes que tenía a parte de mi vaporeon, estaba deseando conseguir a speon y umbreon para el equipo. Iba a hablarle cuando empezó a meterse conmigo por el olor, ahora que lo dice es cierto que huele diferente al resto de la gente, huele un poco a perro mojado ahora mismo, quizá me pase lo mismo pero decirlo así sin más... Será idiota.\n\n¿Y tú qué? ¿Crees que hueles a rosas? Me llega el olor a perro mojado desde aquí. Y a no ser que seas el maestro de este tipo no creo que sea tu territorio tampoco.\n\nMe enfade aún más si cabía cuando se empezó a meter con mis compañeros.\n\nEy, no vuelvas a decir eso ellos pueden hacer lo que quieran. No los trates así. ¿Además quién te crees que eres? Ni siquiera una presentación ni nada, sabes que me da igual mejor lárgate tenemos cosas que investigar. No voy a pelear contigo y menos ahora.\n\nMe iba a dar la vuelta cuando vi la interfaz y me quedé blanca al entenderlo.\n\nEspera... ¿Eres un héroe también?",
+    "textoHtml": "<p>Cuando salte para evitar la honda me coloque entre Saku y Tama para evitar que les diera nada. Cuando miramos y el polvo se disipó apareció un chico... Espera ¿Era como yo? También tenía rasgos animales y ¿Un growlote? Además de los nuevos, no eran mi forma favorita pero era un Pokémon que me encantaba, empecé a derribar gimnasios gracias a un par de growlites muy fuertes que tenía a parte de mi vaporeon, estaba deseando conseguir a speon y umbreon para el equipo. Iba a hablarle cuando empezó a meterse conmigo por el olor, ahora que lo dice es cierto que huele diferente al resto de la gente, huele un poco a perro mojado ahora mismo, quizá me pase lo mismo pero decirlo así sin más... Será idiota.</p>\n<p><strong>¿Y tú qué? ¿Crees que hueles a rosas? Me llega el olor a perro mojado desde aquí. Y a no ser que seas el maestro de este tipo no creo que sea tu territorio tampoco.&nbsp;</strong></p>\n<p>Me enfade aún más si cabía cuando se empezó a meter con mis compañeros.&nbsp;</p>\n<p><strong>Ey, no vuelvas a decir eso ellos pueden hacer lo que quieran. No los trates así. ¿Además quién te crees que eres? Ni siquiera una presentación ni nada, sabes que me da igual mejor lárgate tenemos cosas que investigar. No voy a pelear contigo y menos ahora.</strong></p>\n<p>Me iba a dar la vuelta cuando vi la interfaz y me quedé blanca al entenderlo.</p>\n<p><strong>Espera... ¿Eres un héroe también?</strong></p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20265182",
+    "messageId": "20265182",
+    "fecha": "08/06/2023, 01:22",
+    "fechaIso": "2023-06-08T01:22:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El Heroe te miro algo enfadado.\n\n-Solo oigo bla,bla bla.... pufffff.... cuanto odiaba esos bloques de texto en los videojuegos, como si me importase algo mas que subir nivel y participar en los competitivos de pokemon, pero noooo, tenia que comerme toda la maldita historia para poder conseguir los metodos de crianza perfectos, total, por que no habian torneos interesantes de 3rd parties y para el competitivo solo podias jugar con los originales.\n\nComentaria molesto, para luego escuchar tu pregunta.\n\n-Claro que soy un Heroe, por eso puedo tener pokemons, bueno, asi me han querido llamar aqui, esta claro que lo que soy es un jugador en este juego de realidad virtual, en el que debo de haber acabado por ser uno de los mejores jugadores en competitivos y eso que me querian banear por mi vocabulario, total, solo eran unos bebes llorones...",
+    "textoHtml": "<p>El Heroe te miro algo enfadado.</p>\n<p><strong>-Solo oigo bla,bla bla.... pufffff.... cuanto odiaba esos bloques de texto en los videojuegos, como si me importase algo mas que subir nivel y participar en los competitivos de pokemon, pero noooo, tenia que comerme toda la maldita historia para poder conseguir los metodos de crianza perfectos, total, por que no habian torneos interesantes de 3rd parties y para el competitivo solo podias jugar con los originales.</strong></p>\n<p>Comentaria molesto, para luego escuchar tu pregunta.</p>\n<p><strong>-Claro que soy un Heroe, por eso puedo tener pokemons,&nbsp;bueno, asi me han querido llamar aqui, esta claro que lo que soy es un jugador en este juego de realidad virtual, en el que debo de haber acabado por ser uno de los mejores jugadores en competitivos y eso que me querian banear por mi vocabulario, total, solo eran unos bebes llorones...</strong></p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20265218",
+    "messageId": "20265218",
+    "fecha": "08/06/2023, 01:53",
+    "fechaIso": "2023-06-08T01:53:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Será fanfarrón, solo le importa fardar de sus logros y su juego. Seguro que era un niño rata de esos en mi mundo. Enfadada me giré a mis compañeros.\n\nPues si nos disculpas tenemos cosas que hacer aquí hay gente pasándolo mal. Esto no es un simple videojuego hay gente pasándolo mal. Luego si quieres te machaco pero primero quiero ayudar a los que me propuse gracias.",
+    "textoHtml": "<p>Será fanfarrón, solo le importa fardar de sus logros y su juego. Seguro que era un niño rata de esos en mi mundo. Enfadada me giré a mis compañeros.</p>\n<p><strong>Pues si nos disculpas tenemos cosas que hacer aquí hay gente pasándolo mal. Esto no es un simple videojuego hay gente pasándolo mal.&nbsp; Luego si quieres te machaco pero primero quiero ayudar a los que me propuse gracias.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20266927",
+    "messageId": "20266927",
+    "fecha": "09/06/2023, 07:45",
+    "fechaIso": "2023-06-09T07:45:00",
+    "autor": "Rouxgor",
+    "personaje": "Rouxgor",
+    "texto": "El chico comenzó a reírse.\n\n-Oh, así que eres de esas que se toma en serio los juegos y se mete en el papel.\n\nComentaría sin moverse del camino, para luego cruzarse de brazos.\n\n-Esta bien, pues yo me tomare en serio mi papel entonces, como en los juegos de pokémon, si quieres seguir avanzando, tendrás que derrotarme.\n\nTe diría seriamente mientras extendía el brazo.\n\n-Eso es, hare el papel de rival, esos tíos molestos que no te permitían avanzar en la historia si no los derrotabas.",
+    "textoHtml": "<p>El chico comenzó&nbsp;a reírse.</p>\n<p><strong>-Oh, así&nbsp;que eres de esas que se toma en serio los juegos y se mete en el papel.</strong></p>\n<p>Comentaría sin moverse del camino, para luego cruzarse de brazos.</p>\n<p><strong>-Esta bien, pues yo me tomare en serio mi papel entonces, como en los juegos de pokémon, si quieres seguir avanzando, tendrás que derrotarme.</strong></p>\n<p>Te diría seriamente mientras extendía el brazo.</p>\n<p><strong>-Eso es, hare el papel de rival, esos tíos molestos que no te permitían avanzar en la historia si no los derrotabas.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20267050",
+    "messageId": "20267050",
+    "fecha": "09/06/2023, 10:28",
+    "fechaIso": "2023-06-09T10:28:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Estaba cada vez más enfadada y erizada al pensar que se tomaba esta segunda oportunidad en broma, estaba muriendo gente y otros estaban pasándolo mal.\n\n¿Juego? A mí no me parece un juego, hemos sido traídos aquí para ayudar pero si quieres una lección claro por qué no.\n\nMIré a los demás aún un poco cabreada sobre todo por meterlos en esto.\n\nLo siento.... Oye tú, chico perro, por qué no les dejas a mis compañeros explorar por donde quieran y tú y yo peleamos mientras tanto. Un 1 a 1 ¿No?\n\n​​​​​​Mire hacia mis dos eevees pensando cuál elegir de los dos para el combate.",
+    "textoHtml": "<p>Estaba cada vez más enfadada y erizada al pensar que se tomaba esta segunda oportunidad en broma, estaba muriendo gente y otros estaban pasándolo mal.&nbsp;</p>\n<p><strong>¿Juego? A mí no me parece un juego, hemos sido traídos aquí para ayudar pero si quieres una lección claro por qué no.</strong></p>\n<p>MIré a los demás aún un poco cabreada sobre todo por meterlos en esto.</p>\n<p><strong>Lo siento.... Oye tú, chico perro, por qué no les dejas a mis compañeros explorar por donde quieran y tú y yo peleamos mientras tanto. Un 1 a 1 ¿No?</strong></p>\n<p><strong>​​​​​​</strong>Mire hacia mis dos eevees pensando cuál elegir de los dos para el combate.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20267093",
+    "messageId": "20267093",
+    "fecha": "09/06/2023, 11:07",
+    "fechaIso": "2023-06-09T11:07:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El joven pareció pensárselo, de por si, nadie solía poder pasar del evento cuando llegaba el rival, pero la verdad, es que se la traía al pairo, solo quería hacer al fin un combate pokémon, hasta ahora las cosas con las que se habia enfrentado carecian de gracia.\n\n-Esta bien, que pasen, mientras tanto, combatamos. Growlithe, te elijo a ti.",
+    "textoHtml": "<p style=\"text-align:center\">\n<iframe allow=\";\" allowfullscreen=\"\" frameborder=\"0\" height=\"50\" src=\"https://www.youtube.com/embed/z5s4VYC9xR4?rel=0\" width=\"640\"></iframe></p>\n<p>El joven pareció&nbsp;pensárselo, de por si, nadie solía poder pasar del evento cuando llegaba el rival, pero la verdad, es que se la traía al pairo, solo quería hacer al fin un combate pokémon, hasta ahora las cosas con las que se habia enfrentado carecian de gracia.</p>\n<p><strong>-Esta bien, que pasen, mientras tanto, combatamos. Growlithe, te elijo a ti.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20267228",
+    "messageId": "20267228",
+    "fecha": "09/06/2023, 13:42",
+    "fechaIso": "2023-06-09T13:42:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "suspiré con alivio al ver que había funcionado el plan, al menos ellos podrían ir adelantando.\n\nId investigando si queréis yo acabaré con esto y me reuniré con vosotros en cuanto pueda.\n\nMiré a mis dos Pokémon y sus estadísticas. Growlite es un Pokémon bastante físico así que el debería tener más fuerza al menos para contenerlo y dañarle más.\n\nTama ven aquí, te toca pelear.\n\n​​​​​",
+    "textoHtml": "<p>suspiré con alivio al ver que había funcionado el plan, al menos ellos podrían ir adelantando.</p>\n<p><strong>Id investigando si queréis yo acabaré con esto y me reuniré con vosotros en cuanto pueda.</strong></p>\n<p>Miré a mis dos Pokémon y sus estadísticas. Growlite es un Pokémon bastante físico así que el debería tener más fuerza al menos para contenerlo y dañarle más.&nbsp;</p>\n<p><strong>Tama ven aquí, te toca pelear.&nbsp;</strong></p>\n<p><strong>​​​​​</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=1",
+    "pagina": 1,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20267821",
+    "messageId": "20267821",
+    "fecha": "09/06/2023, 20:37",
+    "fechaIso": "2023-06-09T20:37:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "",
+    "textoHtml": "",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20267957",
+    "messageId": "20267957",
+    "fecha": "09/06/2023, 22:04",
+    "fechaIso": "2023-06-09T22:04:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "",
+    "textoHtml": "",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268143",
+    "messageId": "20268143",
+    "fecha": "09/06/2023, 23:54",
+    "fechaIso": "2023-06-09T23:54:00",
+    "autor": "SISTEMA",
+    "personaje": "SISTEMA",
+    "texto": "El combate comenzo, el pobre Evee, como no le gritaron su comando, no supo placar bien, con lo que no llego a golpear al Growlithe.\n\n-Ja, esto va ha ser mas facil de lo que esperaba, no creia que iba a luchar contra una novata. Growlithe, usa ascuas...\n\nEl Growlithe lanzo unas llamas que golpearon a Tama, restandole 4 puntos de daño... tecnicamente, tambien lo habian quemado, pero tampoco era cosa de cebarse... asi que el sistema lo ignoro",
+    "textoHtml": "<p style=\"text-align:center\"><img alt=\"\" src=\"https://media.discordapp.net/attachments/968856084150378566/1116847510179282974/image.png\" style=\"width:500px; height:450px\"></p>\n<p>El combate comenzo, el pobre Evee, como no le gritaron su comando, no supo placar bien, con lo que no llego a golpear al Growlithe.</p>\n<p><strong>-Ja, esto va ha ser mas facil de lo que esperaba, no creia que iba a luchar contra una novata. Growlithe, usa ascuas...</strong></p>\n<p>El Growlithe lanzo unas llamas que golpearon a Tama, restandole 4 puntos de daño... tecnicamente, tambien lo habian quemado, pero tampoco era cosa de cebarse... asi que el sistema lo ignoro</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268439",
+    "messageId": "20268439",
+    "fecha": "10/06/2023, 10:21",
+    "fechaIso": "2023-06-10T10:21:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Vi como le iban las ascuas a Tama, me tense pero al parecer fue un golpe.\n\nVenga nos toca, Tama utiliza placaje.",
+    "textoHtml": "<p>Vi como le iban las ascuas a Tama, me tense pero al parecer fue un golpe.&nbsp;</p>\n<p><strong>Venga nos toca, Tama utiliza placaje.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268498",
+    "messageId": "20268498",
+    "fecha": "10/06/2023, 11:16",
+    "fechaIso": "2023-06-10T11:16:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "TAMA USO PLACAJE...\nNO ES MUY EFECTIVO...\n\nGorou sonrió\n\n-Muy bien Growlithe, usa ascuas de nuevo.\n\nGROWLITHE USO ASCUAS\nTAMA A CAIDO DEBILITADO\n\n-LO HAS HECHO GENIAL PEQUEÑO\n\nLe grito contento mientras esperaba que sacases a tu próximo pokemon.",
+    "textoHtml": "<blockquote><p style=\"text-align:center\"><b>TAMA USO PLACAJE...</b></p>\n<p style=\"text-align:center\"><b>NO ES MUY EFECTIVO...</b></p>\n</blockquote>\n<p>Gorou sonrió</p>\n<p><strong>-Muy bien Growlithe, usa&nbsp;ascuas de nuevo.</strong>&nbsp;</p>\n<blockquote><p style=\"text-align:center\"><strong>GROWLITHE USO ASCUAS</strong></p>\n<p style=\"text-align:center\"><strong>TAMA A CAIDO DEBILITADO</strong></p>\n</blockquote>\n<p><strong>-LO HAS HECHO GENIAL PEQUEÑO</strong></p>\n<p>Le grito contento&nbsp;mientras esperaba que sacases a tu próximo pokemon.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268572",
+    "messageId": "20268572",
+    "fecha": "10/06/2023, 12:36",
+    "fechaIso": "2023-06-10T12:36:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Mierda.\n\nCorrí a ver si Tama estaba bien, lo recogí del sueño y lo lleve conmigo.\n\nHas hecho buen trabajo pequeño es hora de descansar. Saku te toca. Usa placaje contra el.",
+    "textoHtml": "<p><em>Mierda.&nbsp;</em></p>\n<p>Corrí a ver si Tama estaba bien, lo recogí del sueño y lo lleve conmigo.&nbsp;</p>\n<p><strong>Has hecho buen trabajo pequeño es hora de descansar. Saku te toca. Usa placaje contra el.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268598",
+    "messageId": "20268598",
+    "fecha": "10/06/2023, 13:12",
+    "fechaIso": "2023-06-10T13:12:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Saku uso placaje\nEl movimiento a fallado\n\nGonriu animo a su Growlithe\n\n-Muy bien, Growlithe, ahora usa ascuas\n\nGrowlithe uso Ascuas\nEl movimiento a fallado\n\n-No pasa nada pequeño, animo, ha sido algo mas rapido.\n\nLe diria el entrenador a su mascota, sin perder la paciencia.",
+    "textoHtml": "<blockquote><p style=\"text-align:center\"><strong>Saku uso placaje</strong></p>\n<p style=\"text-align:center\"><b>El movimiento a fallado</b></p>\n</blockquote>\n<p>Gonriu animo a su Growlithe</p>\n<p><strong>-Muy bien, Growlithe, ahora usa ascuas</strong></p>\n<blockquote><p style=\"text-align:center\"><strong>Growlithe uso Ascuas</strong></p>\n<p style=\"text-align:center\"><strong>El movimiento a fallado</strong></p>\n</blockquote>\n<p><strong>-No pasa nada pequeño, animo, ha sido algo mas rapido.</strong></p>\n<p>Le diria el entrenador a su mascota, sin perder la paciencia.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268623",
+    "messageId": "20268623",
+    "fecha": "10/06/2023, 13:53",
+    "fechaIso": "2023-06-10T13:53:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Bien esquivado pequeña, sigamos así placaje y luego esquivar.",
+    "textoHtml": "<p><strong>Bien esquivado pequeña,&nbsp; sigamos así placaje y luego esquivar.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20268722",
+    "messageId": "20268722",
+    "fecha": "10/06/2023, 16:16",
+    "fechaIso": "2023-06-10T16:16:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "EL entrenador parecía estar disfrutando del combate.\n\n-Je, esto es bastante divertido, hasta ahora nos enfrentabamos a algunos monstruos, pero ellos no respetan las reglas de los combates pokemon, asi que era bastante agobiante, intentaban atacarme a mi y cosas asi, tenian muy poco estilo.\n\nSaku uso placaje\nEl movimiento a fallado\n\nGonriu levanto el puño en gesto de animo\n\n-Muy bien, esa es mi chica, ahora usa ascuas de nuevo.\n\nGrowlithe uso Ascuas\n5 HP de daño\n\n-Muy buena pequeña sigue asi.\n\nDijo con una sonrisa de oreja a oreja.",
+    "textoHtml": "<p>EL entrenador parecía estar disfrutando del combate.</p>\n<p><strong>-Je, esto es bastante divertido, hasta ahora nos enfrentabamos a algunos monstruos, pero ellos no respetan las reglas de los combates pokemon, asi que era bastante agobiante, intentaban atacarme a mi y cosas asi, tenian muy poco estilo.</strong></p>\n<blockquote><p style=\"text-align:center\"><strong>Saku uso placaje</strong></p>\n<p style=\"text-align:center\"><b>El movimiento a fallado</b></p>\n</blockquote>\n<p>Gonriu levanto el puño en gesto de animo</p>\n<p><strong>-Muy bien, esa es mi chica,&nbsp;ahora usa ascuas de nuevo.</strong></p>\n<blockquote><p style=\"text-align:center\"><strong>Growlithe uso Ascuas</strong></p>\n<p style=\"text-align:center\"><strong>5 HP de daño</strong></p>\n</blockquote>\n<p><strong>-Muy buena pequeña sigue asi.</strong></p>\n<p>Dijo con una sonrisa de oreja a oreja.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20269592",
+    "messageId": "20269592",
+    "fecha": "11/06/2023, 10:53",
+    "fechaIso": "2023-06-11T10:53:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "ugh, mierda, ¿Sakura estás bien? Aguanta, otra vez placaje y esquivar de nuevo.",
+    "textoHtml": "<p><strong>ugh, mierda, ¿Sakura estás bien? Aguanta, otra vez placaje y esquivar de nuevo.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20269765",
+    "messageId": "20269765",
+    "fecha": "11/06/2023, 14:51",
+    "fechaIso": "2023-06-11T14:51:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "SAKU USO PLACAJE...\nNO ES MUY EFECTIVO...\n\nEl entrenador al ver que golpeaste a su pokemon se preocupo, pues parecia bastante debilitado\n\n-¿Estas bien pequeña? Supongo que no te ha hecho mucho, pero ya llevas aguantando dos pokemons, es normal que estes cansada, aun asi, intenta no decaer, vuelve a usar ascuas.\n\nLe diria animando a su Growlithe\n\nGROWLITHE USO ASCUAS\nSAKU A CAIDO DEBILITADO\n\nSakura cayo con el ultimo ataque de Growlithe\n\n-Oh, que pena, pero has estado muy muy cerca, la verdad, a estado muy bien el combate, espero que nos volvamos a ver, eres una rival prometedora, teniendo en cuenta que tenia ventaja por tipo, casi debilitas a mi Growlithe aun asi, muy bien hecho.\n\nEl joven echaría una mano a su mochila y te dio dos sprays, podias reconocerlos como pociones de pokemon.\n\n-Toma, usalas para curar a tus pokemon, yo me voy, este combate me ha devuelto las ganas de seguir esforzandome.\n\n- ATENCION-\nINFORMACION SOBRE GOROU ADQUIRIDA\n¿QUIERES AÑADIRLA AL CONOCIMIENTO GENERAL DE LOS HEROES?\nSI NO",
+    "textoHtml": "<blockquote><p style=\"text-align:center\"><b>SAKU USO PLACAJE...</b></p>\n<p style=\"text-align:center\"><b>NO ES MUY EFECTIVO...</b></p>\n</blockquote>\n<p>El entrenador al ver que golpeaste a su pokemon se preocupo, pues parecia bastante debilitado</p>\n<p><strong>-¿Estas bien pequeña? Supongo que no te ha hecho mucho, pero ya llevas aguantando dos pokemons, es normal que estes cansada, aun asi, intenta no decaer, vuelve a usar ascuas.</strong></p>\n<p>Le diria animando a su Growlithe</p>\n<blockquote><p style=\"text-align:center\"><strong>GROWLITHE USO ASCUAS</strong></p>\n<p style=\"text-align:center\"><strong>SAKU A CAIDO DEBILITADO</strong></p>\n</blockquote>\n<p>Sakura cayo con el ultimo ataque de Growlithe</p>\n<p><strong>-Oh, que pena, pero has estado muy muy cerca, la verdad, a estado muy bien el combate, espero que nos volvamos a ver, eres una rival prometedora, teniendo en cuenta que tenia ventaja por tipo, casi debilitas a mi Growlithe aun asi, muy bien hecho.</strong></p>\n<p>El joven echaría una mano a su mochila y te dio dos sprays, podias reconocerlos como pociones de pokemon.</p>\n<p><strong>-Toma, usalas para curar a tus pokemon, yo me voy, este combate me ha devuelto las ganas de seguir esforzandome.</strong></p>\n<blockquote><p style=\"text-align:center\"><strong>- ATENCION-&nbsp;</strong></p>\n<p style=\"text-align:center\"><strong>INFORMACION SOBRE GOROU ADQUIRIDA</strong></p>\n<p style=\"text-align:center\"><strong>¿QUIERES AÑADIRLA AL CONOCIMIENTO GENERAL DE LOS HEROES?</strong></p>\n<p style=\"text-align:center\"><strong>SI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NO</strong></p>\n</blockquote>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20270032",
+    "messageId": "20270032",
+    "fecha": "11/06/2023, 17:50",
+    "fechaIso": "2023-06-11T17:50:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Corrí a saku y la abracé igual que a Tama. Iba a gritarle cuando me alabo y me dio las pociones. No lo pensé mucho y empecé a curarlos.\n\nGr-gracias... Espera ¿Por qué me ayudas? No es que no lo agracedca pero... No lo esperaba supongo. Espera, ¿Eres como yo? ¿Cuánto tiempo llevas en este mundo? Podrías hecharnos una mano.",
+    "textoHtml": "<p>Corrí a saku y la abracé igual que a Tama. Iba a gritarle cuando me alabo y me dio las pociones. No lo pensé mucho y empecé a curarlos.</p>\n<p><strong>Gr-gracias... Espera ¿Por qué me ayudas? No es que no lo agracedca pero... No lo esperaba supongo. Espera, ¿Eres como yo? ¿Cuánto tiempo llevas en este mundo? Podrías hecharnos una mano.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20270837",
+    "messageId": "20270837",
+    "fecha": "12/06/2023, 02:29",
+    "fechaIso": "2023-06-12T02:29:00",
+    "autor": "Rouxgor",
+    "personaje": "Rouxgor",
+    "texto": "El joven ya se estaba marchando cuando lo enterraste en preguntas.\n\n-Na, como tu no, soy un poco mejor, aunque con un poco de suerte eso cambie pronto. Si lo que preguntas es si no soy un NPC y pertenezco al mundo real, si, asi es, no se quien me metio en esta maquina de realidad virtual, pero no hay manera de salir de ella, asi que me canse y me puse a viajar, no se cuanto tiempo hace de eso ya la verdad, no llevo la cuenta, solo espero qeu alguien me desconecte en algun momento, esta guay eso de viajar con un pokemon, soy fan de la saga desde que salio rojo alla por el 99, aunque ya lo jugaba en un emulador desde un cibercafe, en casa tarde un poco mas en tener ordenador de sobremesa.\n\nBuenos tiempos, pero no me puedo quedar mas, tengo que ir a currar, si no me van a despedir, espero que al menos el tiempo pase distinto, si no, estoy requetedespedido.\n\nComentaria, antes de despedirse con la mano.\n\n-Lo siento, pero como te dije, no soy muy fan del modo historia, siempre lo he intentado pasar lo mas rapido posible, pero aqui no indican mucho, ademas, que clase de Rival seria si me dedicase ayudarte de buenas a primeras, que es esto ¿Pokemon Escarlata y Purpura?\n\nAñadiria antes de comenzar a bajar las escaleras.\n\n-Vamos Growlithe, vamos a ver si consigo que subas de nivel.",
+    "textoHtml": "<p>El joven ya se estaba marchando cuando lo enterraste en preguntas.</p>\n<p><strong>-Na, como tu no, soy un poco mejor, aunque con un poco de suerte eso cambie pronto. Si lo que preguntas es si no soy un NPC y pertenezco al mundo real, si, asi es, no se quien me metio en esta maquina de realidad virtual, pero no hay manera de salir de ella, asi que me canse y me puse a viajar, no se cuanto tiempo hace de eso ya la verdad, no llevo la cuenta, solo espero qeu alguien me desconecte en algun momento, esta guay eso de viajar con un pokemon, soy fan de la saga desde que salio rojo alla por el 99, aunque ya lo jugaba en un emulador desde un cibercafe, en casa tarde un poco mas en tener ordenador de sobremesa. </strong></p>\n<p><strong>Buenos tiempos, pero no me puedo quedar mas, tengo que ir a currar, si no me van a despedir, espero que al menos el tiempo pase distinto, si no, estoy requetedespedido.</strong></p>\n<p>Comentaria, antes de despedirse con la mano.</p>\n<p><strong>-Lo siento, pero como te dije, no soy muy fan del modo historia, siempre lo he intentado pasar lo mas rapido posible, pero aqui no indican mucho, ademas, que clase de Rival seria si me dedicase ayudarte de buenas a primeras, que es esto ¿Pokemon Escarlata y Purpura?</strong></p>\n<p>Añadiria antes de comenzar a bajar las escaleras.</p>\n<p><strong>-Vamos Growlithe, vamos a ver si consigo que subas de nivel.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20271633",
+    "messageId": "20271633",
+    "fecha": "12/06/2023, 16:13",
+    "fechaIso": "2023-06-12T16:13:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Bueno me dio más información de la que pensé que me daría. Aunque... Conectados a una máquina... No creo que sea eso lo que nos pasó, no con mis últimos recuerdos...\n\nMire al chico irse corriendo, mientras me dirijo hacia dónde están los demás, a ver si están ahí aún.",
+    "textoHtml": "<p><em>Bueno me dio más información de la que pensé que me daría. Aunque... Conectados a una máquina... No creo que sea eso lo que nos pasó, no con mis últimos recuerdos...</em></p>\n<p>Mire al chico irse corriendo, mientras me dirijo hacia dónde están los demás, a ver si están ahí aún.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20272616",
+    "messageId": "20272616",
+    "fecha": "13/06/2023, 01:08",
+    "fechaIso": "2023-06-13T01:08:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Cuando subiste las escaleras al siguel nivel de la torre, Zelda y los demas estaban esperandote. Al parecer, habia un rastrillo que impedia el paso de cualquier humano, aunque no de criaturas pequeñas.\n\nAl otro lado se podia ver una palanca, cuando llegaste link se encontraba con varios palos largos que habia coseguido enlazar intentando pulsar la palanca con el.\n\n-No, no, tienes que moverlo mas arriba, necesitas usar mas fuerza para poder golpear la palanca.\n\nLe indicaba Zelda, Link puso los ojos en blanco un momento, al parecer, sabia lo que estaba intentando hacer, y las indicaciones le sobraban.",
+    "textoHtml": "<p>Cuando subiste las escaleras al siguel nivel de la torre, Zelda y los demas estaban esperandote. Al parecer, habia un rastrillo que impedia el paso de cualquier humano, aunque no de criaturas pequeñas.</p>\n<p>Al otro lado se podia ver una palanca, cuando llegaste link se encontraba con varios palos largos que habia coseguido enlazar intentando pulsar la palanca con el.</p>\n<p><strong>-No, no, tienes que moverlo mas arriba, necesitas usar mas fuerza para poder golpear la palanca.</strong></p>\n<p>Le indicaba Zelda, Link puso los ojos en blanco un momento, al parecer, sabia lo que estaba intentando hacer, y las indicaciones le sobraban.</p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20272880",
+    "messageId": "20272880",
+    "fecha": "13/06/2023, 06:41",
+    "fechaIso": "2023-06-13T06:41:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Subí para ver que parecían tener un poco de problemas, cuando entendía lo que hacían me agaché y le indique a Saku que ayudará. La vi dar trotecitos hacia allí, aún me sentí mal por la pelea pero al menos están curados.\n\nMe puse detrás de los demás.\n\ncreo que será más fácil que lo haga ella. ¿Habéis logrado algo?",
+    "textoHtml": "<p>Subí para ver que parecían tener un poco de problemas, cuando entendía lo que hacían me agaché y le indique a Saku que ayudará. La vi dar trotecitos hacia allí, aún me sentí mal por la pelea pero al menos están curados.</p>\n<p>Me puse detrás de los demás.</p>\n<p><strong>creo que será más fácil que lo haga ella. ¿Habéis logrado algo?</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20272898",
+    "messageId": "20272898",
+    "fecha": "13/06/2023, 06:54",
+    "fechaIso": "2023-06-13T06:54:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Saku afirmo con su cabecita y se esforzo para pasar entre los barrotes.\n\nA saltitos llego a la palanca e intento bajarla, lo que le costo un par de intentos, asta que consigio engancharla con la boca y bajarla haciendo fuerza con su peso.\n\nAl pasar podeis notar que el suelo del piso es bastante irregular, y que da la impresion de que en cualquier momento se desmoronara, oia como crujia y gemia a cada paso que dabais, de repente, Zelda os paro cogiendoos del cuello de la ropa e hizo un gesto de que mantuvierais silencio poniendose un dedo en el labio.\n\nSeñalaria con el dedo entonces arriba, donde una especie de insecto mosntruoso estaba durmiendo.\n\n Prueba de Sigilo o Acrobacias, CD 10, para cruzar sin alertar al Stirge anidado arriba",
+    "textoHtml": "<p>Saku afirmo con su cabecita y se esforzo para pasar entre los barrotes.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://list25.com/wp-content/uploads/2018/09/Chubbycat.gif\" style=\"width:332px; height:263px\"></p>\n<p>A saltitos llego a la palanca e intento bajarla, lo que le costo un par de intentos, asta que consigio engancharla con la boca y bajarla haciendo fuerza con su peso.</p>\n<p>Al pasar podeis notar que el suelo del piso es bastante irregular, y que da la impresion de que en cualquier momento se desmoronara, oia como crujia y gemia a cada paso que dabais, de repente, Zelda os paro cogiendoos del cuello de la ropa e hizo un gesto de que mantuvierais silencio poniendose un dedo en el labio.&nbsp;</p>\n<p>Señalaria con el dedo entonces arriba, donde una especie de insecto mosntruoso estaba durmiendo.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"https://cdn.discordapp.com/attachments/359327459889643520/1118045117127860324/img-BmyXe9sMCsUkFIUsN7ufZ.png\" style=\"width:400px; height:400px\"></p>\n<p>&nbsp;Prueba de Sigilo o Acrobacias, CD 10, para cruzar sin alertar al Stirge anidado arriba</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20275639",
+    "messageId": "20275639",
+    "fecha": "14/06/2023, 18:05",
+    "fechaIso": "2023-06-14T18:05:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Bien pequeña.\n\nle acaricié la cabeza cuando volvió mientras está se sacudía para quitarse el polvo.\n\nEmpezamos a andar cuando Zelda nos paro en seco y nos señaló al bichejo. ¿Qué rayos es eso? Los mire un poco asustada pero trate de seguirlos lo más silenciosamente posible. También hice que Tama y saku tratarán de hacer menos ruido al andar.",
+    "textoHtml": "<p><strong>Bien pequeña.&nbsp;</strong></p>\n<p>le acaricié la cabeza cuando volvió mientras está se sacudía para quitarse el polvo.&nbsp;</p>\n<p>Empezamos a andar cuando Zelda nos paro en seco y nos señaló al bichejo. ¿Qué rayos es eso? Los mire un poco asustada pero trate de seguirlos lo más silenciosamente posible. También hice que Tama y saku tratarán de hacer menos ruido al andar.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20276823",
+    "messageId": "20276823",
+    "fecha": "15/06/2023, 08:45",
+    "fechaIso": "2023-06-15T08:45:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Por suerte para todos, los pokemons eran muy pequeños como para que hiciesen ruido caminando por las baldosas, así que pudieron pasar la estancia sin despertar a lo que fuese el mosquito gigante ese de ahí arriba.\n\nLo que viste helaría la sangre al mas pintado, quizás a Link, Zelda y Ganondorf no, pues estaban acostumbrado a ese tipo de situaciones, pero aun asi, podias ver en sus ojos que la situacion les desagradaba.\n\nEn el centro de la habitación yacen los cuerpos hinchados de dos chicos. Las criaturas de alrededor, similares a la criatura del piso de abajo parecen estar alimentándose de su sangre, y los chicos se han convertido en algo no muerto y horrible. Mientras se mueven para atacar, una criatura gorda y empapada de sangre con una barriga protuberante se sienta en el suelo: la Reina de las criaturas, que está poniendo sus huevos en los chicos.",
+    "textoHtml": "<p>Por suerte para todos, los pokemons eran muy pequeños como para que hiciesen ruido caminando por las baldosas, así&nbsp;que pudieron pasar la estancia sin despertar a lo que fuese el mosquito gigante ese de ahí&nbsp;arriba.</p>\n<p style=\"text-align:center\">\n<iframe allow=\";\" allowfullscreen=\"\" frameborder=\"0\" height=\"50\" src=\"https://www.youtube.com/embed/0zLDAHkPxpc?rel=0\" width=\"640\"></iframe></p>\n<p>Lo que viste helaría la sangre al mas pintado, quizás a Link, Zelda y Ganondorf no, pues estaban acostumbrado a ese tipo de situaciones, pero aun asi, podias ver en sus ojos que la situacion les desagradaba.</p>\n<p>En el centro de la habitación yacen los cuerpos hinchados de dos chicos. Las criaturas de&nbsp;alrededor, similares a la criatura del piso de abajo&nbsp;parecen estar alimentándose de&nbsp;su&nbsp;sangre, y los chicos se han convertido en algo no muerto y horrible. Mientras se mueven para atacar, una criatura gorda&nbsp;y empapada&nbsp;de sangre con una barriga protuberante se sienta en el suelo: la Reina de las criaturas, que está poniendo sus huevos en los chicos.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20278523",
+    "messageId": "20278523",
+    "fecha": "16/06/2023, 06:16",
+    "fechaIso": "2023-06-16T06:16:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Afortunadamente pasamos sin hacer nada de ruido. Y evitamos a la criatura. Al seguir avanzando llegamos a la siguiente sala donde me tuve que llevar las manos a la boca para no gritar de terror y asco. ¿Que demonios?\n\nMe quedé paralizada sin sabes muy bien que hacer con esos bichos esperando a ver qué harían los demás. No conocía este mundo y no conocía esas criaturas.",
+    "textoHtml": "<p>Afortunadamente pasamos sin hacer nada de ruido. Y evitamos a la criatura. Al seguir avanzando llegamos a la siguiente sala donde me tuve que llevar las manos a la boca para no gritar de terror y asco.&nbsp;<em>¿Que demonios?&nbsp;</em></p>\n<p>Me quedé paralizada sin sabes muy bien que hacer con esos bichos esperando a ver qué harían los demás.&nbsp; No conocía este mundo y no conocía esas criaturas.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2",
+    "pagina": 2,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20278566",
+    "messageId": "20278566",
+    "fecha": "16/06/2023, 08:05",
+    "fechaIso": "2023-06-16T08:05:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Los otros tras reponerse empuñarian sus armas.\n\nLink un arco, Zelda una espada y un escudo y Ganon sus propios puños.\n\n-Al final no era algo tan noble como un vampiro, si no mosquitos gigantes, en fin, acabemos con ellos y con los pobres chicos.\n\nComentaria Zelda mientras los apuntaba con su estoque.",
+    "textoHtml": "<p>Los otros tras reponerse empuñarian sus armas.</p>\n<p>Link un arco, Zelda una espada y un escudo y Ganon sus propios puños.</p>\n<p><strong>-Al final no era algo tan noble como un vampiro, si no mosquitos gigantes, en fin, acabemos con ellos y con los pobres chicos.</strong></p>\n<p>Comentaria Zelda mientras los apuntaba con su estoque.</p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20278576",
+    "messageId": "20278576",
+    "fecha": "16/06/2023, 08:31",
+    "fechaIso": "2023-06-16T08:31:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Stirge Queen\n\nChange RaceBullywugDoppelgangerGoblinGrimlockKenkuKoboldKuo-toaLizardfolkMerfolkOrcSahuaginTroglodyteTroll; ?> Change CR01/81/41/2123456789101112131415161718192021222324252627282930\n\nLarge Beast, Chaotic Evil\n\n Compress\n\nArmor Class 14\n\n+/-/*\n\nHit Points 1 (1d10-4)\n\nSpeed 40 ft.\n\nSTR\n\n12 (+1)\n\nDEX\n\n18 (+4)\n\nCON\n\n15 (+2)\n\nINT\n\n6 (-2)\n\nWIS\n\n8 (-1)\n\nCHA\n\n4 (-3)\n\nDamage Immunities poison\n\nCondition Immunities blinded\n\nSenses blindsight 30 ft. (blind beyond this radius), passive Perception 5\n\nLanguages -\n\nPB +2\n\nChallenge 1/2 (100 XP)\n\nMulti Attack. This creature makes two attacks on its turn. One Claw and one Blood Drain attack.\n\nClaw. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4+4) bludgeoning damage, on a hit the target must make a dex save of 15 or be knocked prone. The Stirge Queen has advantage on the blood drain attack\n\nBlood Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4+3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn&#039;t attack. Instead, at the start of each of the stirge&#039;s turns, the target loses 6 (1d6+3) hit points due to blood loss.\n\nThe stirge can detach itself by spending 5 feet of its movement. It only detaches if it is struck by another creature or exsanguinates the target\n\nArmor Class 13 (natural armor)\n\n+/-/*\n\nHit Points 1 (1d4-1)\n\nSpeed 10 ft., fly 40 ft.\n\nSTR\n\n4 (-3)\n\nDEX\n\n16 (+3)\n\nCON\n\n11 (+0)\n\nINT\n\n2 (-4)\n\nWIS\n\n8 (-1)\n\nCHA\n\n6 (-2)\n\nSenses darkvision 60 ft., passive Perception 9\n\nLanguages\n\nPB +2\n\nChallenge 0 (10 XP)\n\nActions\n\nBlood Drain. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 3 (1d4+1) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn&#039;t attack. Instead, at the start of each of the stirge&#039;s turns, the target loses 3 (1d4+1) hit points due to blood loss.\n\nThe stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.\n\nZombie\n\nChange RaceBullywugDoppelgangerGoblinGrimlockKenkuKoboldKuo-toaLizardfolkMerfolkOrcSahuaginTroglodyteTroll; ?> Change CR01/81/41/2123456789101112131415161718192021222324252627282930\n\nMedium Undead, Neutral Evil\n\n Compress\n\nArmor Class 12\n\n+/-/*\n\nHit Points 1 (1d8-3)\n\nSpeed 20 ft.\n\nSTR\n\n13 (+1)\n\nDEX\n\n6 (-2)\n\nCON\n\n16 (+3)\n\nINT\n\n3 (-4)\n\nWIS\n\n6 (-2)\n\nCHA\n\n5 (-3)\n\nSaving Throws wis +0\n\nDamage Immunities poison\n\nCondition Immunities poisoned\n\nSenses Darkvision 60 Ft., passive Perception 8\n\nLanguages Understands All Languages It Spoke In Life But Can&#039;t Speak\n\nPB +2\n\nChallenge 0 (10 XP)\n\nUndead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+    "textoHtml": "<h1>Stirge Queen</h1>\n<p>Change RaceBullywugDoppelgangerGoblinGrimlockKenkuKoboldKuo-toaLizardfolkMerfolkOrcSahuaginTroglodyteTroll; ?&gt;&nbsp;&nbsp;Change CR01/81/41/2123456789101112131415161718192021222324252627282930&nbsp;&nbsp;&nbsp;</p>\n<p>Large Beast, Chaotic Evil</p>\n<hr>\n<p>&nbsp;Compress</p>\n<p><strong>Armor Class</strong>&nbsp;14</p>\n<p>+/-/*</p>\n<p><strong>Hit Points</strong>&nbsp;1 (<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">1d10-4</a>)</p>\n<p><strong>Speed</strong>&nbsp;40 ft.</p>\n<hr>\n<p>STR<br>\n12&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+1</a>)</p>\n<p>DEX<br>\n18&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+4</a>)</p>\n<p>&nbsp;</p>\n<p>CON<br>\n15&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+2</a>)</p>\n<p>&nbsp;</p>\n<p>INT<br>\n6&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-2</a>)</p>\n<p>&nbsp;</p>\n<p>WIS<br>\n8&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-1</a>)</p>\n<p>&nbsp;</p>\n<p>CHA<br>\n4&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-3</a>)</p>\n<hr>\n<p><a href=\"https://www.kassoon.com/dnd/monster-stat-block/515/stirge-queen/\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.kassoon.com/dnd/monster-stat-block/515/stirge-queen/\"></a></p>\n<p><strong>Damage Immunities</strong>&nbsp;poison</p>\n<p><strong>Condition Immunities</strong>&nbsp;blinded</p>\n<p><strong>Senses</strong>&nbsp;blindsight&nbsp;30 ft. (blind&nbsp;beyond this radius), passive&nbsp;Perception&nbsp;5</p>\n<p><strong>Languages</strong>&nbsp;-</p>\n<p><strong>PB</strong>&nbsp;+2</p>\n<p><strong>Challenge</strong>&nbsp;1/2 (100 XP)</p>\n<hr>\n<p><b>Multi Attack.</b>&nbsp;This creature makes two attacks on its turn. One Claw and one Blood Drain attack.<br>\n<b>Claw.&nbsp;</b>Melee Weapon Attack:&nbsp;<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+5</a>&nbsp;to hit, reach 5 ft., one creature. Hit: 8 (<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">2d4+4</a>) bludgeoning damage, on a hit the target must make a dex save of 15 or be knocked&nbsp;prone. The Stirge Queen has&nbsp;advantage&nbsp;on the blood drain attack<br>\n<b>Blood Drain.</b>&nbsp;Melee Weapon Attack:&nbsp;<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+5</a>&nbsp;to hit, reach 5 ft., one creature. Hit: 5 (<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">1d4+3</a>) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn&amp;#039;t attack. Instead, at the start of each of the stirge&amp;#039;s turns, the target loses 6 (<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">1d6+3</a>) hit points due to blood loss.</p>\n<p>The stirge can detach itself by spending 5 feet of its movement. It only detaches if it is struck by another creature or exsanguinates the target</p>\n<hr>\n<p>&nbsp;</p>\n<p><strong>Armor Class</strong>&nbsp;13 (natural armor)</p>\n<p>+/-/*</p>\n<p><strong>Hit Points</strong>&nbsp;1 (<a href=\"void(0);\" rel=\"nofollow\">1d4-1</a>)</p>\n<p><strong>Speed</strong>&nbsp;10 ft., fly 40 ft.</p>\n<hr>\n<p>STR<br>\n4&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">-3</a>)</p>\n<p>&nbsp;</p>\n<p>DEX<br>\n16&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">+3</a>)</p>\n<p>&nbsp;</p>\n<p>CON<br>\n11&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">+0</a>)</p>\n<p>&nbsp;</p>\n<p>INT<br>\n2&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">-4</a>)</p>\n<p>&nbsp;</p>\n<p>WIS<br>\n8&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">-1</a>)</p>\n<p>&nbsp;</p>\n<p>CHA<br>\n6&nbsp;(<a href=\"void(0);\" rel=\"nofollow\">-2</a>)</p>\n<hr>\n<p><a href=\"https://www.kassoon.com/dnd/monster-stat-block/873/stirge/\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.kassoon.com/dnd/monster-stat-block/873/stirge/\"></a></p>\n<p><strong>Senses</strong>&nbsp;darkvision&nbsp;60 ft., passive&nbsp;Perception&nbsp;9</p>\n<p><strong>Languages</strong></p>\n<p><strong>PB</strong>&nbsp;+2</p>\n<p><strong>Challenge</strong>&nbsp;0 (10 XP)</p>\n<hr>\n<p>&nbsp;</p>\n<h2>Actions</h2>\n<p><b>Blood Drain.</b>&nbsp;Melee Weapon Attack:&nbsp;<a href=\"void(0);\" rel=\"nofollow\">+4</a>&nbsp;to hit, reach 5 ft., one creature. Hit: 3 (<a href=\"void(0);\" rel=\"nofollow\">1d4+1</a>) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn&amp;#039;t attack. Instead, at the start of each of the stirge&amp;#039;s turns, the target loses 3 (<a href=\"void(0);\" rel=\"nofollow\">1d4+1</a>) hit points due to blood loss.</p>\n<p>The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.</p>\n<h1>Zombie</h1>\n<p>Change RaceBullywugDoppelgangerGoblinGrimlockKenkuKoboldKuo-toaLizardfolkMerfolkOrcSahuaginTroglodyteTroll; ?&gt;&nbsp;&nbsp;Change CR01/81/41/2123456789101112131415161718192021222324252627282930&nbsp;&nbsp;&nbsp;</p>\n<p>Medium Undead, Neutral Evil</p>\n<hr>\n<p>&nbsp;Compress</p>\n<p><strong>Armor Class</strong>&nbsp;12</p>\n<p>+/-/*</p>\n<p><strong>Hit Points</strong>&nbsp;1 (<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">1d8-3</a>)</p>\n<p><strong>Speed</strong>&nbsp;20 ft.</p>\n<hr>\n<p>STR<br>\n13&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+1</a>)</p>\n<p>&nbsp;</p>\n<p>DEX<br>\n6&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-2</a>)</p>\n<p>&nbsp;</p>\n<p>CON<br>\n16&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">+3</a>)</p>\n<p>&nbsp;</p>\n<p>INT<br>\n3&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-4</a>)</p>\n<p>&nbsp;</p>\n<p>WIS<br>\n6&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-2</a>)</p>\n<p>&nbsp;</p>\n<p>CHA<br>\n5&nbsp;(<a href=\"https://www.comunidadumbria.com/partida/islas-cristalinas/void(0);\" rel=\"nofollow\">-3</a>)</p>\n<hr>\n<p><a href=\"https://www.kassoon.com/dnd/monster-stat-block/317/zombie/\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.kassoon.com/dnd/monster-stat-block/317/zombie/\"></a></p>\n<p><strong>Saving Throws</strong>&nbsp;wis +0</p>\n<p><strong>Damage Immunities</strong>&nbsp;poison</p>\n<p><strong>Condition Immunities</strong>&nbsp;poisoned</p>\n<p><strong>Senses</strong>&nbsp;Darkvision&nbsp;60 Ft., passive&nbsp;Perception&nbsp;8</p>\n<p><strong>Languages</strong>&nbsp;Understands All Languages It Spoke In Life But Can&amp;#039;t Speak</p>\n<p><strong>PB</strong>&nbsp;+2</p>\n<p><strong>Challenge</strong>&nbsp;0 (10 XP)</p>\n<hr>\n<p><b>Undead Fortitude.</b>&nbsp;If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20279132",
+    "messageId": "20279132",
+    "fecha": "16/06/2023, 16:37",
+    "fechaIso": "2023-06-16T16:37:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "¿En serio?! Contra esas cosas. Estaba bastante asustada de esas criaturas.\n\n¿Como que mosquitos? Eso no es un mosquito en mi mundo son así. Señaló lo pequeños que nos.\n\nY como que los chicos, cuando los vi levantarse como zombies casi grito, odio los zombies. Ahora la cosa era, que no había luchado en mi vida, que se supone que debía hacer. Recordé como mire el sistema y me mire a mí misma a ver si descubría como atacar. ¿Garras? Sí tiene sentido... Pero... Quiere decir que tengo que estar cuerpo a cuerpo contra esos bichos. Creo que prefiero el bicho gigante antes que los zombies. Miré a los demás y me preparé cuando ellos atacarán indicándole saku y a Tama que hicieran lo mismo.",
+    "textoHtml": "<p><em>¿En serio?! Contra esas cosas.&nbsp;</em>Estaba bastante asustada de esas criaturas.&nbsp;</p>\n<p><strong>¿Como que mosquitos? Eso no es un mosquito en mi mundo son así.&nbsp;</strong>Señaló lo pequeños que nos.&nbsp;</p>\n<p>Y como que los chicos, cuando los vi levantarse como zombies casi grito, odio los zombies. Ahora la cosa era, que no había luchado en mi vida, que se&nbsp; supone que debía hacer. Recordé como mire el sistema y me mire a mí misma a ver si descubría como atacar. ¿Garras? Sí tiene sentido... Pero... Quiere decir que tengo que estar cuerpo a cuerpo contra esos bichos. Creo que prefiero el bicho gigante antes que los zombies. Miré a los demás y me preparé cuando ellos atacarán indicándole saku y a Tama que hicieran lo mismo.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20279925",
+    "messageId": "20279925",
+    "fecha": "17/06/2023, 01:33",
+    "fechaIso": "2023-06-17T01:33:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Uno de los Stirge se lanzo contra Zelda pero la fuerte armadura de la mujer repelio el ataque mientras que otro se lanzo contra Ganon, consiguiendo impactarle y comenzando a alimentarse de su sangre, un tercer Stirge intento lanzarse sobre zelda, pero la muchacha logro esquivarle a tiempo.\n\nEl ataque combinado de Saku, tama y Kirara acabo con la reina Stirge de inmediato.\n\nMientras tanto Ganondorf, ignorando completamente el mosquito gigante de su brazo y Zelda se encargaban de los Zombies, con los que acabaron de un solo golpe, mientras Link se encargaba de uno de los Stirges y acababa tambien con su vida.\n\nTras esto, los Stirge, enfadados por la muerte de su reina volvieron a atacar, uno a Link, que no consiguio no acercarsele y otro a Zelda que una vez mas la muchacha logro esquivar.\n\nGanondorf se ocupo en ese momento del bicho de su brazo, que continuaba drenando su sangre, aplastandolo como un mosquito.\n\nMientras que Zelda y Link acababan con los dos Stirge que quedaban.\n\n-¿Estais todos bien?\n\nPregunto Zelda al terminar el combate.",
+    "textoHtml": "<p>Uno de los Stirge se lanzo contra Zelda pero la fuerte armadura de la mujer repelio el ataque mientras que otro se lanzo contra Ganon, consiguiendo impactarle y comenzando a alimentarse de su sangre, un tercer Stirge intento lanzarse sobre zelda, pero la muchacha logro esquivarle a tiempo.</p>\n<p>El ataque combinado de Saku, tama y Kirara acabo con la reina Stirge de inmediato.</p>\n<p>Mientras tanto Ganondorf, ignorando completamente el mosquito gigante de su brazo y Zelda se encargaban de los Zombies, con los que acabaron de un solo golpe, mientras Link se encargaba de uno de los Stirges y acababa tambien con su vida.</p>\n<p>Tras esto, los Stirge, enfadados por la muerte de su reina volvieron a atacar, uno a Link, que no consiguio no acercarsele y otro a Zelda que una vez mas la muchacha logro esquivar.</p>\n<p>Ganondorf se ocupo en ese momento del bicho de su brazo, que continuaba drenando su sangre, aplastandolo como un mosquito.</p>\n<p>Mientras que Zelda y Link acababan con los dos Stirge que quedaban.</p>\n<p><strong>-¿Estais todos bien?</strong></p>\n<p>Pregunto Zelda al terminar el combate.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20281482",
+    "messageId": "20281482",
+    "fecha": "18/06/2023, 09:52",
+    "fechaIso": "2023-06-18T09:52:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Mire los cuerpos destrozados en el suelo mientras miraba por cuenta de la situación en la que estaba.¡Oh dios! ¿Yo he hecho eso? ¿De verdad? Trate de calmarme pero fue inútil empecé a temblar como una hoja. Estaba aterrada, no había sido consciente hasta ahora de en el lío en el que estaba metida.\n\nAl girarme me tranquilice al ver que más o menos los demás estaban bien. Me limpié la pared mientras me acercaba a ellos.\n\nE-eso iba a decir yo. Os han dado a algunos. ¿Estáis bien?",
+    "textoHtml": "<p>Mire los cuerpos&nbsp; destrozados en el suelo mientras miraba por cuenta de la situación en la que estaba.<em>¡Oh dios! ¿Yo he hecho eso? ¿De verdad?&nbsp;</em>Trate de calmarme pero fue inútil empecé a temblar como una hoja. Estaba aterrada, no había sido consciente hasta ahora de en el lío en el que estaba metida.&nbsp;</p>\n<p>Al girarme me tranquilice al ver que más o menos los demás estaban bien. Me limpié la pared mientras me acercaba a ellos.&nbsp;</p>\n<p><strong>E-eso iba a decir yo. Os han dado a algunos. ¿Estáis bien?</strong></p>\n<p>&nbsp;</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20281548",
+    "messageId": "20281548",
+    "fecha": "18/06/2023, 10:57",
+    "fechaIso": "2023-06-18T10:57:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El brazo de Ganondorf sangraba profusamente.\n\n-Bueno, a mi me ha cogido bien ese mosquito, aunque por suerte no ha llegado a inocularme ese maldito veneno.\n\nComentaría tapándose la herida, Zelda usos sus poderes sagrados para curar a Ganondorf.\n\n-Listo grandullón.\n\nDijo mientras le daba un par de palmadas al hombro.\n\nLink se acerco al asqueroso nido de los Stirge y saco un par de gemas y unas cien monedas de plata y treinta de cobre. Aunque en un estado bastante asqueroso.\n\n-A esas criaturas les encantan las cosas brillantes, como a los cuervos, aunque, hay que lavarlas bien antes.\n\nComentaria Ganondorf riendo mientras hacia un reparto equitativo del botin entre vosotros cuatro.\n\nLa lluvia parecía haber terminado, Link miro los cuerpos de los dos chicos.\n\n-Deberíamos enterrarlos al menos.\n\nComentaria Zelda.\n\n-O ir al pueblo a entregar los cuerpos, y comentar lo que ha ocurrido.\n\nAñadiria Ganondorf, ambos te miraron, esperando ver cual era tu decision.",
+    "textoHtml": "<p>El brazo de Ganondorf sangraba profusamente.</p>\n<p><strong>-Bueno, a mi me ha cogido bien ese mosquito, aunque por suerte no ha llegado a inocularme ese maldito veneno.</strong></p>\n<p>Comentaría tapándose la herida, Zelda usos sus poderes sagrados para curar a Ganondorf.</p>\n<p><strong>-Listo grandullón.</strong></p>\n<p>Dijo mientras le daba un par de palmadas al hombro.</p>\n<p>Link se acerco al asqueroso nido de los Stirge y saco un par de gemas y unas cien monedas de plata y treinta de cobre. Aunque en un estado bastante asqueroso.</p>\n<p><strong>-A esas criaturas les encantan las cosas brillantes, como a los cuervos, aunque, hay que lavarlas bien antes.</strong></p>\n<p>Comentaria Ganondorf riendo mientras hacia un reparto equitativo del botin entre vosotros cuatro.</p>\n<p>La lluvia parecía haber terminado, Link miro los cuerpos de los dos chicos.</p>\n<p><strong>-Deberíamos enterrarlos al menos.</strong></p>\n<p>Comentaria Zelda.</p>\n<p><strong>-O ir al pueblo a entregar los cuerpos, y comentar lo que ha ocurrido.</strong></p>\n<p>Añadiria Ganondorf, ambos te miraron, esperando ver cual era tu decision.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20284654",
+    "messageId": "20284654",
+    "fecha": "20/06/2023, 09:49",
+    "fechaIso": "2023-06-20T09:49:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Suspiré con alivio al ver que pudieron curar a Ganodorf fácilmente. Al menos no le pudieron veneno, eso me tenía un poco preocupada. Vi como me miraron para tomar la decisión final. Me puso un poco nerviosa que me tratarán como una líder cuando apenas sabia que hacía. Tartamudeé un poco al decirlo.\n\nmmmmm estoooo, quizá la gente prefiera poder darles un descanso digno. No se qué costumbres tenéis aquí pero de donde yo vengo pues muy importante los de darles un descanso digno. A pesar de las condiciones de los cuerpos. Quizá habría que llevar alguno de los bichos también por si acaso, no nos vayan a culpar.",
+    "textoHtml": "<p>Suspiré con alivio al ver que pudieron curar a Ganodorf fácilmente. Al menos no le pudieron veneno, eso me tenía un poco preocupada. Vi como me miraron para tomar la decisión final. Me puso un poco nerviosa que me tratarán como una líder cuando apenas sabia que hacía. Tartamudeé un poco al decirlo.</p>\n<p><strong>mmmmm estoooo, quizá la gente prefiera poder darles un descanso digno. No se qué costumbres tenéis aquí pero de donde yo vengo pues muy importante los de darles un descanso digno. A pesar de las condiciones de los cuerpos. Quizá habría que llevar alguno de los bichos también por si acaso, no nos vayan a culpar.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20284712",
+    "messageId": "20284712",
+    "fecha": "20/06/2023, 10:49",
+    "fechaIso": "2023-06-20T10:49:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "Aunque en un principio no parecian hacerles muchas gracias perder aun mas tiempo, accedieron a lo que les pediste.\n\nEl Stirge que dormia en el piso de abajo por lo visto huyo al sentir la muerte de su reina.\n\nPudisteis salir de alli sin mayor problema y os dirigisteis al pueblo, Ganondorf cargaba entre sus brazos los cuerpos d elos dos jovenes envueltos en los restos de unas sabanas que encontrasteis en la torre, mientras que Zelda llevaba a rastras el cuerpo de la reina Stirge.\n\nAl llegar a la aldea se acercaron un par de aldeanos que al ver aquellos dos cuerpos, se temieron lo peor, habian estado durante varios dias buscando durante varios dias a dos jovenes que habian salido a jugar por los alrededores y aun no habian vuelto.\n\nLa madre de ellos se acerco llorando y os agradecio haber traido sus cuerpos, tambien agradecieron a los aventureros de Lyrule por la ayuda.\n\nTras aquello ya estaba anocheciendo, y los aldeanos insistieron que os quedaseis a pasar la noche, para pagar al menos con hospitalidad vuestra ayuda.\n\n-ATENCION-\nHONOR CON TRIARCAS +2",
+    "textoHtml": "<p>Aunque en un principio no parecian hacerles muchas gracias perder aun mas tiempo, accedieron a lo que les pediste.</p>\n<p>El Stirge que dormia en el piso de abajo por lo visto huyo al sentir la muerte de su reina.</p>\n<p>Pudisteis salir de alli sin mayor problema y os dirigisteis al pueblo, Ganondorf cargaba entre sus brazos los cuerpos d elos dos jovenes envueltos en los restos de unas sabanas que encontrasteis en la torre, mientras que Zelda llevaba a rastras el cuerpo de la reina Stirge.</p>\n<p>Al llegar a la aldea se acercaron un par de aldeanos que al ver aquellos dos cuerpos, se temieron lo peor, habian estado durante varios dias buscando durante varios dias a dos jovenes que habian salido a jugar por los alrededores y aun no habian vuelto.</p>\n<p>La madre de ellos se acerco llorando y os agradecio haber traido sus cuerpos, tambien agradecieron a los aventureros de Lyrule por la ayuda.</p>\n<p>Tras aquello ya estaba anocheciendo, y los aldeanos insistieron que os quedaseis a pasar la noche, para pagar al menos con hospitalidad vuestra ayuda.</p>\n<blockquote><p style=\"text-align:center\">-<strong>ATENCION-</strong></p>\n<p style=\"text-align:center\"><strong>HONOR CON TRIARCAS +2</strong></p>\n</blockquote>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20286511",
+    "messageId": "20286511",
+    "fecha": "21/06/2023, 09:49",
+    "fechaIso": "2023-06-21T09:49:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Cuando llegamos al poblado con los chicos salieron unas cuantas personas a ver lo que sucedía. Ver sus caras desoladas especialmente el de la madre me creo un nudo en la garganta, ojalá hubiésemos llegado antes. Me incline con gratitud de pasar la noche.\n\nBueno, dijisteis que no podíamos avanzar hasta que amaneciera y está todo mojado, podríamos quedarnos a dormir y partir mañana.",
+    "textoHtml": "<p>Cuando llegamos al poblado con los chicos salieron unas cuantas personas a ver lo que sucedía. Ver sus caras desoladas especialmente el de la madre me creo un nudo en la garganta, ojalá hubiésemos llegado antes.&nbsp; Me incline con gratitud de pasar la noche.</p>\n<p><strong>Bueno, dijisteis que no podíamos avanzar hasta que amaneciera y está todo mojado, podríamos quedarnos a dormir y partir mañana.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20288088",
+    "messageId": "20288088",
+    "fecha": "22/06/2023, 05:34",
+    "fechaIso": "2023-06-22T05:34:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El grupo simplemente se encogió de hombros, como bien decía Kirára, ya estaba anocheciendo, y viajar entre islas de noche no era una buena idea, con lo que aceptaron.\n\n-¿Y no encontrasteis mas gente?\n\nPreguntaria uno de los aldeanos mientras ayudaba a preparar el banquete.\n\n-Desde hace un mes, esta desapareciendo una persona por semana, con esta ultima van 5, el primero fue el clerigo del pueblo, la desaparicion de los dos jovenes no cuadro, pues de normal desaparecian por la noche y solo era una, ellos desparecieron por el dia y a pocos dias de la ultima desaparición.\n\nTe comentaria acabando de montar la mesa.",
+    "textoHtml": "<p>El grupo simplemente se encogió&nbsp;de hombros, como bien decía Kirára, ya estaba anocheciendo, y viajar entre islas de noche no era una buena idea, con lo que aceptaron.</p>\n<p><strong>-¿Y no encontrasteis mas gente?</strong></p>\n<p>Preguntaria uno de los aldeanos mientras ayudaba a preparar el banquete.</p>\n<p><strong>-Desde hace un mes, esta desapareciendo una persona por semana, con esta ultima van 5, el primero fue el clerigo del pueblo, la desaparicion de los dos jovenes no cuadro, pues de normal desaparecian por la noche y solo era una, ellos desparecieron por el dia y a pocos dias de la ultima desaparición.</strong></p>\n<p>Te comentaria acabando de montar la mesa.</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20289700",
+    "messageId": "20289700",
+    "fecha": "23/06/2023, 10:14",
+    "fechaIso": "2023-06-23T10:14:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Mmmmm no encontramos a nadie más en la torre la verdad. Supongo que podríamos intentar investigarlo después a la vuelta. Desgraciadamente mañana tenemos prisa por ir a otro sitio.",
+    "textoHtml": "<p><strong>Mmmmm no encontramos a nadie más en la torre la verdad. Supongo que podríamos intentar investigarlo después a la vuelta. Desgraciadamente mañana tenemos prisa por ir a otro sitio.&nbsp;</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20290630",
+    "messageId": "20290630",
+    "fecha": "23/06/2023, 18:39",
+    "fechaIso": "2023-06-23T18:39:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "El aldeano afirmo con la cabeza.\n\n-Si, lo entiendo, hay mas problemas en las islas, solo espero que cuando vuelvan no sea demasiado tarde.\n\nComentaría mientras acababa de motar la mesa y se marchaba.\n\nZelda se acerco.\n\n-Es bastante frustrante, pero no podemos apagar todos los fuegos a la vez, y donde vamos tambien necesitan ayuda urgente, y la verdad, ya nos hemos retrasado mas de lo que nos hubiese gustado.\n\nTe diría poniendo la mano en el hombro.\n\n-En fin, disfrutemos de la velada y marchemos mañana lo mas temprano posible, quien sabe lo que puede estar ocurriendo en las minas.",
+    "textoHtml": "<p>El aldeano afirmo con la cabeza.</p>\n<p><strong>-Si, lo entiendo, hay mas problemas en las islas, solo espero que cuando vuelvan no sea demasiado tarde.</strong></p>\n<p>Comentaría mientras acababa de motar la mesa y se marchaba.</p>\n<p>Zelda se acerco.</p>\n<p><strong>-Es bastante frustrante, pero no podemos apagar todos los fuegos a la vez, y donde vamos tambien necesitan ayuda urgente, y la verdad, ya nos hemos retrasado mas de lo que nos hubiese gustado.</strong></p>\n<p>Te diría poniendo la mano en el hombro.</p>\n<p><strong>-En fin, disfrutemos de la velada y marchemos mañana lo mas temprano posible, quien sabe lo que puede estar ocurriendo en las minas.</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20291382",
+    "messageId": "20291382",
+    "fecha": "24/06/2023, 10:23",
+    "fechaIso": "2023-06-24T10:23:00",
+    "autor": "Kirara",
+    "personaje": "Kirara",
+    "texto": "Mire con lastima a la gente a la que no iba a poder ayudar por ahora e iba a dejar a su suerte. Coloque la mano en ima de la de Zelda que trato de animarme.\n\nTened cuidado mañana y los siguientes días, primero volver tras acabar con la epidemia de las minas. Entonces nos encargaremos de esto. Lo prometo.\n\n​​​​​",
+    "textoHtml": "<p>Mire con lastima a la gente a la que no iba a poder ayudar por ahora e iba a dejar a su suerte. Coloque la mano en ima de la de Zelda que trato de animarme.</p>\n<p><strong>Tened cuidado mañana y los siguientes días, primero volver tras acabar con la epidemia de las minas. Entonces nos encargaremos de esto. Lo prometo.</strong></p>\n<p><strong>​​​​​</strong></p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  },
+  {
+    "id": "msj20292847",
+    "messageId": "20292847",
+    "fecha": "25/06/2023, 16:53",
+    "fechaIso": "2023-06-25T16:53:00",
+    "autor": "Director",
+    "personaje": "Director",
+    "texto": "La velada paso sin pena ni gloria, se notaba que pese a que hicieron el banquete en tu honor, por haberles librado de aquellas criaturas, la preocupacion de todos agriaba el ambiente de fiesta.\n\nTras aquello paso la noche, y al dia siguiente, por fin partisteis en direccion al paso de Duvik",
+    "textoHtml": "<p>La velada paso sin pena ni gloria, se notaba que pese a que hicieron el banquete en tu honor, por haberles librado de aquellas criaturas, la preocupacion de todos agriaba el ambiente de fiesta.</p>\n<p>Tras aquello paso la noche, y al dia siguiente, por fin partisteis en direccion al paso de Duvik</p>",
+    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3",
+    "pagina": 3,
+    "localizacion": {
+      "slug": "1412-la-torre-del-mago",
+      "titulo": "1412: La torre del mago",
+      "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago"
+    }
+  }
+]

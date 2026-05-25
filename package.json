@@ -1,0 +1,19 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node src/scrape.js --all",
+    "scrape:location": "node src/scrape.js --location",
+    "parse:debug": "node src/scrape.js --from-debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2"
+  }
+}
