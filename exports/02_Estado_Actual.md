@@ -18,11 +18,9 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Chibi Meido
-- Ember
 
 ### Jugadores que han actuado aqui
 - Chibi Meido
-- Ember
 
 ### Eventos importantes ocurridos
 - 19/06/2024, 13:31: batalla - La porra de la criatura cae al suelo, y la arpía se tambalea, claramente debilitada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
@@ -62,10 +60,10 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Mamoru Ai Yastis
+- Desconocido
 
 ### Jugadores que han actuado aqui
-- Mamoru Ai Yastis
+- Desconocido
 
 ### Eventos importantes ocurridos
 - 04/05/2025, 23:23: guerra, sello, maldicion - Avanzó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
@@ -107,15 +105,11 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Chibi Meido
-- Ember
 - Doragonkuin
-- Mamoru Ai Yastis
 
 ### Jugadores que han actuado aqui
 - Chibi Meido
-- Ember
 - Doragonkuin
-- Mamoru Ai Yastis
 
 ### Eventos importantes ocurridos
 - 15/05/2025, 09:50: invadir - -Bien… veo que la operación ha escalado de peculiar a festival micótico sin retorno. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
@@ -157,14 +151,10 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Chibi Meido
-- Ember
-- Mamoru Ai Yastis
 - Doragonkuin
 
 ### Jugadores que han actuado aqui
 - Chibi Meido
-- Ember
-- Mamoru Ai Yastis
 
 ### Eventos importantes ocurridos
 - 26/02/2025, 20:09: ritual - Cid dejó de respirar por un segundo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
@@ -205,10 +195,8 @@ Localizaciones incluidas: 34.
 ### NPCs presentes o relevantes
 - Carol Copper
 - Jacklin
-- Tenebris
 - Aranea
 - Aldar
-- Becky
 - Cecil
 - Rosa
 - Zelda
@@ -216,7 +204,6 @@ Localizaciones incluidas: 34.
 ### Jugadores que han actuado aqui
 - Carol Copper
 - Jacklin
-- Tenebris
 
 ### Eventos importantes ocurridos
 - 24/05/2025, 15:31: destruida, cristal - -Sí, claro… tú cree lo que quieras. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
@@ -258,11 +245,9 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Carol Copper
-- Karen Copper
 
 ### Jugadores que han actuado aqui
 - Carol Copper
-- Karen Copper
 
 ### Eventos importantes ocurridos
 - 20/05/2024, 23:08: combate, ataque - El primer golpe del líder, un corte limpio y preciso, impactó en un punto crítico, haciendo que Carol se tambaleara por... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
@@ -303,10 +288,10 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Mamoru Ai Yastis
+- Desconocido
 
 ### Jugadores que han actuado aqui
-- Mamoru Ai Yastis
+- Desconocido
 
 ### Eventos importantes ocurridos
 - 24/07/2025, 10:24: destruccion, descubrimiento, cristal - Mamoru Ai Yastis se quedó quieto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
@@ -352,8 +337,6 @@ Localizaciones incluidas: 34.
 - Jacklin
 - Aranea
 - Aldar
-- Becky
-- Tenebris
 
 ### Jugadores que han actuado aqui
 - Jacklin
@@ -441,20 +424,12 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Rebecca Desirae
 - Fang
-- Becky
-- Matriarca Gnoll
 - Cecilia
-- Nulka
 - Zelo
-- Tenebris
 
 ### Jugadores que han actuado aqui
-- Rebecca Desirae
 - Fang
-- Becky
-- Matriarca Gnoll
 - Cecilia
 
 ### Eventos importantes ocurridos
@@ -500,24 +475,16 @@ Localizaciones incluidas: 34.
 - Horus Icarus
 - Hjelma
 - Fang
-- Rebecca Desirae
 - Kaela
-- Acceber
-- Maquina de tatuar
 - Cecilia
 - HJELMA
-- Tenebris
-- Becky
 - Cecil
 
 ### Jugadores que han actuado aqui
 - Horus Icarus
 - Hjelma
 - Fang
-- Rebecca Desirae
 - Kaela
-- Acceber
-- Maquina de tatuar
 
 ### Eventos importantes ocurridos
 - 05/12/2024, 01:50: portal - -Entiendo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
@@ -560,28 +527,26 @@ Localizaciones incluidas: 34.
 - Jacklin
 - Drake
 - Rosa
-- Yu/Ai
 - Carol Copper
 - Hjelma
 - Cecil
 - Horus Icarus
 - Axel
 - Fang
-- Rebecca Desirae
 - Aranea
+- HJELMA
+- Aldar
 
 ### Jugadores que han actuado aqui
 - Jacklin
 - Drake
 - Rosa
-- Yu/Ai
 - Carol Copper
 - Hjelma
 - Cecil
 - Horus Icarus
 - Axel
 - Fang
-- Rebecca Desirae
 
 ### Eventos importantes ocurridos
 - 30/12/2024, 01:24: ataque - -Acabo de recibir un mensaje de Jacklin. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
@@ -624,28 +589,20 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Fang
-- Rebecca Desirae
 - Cecilia
 - Jacklin
 - Drake
 - Aldar
-- Acceber
-- Becky
-- Maquina de tatuar
-- Nulka
 - Aranea
-- Tenebris
+- Cecil
+- Kaela
 
 ### Jugadores que han actuado aqui
 - Fang
-- Rebecca Desirae
 - Cecilia
 - Jacklin
 - Drake
 - Aldar
-- Acceber
-- Becky
-- Maquina de tatuar
 
 ### Eventos importantes ocurridos
 - 24/03/2025, 23:21: portal - - Está bien, partiremos de inmediato de vuelta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
@@ -688,7 +645,6 @@ Localizaciones incluidas: 34.
 - Jacklin
 - Aldar
 - Aranea
-- Tenebris
 - Goraksha
 
 ### Jugadores que han actuado aqui
@@ -829,29 +785,18 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Rebecca Desirae
 - Fang
 - Rådgiver
 - Cecilia
-- Maquina de tatuar
 - Zelo
-- Korpogadisto
-- Acceber
-- Nulka
 - Goraksha
-- Becky
 - Kaela
 
 ### Jugadores que han actuado aqui
-- Rebecca Desirae
 - Fang
 - Rådgiver
 - Cecilia
-- Maquina de tatuar
 - Zelo
-- Korpogadisto
-- Acceber
-- Nulka
 
 ### Eventos importantes ocurridos
 - 12/05/2025, 06:56: cristal - Las estalactitas naturales seguían colgando, dándole al lugar un aire entre rudimentario y encantador. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
@@ -894,7 +839,6 @@ Localizaciones incluidas: 34.
 - Carol Copper
 - Hjelma
 - Aithara
-- Rebecca Desirae
 - Fang
 - Cecilia
 - Kristal
@@ -903,12 +847,12 @@ Localizaciones incluidas: 34.
 - Aldar
 - Kaela
 - Aranea
+- Zelo
 
 ### Jugadores que han actuado aqui
 - Carol Copper
 - Hjelma
 - Aithara
-- Rebecca Desirae
 - Fang
 - Cecilia
 - Kristal
@@ -956,23 +900,17 @@ Localizaciones incluidas: 34.
 - Goraksha
 - Aranea
 - Aldar
-- Rebecca Desirae
 - Fang
 - Kaela
-- Acceber
-- Nulka
 - Zelo
-- Becky
 
 ### Jugadores que han actuado aqui
 - Jacklin
 - Goraksha
 - Aranea
 - Aldar
-- Rebecca Desirae
 - Fang
 - Kaela
-- Acceber
 
 ### Eventos importantes ocurridos
 - 12/12/2024, 23:23: portal - La líder orco mantuvo su expresión solemne, mientras que su hija no ocultaba su entusiasmo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
@@ -1056,28 +994,22 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Rebecca Desirae
 - Fang
 - Cecilia
-- Beatrix L'back
 - Jane
 - Carol Copper
 - Aithara
 - Ingeniero Tom
-- Becky
 - Euclid
 - Zelo
 
 ### Jugadores que han actuado aqui
-- Rebecca Desirae
 - Fang
 - Cecilia
-- Beatrix L'back
 - Jane
 - Carol Copper
 - Aithara
 - Ingeniero Tom
-- Becky
 
 ### Eventos importantes ocurridos
 - 18/06/2025, 23:17: ruinas, cristal - La carreta avanzó sin sobresaltos por los amplios bulevares de Nueva Delhyde. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
@@ -1118,16 +1050,12 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Fang
-- Rebecca Desirae
 - Zelo
-- Korpogadisto
 - Cecilia
 
 ### Jugadores que han actuado aqui
 - Fang
-- Rebecca Desirae
 - Zelo
-- Korpogadisto
 - Cecilia
 
 ### Eventos importantes ocurridos
@@ -1219,7 +1147,6 @@ Localizaciones incluidas: 34.
 - Aldar
 - Aranea
 - Drake
-- Tenebris
 
 ### Jugadores que han actuado aqui
 - Jacklin
@@ -1263,13 +1190,11 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Beatrix L'back
 - Jane
 - Euclid
 - Ingeniero Tom
 
 ### Jugadores que han actuado aqui
-- Beatrix L'back
 - Jane
 - Euclid
 
@@ -1361,13 +1286,11 @@ Localizaciones incluidas: 34.
 - Kirara
 - Ganondorf
 - Zelda
-- Rouxgor
 
 ### Jugadores que han actuado aqui
 - Kirara
 - Ganondorf
 - Zelda
-- Rouxgor
 
 ### Eventos importantes ocurridos
 - 20/06/2023, 10:49: muerte - El Stirge que dormia en el piso de abajo por lo visto huyo al sentir la muerte de su reina. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
@@ -1408,15 +1331,12 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Fang
-- Rebecca Desirae
 - Zelo
 - Cecilia
 - Rådgiver
-- Korpogadisto
 
 ### Jugadores que han actuado aqui
 - Fang
-- Rebecca Desirae
 - Zelo
 - Cecilia
 
@@ -1507,7 +1427,6 @@ Localizaciones incluidas: 34.
 ### NPCs presentes o relevantes
 - Kirara
 - Zelda
-- Beatrix L'back
 - Euclid
 - Lucia
 - Ganondorf
@@ -1516,7 +1435,6 @@ Localizaciones incluidas: 34.
 ### Jugadores que han actuado aqui
 - Kirara
 - Zelda
-- Beatrix L'back
 - Euclid
 
 ### Eventos importantes ocurridos
@@ -1558,19 +1476,15 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Lucia
-- Beatrix L'back
 - Kirara
 - Euclid
-- Rouxgor
 - Zelda
 - Ingeniero Tom
 
 ### Jugadores que han actuado aqui
 - Lucia
-- Beatrix L'back
 - Kirara
 - Euclid
-- Rouxgor
 
 ### Eventos importantes ocurridos
 - 21/04/2024, 02:49: muerte, murieron - El dolor y la rabia resonaron en las palabras de Jasmalus mientras gritaba el nombre de su hermano, jurando venganza... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6)
@@ -1610,14 +1524,11 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Beatrix L'back
 - Kirara
 - Euclid
-- Aqua
 - Lucia
 
 ### Jugadores que han actuado aqui
-- Beatrix L'back
 - Kirara
 
 ### Eventos importantes ocurridos
@@ -1660,15 +1571,11 @@ Localizaciones incluidas: 34.
 
 ### NPCs presentes o relevantes
 - Kirara
-- Beatrix L'back
 - Euclid
-- Aqua
 
 ### Jugadores que han actuado aqui
 - Kirara
-- Beatrix L'back
 - Euclid
-- Aqua
 
 ### Eventos importantes ocurridos
 - 04/12/2024, 22:18: ataque - Aunque la joven había peleado bien, aún había mucho que aprender. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
@@ -1710,13 +1617,11 @@ Localizaciones incluidas: 34.
 - Confianza: baja
 
 ### NPCs presentes o relevantes
-- Beatrix L'back
 - Kirara
 - Euclid
 - Kristal
 
 ### Jugadores que han actuado aqui
-- Beatrix L'back
 - Kirara
 - Euclid
 - Kristal

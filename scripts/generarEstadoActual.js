@@ -7,6 +7,7 @@ const LOCATIONS_DIR = path.join(DATA_DIR, "localizaciones");
 const EXPORTS_DIR = path.join(ROOT, "exports");
 const OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual.md");
 const DEBUG_OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual_DEBUG.md");
+const WHITELIST_FILE = path.join(DATA_DIR, "entidades", "personajes_whitelist.json");
 
 const UNKNOWN = "Desconocido";
 const RECENT_POSTS = 6;
@@ -458,6 +459,26 @@ function hydrateEventsWithSource(events, posts) {
   });
 }
 
+function buildWhitelist(items) {
+  return new Set(
+    items
+      .map((item) => (typeof item === "string" ? item : item?.nombre))
+      .filter(Boolean)
+      .map(normalize)
+  );
+}
+
+function isWhitelisted(name, whitelist) {
+  return whitelist.has(normalize(name));
+}
+
+function splitWhitelistedNames(names, whitelist, knownNames) {
+  const valid = unique(names.filter((name) => esNpcValido(name, knownNames)));
+  const confirmed = valid.filter((name) => isWhitelisted(name, whitelist));
+  const candidates = valid.filter((name) => !isWhitelisted(name, whitelist));
+  return { confirmed: unique(confirmed), candidates: unique(candidates) };
+}
+
 function debugBlock(title, data) {
   return ["", `### ${title}`, "", "```json", JSON.stringify(data, null, 2), "```", ""].join("\n");
 }
@@ -479,12 +500,14 @@ function pushList(lines, title, items, render) {
 }
 
 async function main() {
-  const [locations, locationEntities, npcs, events] = await Promise.all([
+  const [locations, locationEntities, npcs, events, whitelistItems] = await Promise.all([
     loadLocations(),
     readJsonIfExists(path.join(DATA_DIR, "entidades", "localizaciones.json"), []),
     readJsonIfExists(path.join(DATA_DIR, "entidades", "npcs.json"), []),
-    readJsonIfExists(path.join(DATA_DIR, "eventos", "eventos_importantes.json"), [])
+    readJsonIfExists(path.join(DATA_DIR, "eventos", "eventos_importantes.json"), []),
+    readJsonIfExists(WHITELIST_FILE, [])
   ]);
+  const personajesWhitelist = buildWhitelist(whitelistItems);
 
   const locationBySlug = new Map(locationEntities.map((item) => [item.slug, item]));
   const eventsBySlug = new Map();
@@ -531,19 +554,20 @@ async function main() {
     const latestPost = recentPosts[0];
     const importantEvents = hydrateEventsWithSource(locationEvents.slice(-5).reverse(), location.posts);
     const knownNames = knownActorNames(location.posts);
-    const actorNames = unique(
+    const rawActorNames = unique(
       location.posts
         .flatMap((post) => [post.personaje, post.autor])
         .filter((name) => name && !["Director", "SISTEMA", "No indicado", "Desconocido"].includes(name))
-        .filter((name) => esNpcValido(name, knownNames))
     );
-    const entityNames = (npcByLocation.get(location.title) || [])
+    const rawEntityNames = (npcByLocation.get(location.title) || [])
       .sort((a, b) => (b.frecuencia || 0) - (a.frecuencia || 0))
       .filter((item) => item.esAutorOPersonaje || knownNames.has(normalize(item.nombre)))
-      .map((item) => item.nombre)
-      .filter((name) => esNpcValido(name, knownNames));
-    const relevantNpcs = unique([...actorNames, ...entityNames]).slice(0, 12);
-    const players = actorNames.slice(0, 12);
+      .map((item) => item.nombre);
+    const actorSplit = splitWhitelistedNames(rawActorNames, personajesWhitelist, knownNames);
+    const entitySplit = splitWhitelistedNames(rawEntityNames, personajesWhitelist, knownNames);
+    const relevantNpcs = unique([...actorSplit.confirmed, ...entitySplit.confirmed]).slice(0, 12);
+    const players = actorSplit.confirmed.slice(0, 12);
+    const npcCandidates = unique([...actorSplit.candidates, ...entitySplit.candidates]).slice(0, 30);
 
     const threats = findSentences(recentPosts, (sentence) => containsAnyWord(sentence, THREAT_WORDS), 3);
     const missions = findSentences(recentPosts, isMissionSentence, 3);
@@ -629,6 +653,7 @@ async function main() {
       debugBlock("Amenazas detectadas", threats),
       debugBlock("Misiones detectadas", missions),
       debugBlock("Cambios detectados", changes),
+      debugBlock("Candidatos NPC descartados por no estar en whitelist", npcCandidates),
       debugBlock(
         "Eventos importantes usados",
         importantEvents.map((event) => ({

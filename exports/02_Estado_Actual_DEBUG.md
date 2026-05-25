@@ -95,6 +95,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Ember"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -260,6 +269,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Mamoru Ai Yastis"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -420,6 +438,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Ember",
+  "Mamoru Ai Yastis"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -573,6 +601,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Ember",
+  "Mamoru Ai Yastis"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -720,6 +758,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "texto": "El cuero quemado de unas botas encantadas.",
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9"
   }
+]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Tenebris",
+  "Becky"
 ]
 ```
 
@@ -880,6 +928,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Karen Copper"
+]
 ```
 
 
@@ -1066,6 +1123,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Mamoru Ai Yastis"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -1218,6 +1284,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "texto": "Si quieren algo a cambio, necesitamos saber qué estamos dispuestos a ofrecer.",
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3"
   }
+]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Becky",
+  "Tenebris"
 ]
 ```
 
@@ -1375,6 +1451,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6"
   }
 ]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[]
 ```
 
 
@@ -1543,6 +1626,19 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Becky",
+  "Matriarca Gnoll",
+  "Nulka",
+  "Tenebris"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -1697,6 +1793,19 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Acceber",
+  "Maquina de tatuar",
+  "Tenebris",
+  "Becky"
+]
 ```
 
 
@@ -1873,6 +1982,17 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Yu/Ai",
+  "Rebecca Desirae",
+  "Tenebris"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -2015,6 +2135,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Acceber",
+  "Becky",
+  "Maquina de tatuar",
+  "Nulka",
+  "Tenebris"
+]
 ```
 
 
@@ -2170,6 +2304,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Tenebris"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -2318,6 +2461,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 
 ### Cambios detectados
+
+```json
+[]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
 
 ```json
 []
@@ -2509,6 +2659,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -2672,6 +2829,21 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Maquina de tatuar",
+  "Korpogadisto",
+  "Acceber",
+  "Nulka",
+  "Becky",
+  "Matriarca Gnoll"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -2814,6 +2986,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Tenebris"
+]
 ```
 
 
@@ -2967,6 +3149,18 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "texto": "Su mirada cambió de un lado a otro.",
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
   }
+]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Acceber",
+  "Nulka",
+  "Becky"
 ]
 ```
 
@@ -3127,6 +3321,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -3275,6 +3476,17 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Beatrix L'back",
+  "Becky"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -3418,6 +3630,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Korpogadisto"
+]
 ```
 
 
@@ -3592,6 +3814,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -3742,6 +3971,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Tenebris"
+]
 ```
 
 
@@ -3902,6 +4140,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "texto": "Las posibilidades pueden ser misteriosas, y a veces abrumadoras, pero también son la fuente de cambio y crecimiento.",
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
   }
+]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back"
 ]
 ```
 
@@ -4078,6 +4325,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -4226,6 +4480,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rouxgor"
+]
 ```
 
 
@@ -4384,6 +4647,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Rebecca Desirae",
+  "Korpogadisto"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -4528,6 +4801,13 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 
 ### Cambios detectados
+
+```json
+[]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
 
 ```json
 []
@@ -4688,6 +4968,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -4830,6 +5119,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back",
+  "Rouxgor"
+]
 ```
 
 
@@ -4988,6 +5287,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
     "texto": "No cambió de color: se reseteó.",
     "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12"
   }
+]
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back",
+  "Aqua"
 ]
 ```
 
@@ -5156,6 +5465,16 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back",
+  "Aqua"
+]
+```
+
+
 ### Eventos importantes usados
 
 ```json
@@ -5314,6 +5633,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
 ```json
 []
+```
+
+
+### Candidatos NPC descartados por no estar en whitelist
+
+```json
+[
+  "Beatrix L'back"
+]
 ```
 
 
