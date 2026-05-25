@@ -6,9 +6,10 @@ const DATA_DIR = path.join(ROOT, "data");
 const LOCATIONS_DIR = path.join(DATA_DIR, "localizaciones");
 const EXPORTS_DIR = path.join(ROOT, "exports");
 const OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual.md");
+const DEBUG_OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual_DEBUG.md");
 
 const UNKNOWN = "Desconocido";
-const RECENT_POSTS = 5;
+const RECENT_POSTS = 6;
 
 const THREAT_WORDS = [
   "amenaza",
@@ -35,23 +36,10 @@ const THREAT_WORDS = [
   "tóxico"
 ];
 
-const MISSION_WORDS = [
-  "mision",
-  "misión",
-  "encargo",
-  "objetivo",
-  "debemos",
-  "tenemos que",
-  "hay que",
-  "ayuda",
-  "ayudad",
-  "buscar",
-  "rescatar",
-  "investigar",
-  "recuperar",
-  "liberar",
-  "detener",
-  "resolver"
+const MISSION_PATTERNS = [
+  /\b(?:mision|misión|objetivo|encargo)\b[^.!?]{0,120}\b(?:investigar|escoltar|derrotar|encontrar|proteger|entregar|viajar a|ir a|rescatar|recuperar|liberar|detener)\b/i,
+  /\b(?:hay que|tenemos que|debe(?:mos|n)?|necesita(?:mos|n)?|se debe)\b[^.!?]{0,120}\b(?:investigar|escoltar|derrotar|vencer|encontrar|hallar|proteger|entregar|llevar|viajar a|ir a|rescatar|recuperar|liberar|detener|parar)\b/i,
+  /\b(?:investigar|escoltar|derrotar|vencer|encontrar|hallar|proteger|entregar|llevar|viajar a|ir a|rescatar|recuperar|liberar|detener|parar)\b[^.!?]{0,120}\b(?:mision|misión|objetivo|encargo)\b/i
 ];
 
 const CHANGE_WORDS = [
@@ -72,6 +60,99 @@ const CHANGE_WORDS = [
   "bloqueado",
   "bloqueada"
 ];
+
+const BASE_CONTROL_NAMES = new Set(
+  [
+    "Alianza del Cristal",
+    "Talsyrc",
+    "Triarcas",
+    "Filgaia",
+    "Gremio de Inventores",
+    "Strixhaven",
+    "Nueva Roclenia",
+    "Nueva Lyrule",
+    "Nueva Delhyde",
+    "Nueva Vector",
+    "Fortaleza de Farar",
+    "Fortaleza de Roland",
+    "Fortaleza Gnoll",
+    "Fortaleza Shin-Ra",
+    "Fortaleza de Shin-ra",
+    "Imperio Arcadia",
+    "Imperio Terra",
+    "Imperio de Terra",
+    "Fuerte Belvor"
+  ].map(normalize)
+);
+
+const DND_TERMS = [
+  "armor class",
+  "hit points",
+  "languages",
+  "languages common",
+  "attack",
+  "medium humanoid",
+  "challenge",
+  "saving throws",
+  "skills",
+  "damage",
+  "condition immunities",
+  "senses",
+  "speed",
+  "str",
+  "dex",
+  "con",
+  "int",
+  "wis",
+  "cha",
+  "acid squirt",
+  "chill touch"
+];
+
+const NARRATIVE_STARTERS = [
+  "añadio",
+  "añadió",
+  "exclama",
+  "exclamó",
+  "exclamo",
+  "murmura",
+  "murmuró",
+  "murmuro",
+  "grita",
+  "gritó",
+  "grito",
+  "dijo",
+  "dice",
+  "comentó",
+  "comento",
+  "comentaria",
+  "comentaría",
+  "respondio",
+  "respondió",
+  "responde",
+  "pregunto",
+  "preguntó",
+  "susurro",
+  "susurró",
+  "suspira",
+  "suspiró",
+  "suspiraria",
+  "asiente",
+  "asintió",
+  "asintio",
+  "comenzó",
+  "comenzo",
+  "volvió",
+  "volvio",
+  "perfecto",
+  "bueno",
+  "entonces",
+  "finalmente",
+  "apenas",
+  "quizas",
+  "quizá",
+  "quizás"
+].map(normalize);
 
 const BAD_ENTITY_WORDS = new Set(
   [
@@ -101,6 +182,11 @@ const BAD_ENTITY_WORDS = new Set(
     "quiere",
     "responde",
     "estoy",
+    "tenemos",
+    "acaba",
+    "acciones",
+    "activa",
+    "perfecto ahora",
     "dragon's rest"
   ].map(normalize)
 );
@@ -109,6 +195,9 @@ function normalize(value) {
   return String(value || "")
     .normalize("NFD")
     .replace(/\p{Diacritic}/gu, "")
+    .replace(/[“”"'.:;!?¡¿()[\]{}]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
     .toLowerCase();
 }
 
@@ -141,20 +230,32 @@ async function readJsonIfExists(filePath, fallback) {
   }
 }
 
-function byCountDesc(a, b) {
-  return (b.frecuencia || 0) - (a.frecuencia || 0) || String(a.nombre).localeCompare(String(b.nombre));
-}
-
 function unique(values) {
   return [...new Set(values.filter(Boolean))];
 }
 
-function isUsefulName(name) {
+function wordCount(value) {
+  return clean(value).split(/\s+/).filter(Boolean).length;
+}
+
+function startsWithNarrativeVerb(value) {
+  const normalized = normalize(value);
+  return NARRATIVE_STARTERS.some((starter) => normalized === starter || normalized.startsWith(`${starter} `));
+}
+
+function isDndTerm(value) {
+  const normalized = normalize(value);
+  return DND_TERMS.some((term) => normalized === normalize(term) || normalized.includes(normalize(term)));
+}
+
+function isUsefulName(name, knownNames = new Set()) {
   const normalized = normalize(name);
   if (!normalized || BAD_ENTITY_WORDS.has(normalized)) return false;
-  if (normalized.length < 3) return false;
+  if (isDndTerm(name) || startsWithNarrativeVerb(name)) return false;
   if (/^[?¿!¡.\-]+$/.test(name)) return false;
-  return true;
+  if (wordCount(name) > 4 && !knownNames.has(normalized)) return false;
+  if (/\b(y|e)$/i.test(clean(name))) return false;
+  return clean(name).length >= 3;
 }
 
 function sentenceSplit(text) {
@@ -165,18 +266,25 @@ function sentenceSplit(text) {
     .filter(Boolean);
 }
 
-function findSentences(posts, words, limit = 3) {
+function oneSentence(text, max = 240) {
+  const first = sentenceSplit(text)[0] || clean(text).replace(/\n+/g, " ");
+  if (first.length <= max) return first;
+  const cut = first.slice(0, max);
+  const lastSpace = cut.lastIndexOf(" ");
+  return `${cut.slice(0, lastSpace > 120 ? lastSpace : max).trim()}...`;
+}
+
+function findSentences(posts, matcher, limit = 3) {
   const out = [];
-  const normalizedWords = words.map(normalize);
 
   for (const post of posts) {
     for (const sentence of sentenceSplit(post.texto)) {
-      const normalized = normalize(sentence);
-      if (normalizedWords.some((word) => normalized.includes(word))) {
+      if (matcher(sentence)) {
         out.push({
           fecha: post.fecha,
           autor: post.autor,
-          texto: sentence.length > 360 ? `${sentence.slice(0, 357).trim()}...` : sentence
+          texto: oneSentence(sentence, 260),
+          url: post.url
         });
       }
       if (out.length >= limit) return out;
@@ -186,32 +294,66 @@ function findSentences(posts, words, limit = 3) {
   return out;
 }
 
+function containsAnyWord(sentence, words) {
+  const normalized = normalize(sentence);
+  return words.map(normalize).some((word) => normalized.includes(word));
+}
+
+function isMissionSentence(sentence) {
+  return MISSION_PATTERNS.some((pattern) => pattern.test(sentence));
+}
+
 function inferState(recentPosts, events) {
   const text = normalize(recentPosts.map((post) => post.texto).join(" "));
   const eventKeywords = new Set(events.flatMap((event) => event.palabrasClave || []).map(normalize));
 
-  if (text.includes("ruina") || text.includes("destruid") || text.includes("carboniz")) return "Dañado o destruido";
-  if (text.includes("corromp") || text.includes("plaga") || text.includes("maldicion")) return "Amenazado por corrupcion o plaga";
-  if (text.includes("batalla") || text.includes("combate") || text.includes("asedio") || eventKeywords.has("batalla")) return "En conflicto";
-  if (text.includes("abandon")) return "Abandonado o parcialmente abandonado";
-  if (text.includes("bloquea") || text.includes("bloqueado") || text.includes("bloqueada")) return "Bloqueado o alterado";
-  return UNKNOWN;
+  if (text.includes("ruina") || text.includes("destruid") || text.includes("carboniz")) {
+    return { value: "Dañado o destruido", confidence: "media", evidence: "Mensajes recientes mencionan ruinas, destruccion o restos carbonizados." };
+  }
+  if (text.includes("corromp") || text.includes("plaga") || text.includes("maldicion")) {
+    return { value: "Amenazado por corrupcion o plaga", confidence: "media", evidence: "Mensajes recientes mencionan corrupcion, plaga o maldicion." };
+  }
+  if (text.includes("batalla") || text.includes("combate") || text.includes("asedio") || eventKeywords.has("batalla")) {
+    return { value: "En conflicto", confidence: "media", evidence: "Hay eventos o mensajes recientes de batalla, combate o asedio." };
+  }
+  if (text.includes("abandon")) {
+    return { value: "Abandonado o parcialmente abandonado", confidence: "media", evidence: "Mensajes recientes mencionan abandono." };
+  }
+  if (text.includes("bloquea") || text.includes("bloqueado") || text.includes("bloqueada")) {
+    return { value: "Bloqueado o alterado", confidence: "media", evidence: "Mensajes recientes mencionan bloqueo o alteracion." };
+  }
+  return { value: UNKNOWN, confidence: "baja", evidence: "No hay evidencia reciente clara." };
 }
 
-function inferControl(locationEntity, locationEvents) {
-  const factionCounts = new Map();
-
+function inferControl(locationEntity, recentPosts, locationEvents) {
+  const candidates = new Map();
   for (const faction of locationEntity?.facciones || []) {
-    factionCounts.set(faction.nombre, (factionCounts.get(faction.nombre) || 0) + faction.frecuencia);
-  }
-  for (const event of locationEvents) {
-    for (const faction of event.faccionesMencionadas || []) {
-      factionCounts.set(faction, (factionCounts.get(faction) || 0) + 1);
+    const key = normalize(faction.nombre);
+    if (BASE_CONTROL_NAMES.has(key) && faction.frecuencia >= 3) {
+      candidates.set(faction.nombre, (candidates.get(faction.nombre) || 0) + faction.frecuencia);
     }
   }
 
-  const sorted = [...factionCounts.entries()].sort((a, b) => b[1] - a[1]);
-  return sorted[0]?.[0] || UNKNOWN;
+  const recentText = normalize(recentPosts.map((post) => post.texto).join(" "));
+  for (const event of locationEvents.slice(-8)) {
+    for (const faction of event.faccionesMencionadas || []) {
+      const key = normalize(faction);
+      if (BASE_CONTROL_NAMES.has(key) && recentText.includes(key)) {
+        candidates.set(faction, (candidates.get(faction) || 0) + 2);
+      }
+    }
+  }
+
+  const sorted = [...candidates.entries()].sort((a, b) => b[1] - a[1]);
+  if (!sorted.length) {
+    return { value: UNKNOWN, confidence: "baja", evidence: "No hay faccion dominante confirmada por mapa base o evidencia reciente clara." };
+  }
+
+  return {
+    value: sorted[0][0],
+    confidence: sorted[0][1] >= 10 ? "media" : "baja",
+    evidence: `Candidato detectado por menciones en entidades/eventos: ${sorted[0][0]} (${sorted[0][1]} puntos).`
+  };
 }
 
 function formatBullets(items, render) {
@@ -220,14 +362,13 @@ function formatBullets(items, render) {
 }
 
 function eventLine(event) {
-  const keys = (event.palabrasClave || []).slice(0, 5).join(", ");
-  const summary = clean(event.resumenAutomatico || "").replace(/\n/g, " ");
+  const keys = (event.palabrasClave || []).slice(0, 4).join(", ");
+  const summary = oneSentence(event.textoFuente || event.resumenAutomatico || "", 220);
   return `${event.fecha || "Sin fecha"}: ${keys || "evento"} - ${summary}${event.url ? ` (${event.url})` : ""}`;
 }
 
 function recentLine(post) {
-  const summary = clean(post.texto || "").replace(/\n/g, " ").slice(0, 500);
-  return `${post.fecha || "Sin fecha"} - ${post.autor || UNKNOWN}: ${summary}${post.url ? ` (${post.url})` : ""}`;
+  return `${post.fecha || "Sin fecha"} - ${post.autor || UNKNOWN}: ${oneSentence(post.texto || "", 260)}${post.url ? ` (${post.url})` : ""}`;
 }
 
 async function loadLocations() {
@@ -251,6 +392,31 @@ async function loadLocations() {
   }
 
   return locations.sort((a, b) => Number(a.code) - Number(b.code) || a.title.localeCompare(b.title));
+}
+
+function knownActorNames(posts) {
+  return new Set(
+    posts
+      .flatMap((post) => [post.personaje, post.autor])
+      .filter((name) => name && !["Director", "SISTEMA", "No indicado", "Desconocido"].includes(name))
+      .map(normalize)
+  );
+}
+
+function confidenceForEvidence(items) {
+  if (!items.length) return "baja";
+  return items.length >= 2 ? "media" : "baja";
+}
+
+function hydrateEventsWithSource(events, posts) {
+  return events.map((event) => {
+    const source = posts.find((post) => post.url === event.url && post.fecha === event.fecha);
+    return source ? { ...event, textoFuente: source.texto } : event;
+  });
+}
+
+function debugBlock(title, data) {
+  return ["", `### ${title}`, "", "```json", JSON.stringify(data, null, 2), "```", ""].join("\n");
 }
 
 async function main() {
@@ -284,9 +450,16 @@ async function main() {
     "# Estado Actual",
     "",
     "Generado automaticamente desde `data/localizaciones`, `data/cronologia_global.json`, `data/entidades` y `data/eventos`.",
-    "Este archivo resume el estado jugable actual inferido a partir de los ultimos mensajes. Cuando no hay evidencia suficiente se marca como `Desconocido`.",
+    "",
+    "Criterio: resume estado jugable actual a partir de ultimos mensajes y eventos detectados. Cuando no hay evidencia suficiente se usa `Desconocido`.",
     "",
     `Localizaciones incluidas: ${locations.length}.`,
+    ""
+  ];
+  const debug = [
+    "# Estado Actual DEBUG",
+    "",
+    "Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.",
     ""
   ];
 
@@ -297,54 +470,108 @@ async function main() {
     );
     const recentPosts = location.posts.slice(-RECENT_POSTS).reverse();
     const latestPost = recentPosts[0];
-    const importantEvents = locationEvents.slice(-5).reverse();
+    const importantEvents = hydrateEventsWithSource(locationEvents.slice(-5).reverse(), location.posts);
+    const knownNames = knownActorNames(location.posts);
     const actorNames = unique(
       location.posts
         .flatMap((post) => [post.personaje, post.autor])
         .filter((name) => name && !["Director", "SISTEMA", "No indicado", "Desconocido"].includes(name))
-        .filter(isUsefulName)
+        .filter((name) => isUsefulName(name, knownNames))
     );
     const entityNames = (npcByLocation.get(location.title) || [])
-      .sort(byCountDesc)
-      .filter((item) => item.esAutorOPersonaje || /\s/.test(item.nombre))
+      .sort((a, b) => (b.frecuencia || 0) - (a.frecuencia || 0))
+      .filter((item) => item.esAutorOPersonaje || knownNames.has(normalize(item.nombre)))
       .map((item) => item.nombre)
-      .filter(isUsefulName);
+      .filter((name) => isUsefulName(name, knownNames));
     const relevantNpcs = unique([...actorNames, ...entityNames]).slice(0, 12);
     const players = actorNames.slice(0, 12);
 
-    const threats = findSentences(recentPosts, THREAT_WORDS, 3);
-    const missions = findSentences(recentPosts, MISSION_WORDS, 3);
-    const changes = findSentences(recentPosts, CHANGE_WORDS, 3);
+    const threats = findSentences(recentPosts, (sentence) => containsAnyWord(sentence, THREAT_WORDS), 3);
+    const missions = findSentences(recentPosts, isMissionSentence, 3);
+    const changes = findSentences(recentPosts, (sentence) => containsAnyWord(sentence, CHANGE_WORDS), 3);
+    const state = inferState(recentPosts, locationEvents);
+    const control = inferControl(entity, recentPosts, locationEvents);
+    const threatConfidence = confidenceForEvidence(threats);
+    const missionConfidence = confidenceForEvidence(missions);
 
     lines.push(
       `## ${location.code} ${titleWithoutCode(location.title) || location.title}`,
       "",
-      `- Estado actual: ${inferState(recentPosts, locationEvents)}`,
-      `- Control / faccion dominante: ${inferControl(entity, locationEvents)}`,
+      `- Estado actual: ${state.value}`,
+      `- Confianza estado: ${state.confidence}`,
+      "",
+      `- Control / faccion dominante: ${control.value}`,
+      `- Confianza control: ${control.confidence}`,
+      "",
       "- NPCs presentes o relevantes:",
       formatBullets(relevantNpcs, (name) => name),
+      "",
       "- Jugadores que han actuado aqui:",
       formatBullets(players, (name) => name),
+      "",
       "- Eventos importantes ocurridos:",
       formatBullets(importantEvents, eventLine),
+      "",
       "- Ultimo evento conocido:",
       `  - ${latestPost ? recentLine(latestPost) : UNKNOWN}`,
+      "",
       "- Amenazas activas:",
-      formatBullets(threats, (item) => `${item.fecha}: ${item.texto}`),
+      `  - Confianza: ${threatConfidence}`,
+      formatBullets(threats, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
+      "",
       "- Misiones abiertas:",
-      formatBullets(missions, (item) => `${item.fecha}: ${item.texto}`),
+      `  - Confianza: ${missionConfidence}`,
+      formatBullets(missions, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
+      "",
       "- Cambios respecto al mapa base:",
-      formatBullets(changes, (item) => `${item.fecha}: ${item.texto}`),
+      formatBullets(changes, (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`),
+      "",
       "- Dudas / necesita revision manual:",
       `  - ${threats.length || missions.length || changes.length || importantEvents.length ? "Revisar manualmente para confirmar inferencias automaticas." : UNKNOWN}`,
+      "",
       `- URL original: ${location.url || latestPost?.url || UNKNOWN}`,
       ""
+    );
+
+    debug.push(
+      `## ${location.code} ${titleWithoutCode(location.title) || location.title}`,
+      debugBlock("Inferencias", {
+        estado: state,
+        control,
+        confianzaAmenazas: threatConfidence,
+        confianzaMisiones: missionConfidence
+      }),
+      debugBlock(
+        "Ultimos mensajes usados",
+        recentPosts.map((post) => ({
+          fecha: post.fecha,
+          autor: post.autor,
+          personaje: post.personaje,
+          url: post.url,
+          texto: oneSentence(post.texto, 600)
+        }))
+      ),
+      debugBlock("Amenazas detectadas", threats),
+      debugBlock("Misiones detectadas", missions),
+      debugBlock("Cambios detectados", changes),
+      debugBlock(
+        "Eventos importantes usados",
+        importantEvents.map((event) => ({
+          id: event.id,
+          fecha: event.fecha,
+          palabrasClave: event.palabrasClave,
+          resumen: oneSentence(event.textoFuente || event.resumenAutomatico, 400),
+          url: event.url
+        }))
+      )
     );
   }
 
   await fs.mkdir(EXPORTS_DIR, { recursive: true });
   await fs.writeFile(OUTPUT, `${lines.join("\n").trim()}\n`, "utf8");
+  await fs.writeFile(DEBUG_OUTPUT, `${debug.join("\n").trim()}\n`, "utf8");
   console.log(`Estado actual generado: ${path.relative(ROOT, OUTPUT)}`);
+  console.log(`Debug generado: ${path.relative(ROOT, DEBUG_OUTPUT)}`);
   console.log(`Localizaciones incluidas: ${locations.length}`);
 }
 

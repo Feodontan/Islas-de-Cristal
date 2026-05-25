@@ -1,380 +1,433 @@
 # Estado Actual
 
 Generado automaticamente desde `data/localizaciones`, `data/cronologia_global.json`, `data/entidades` y `data/eventos`.
-Este archivo resume el estado jugable actual inferido a partir de los ultimos mensajes. Cuando no hay evidencia suficiente se marca como `Desconocido`.
+
+Criterio: resume estado jugable actual a partir de ultimos mensajes y eventos detectados. Cuando no hay evidencia suficiente se usa `Desconocido`.
 
 Localizaciones incluidas: 34.
 
 ## 0607 Pecio Maldito
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Fortaleza de Muerto Viviente
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Chibi Meido
   - Ember
-  - Chibi y Ember
-  - Azure Dragon
-  - Clase de Armadura
-  - Ember y
-  - Ember y Chibi
-  - Exclama Chibi
-  - Murmura Ember
-  - Perfecto. Ahora
-  - Rosa de los Vientos
+
 - Jugadores que han actuado aqui:
   - Chibi Meido
   - Ember
+
 - Eventos importantes ocurridos:
-  - 19/06/2024, 13:31: batalla - rectamente al rostro de la criatura. La arpía, derrotada y sin fuerzas, cae al suelo, finalmente inmovilizada. La respiración agitada de ambas resuena en la cubierta, el eco de la batalla aún vibrando en el aire salado. Ember se yergue, victoriosa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
-  - 18/06/2024, 21:30: ataque - io aviso, lanza su aliento con una fuerza sorprendente. La ráfaga de energía sorprende a la arpía, que intenta esquivarlo desesperadamente. Sin embargo, en su intento de evitar el ataque, la criatura se estrella contra el palo mayor del barco. El impacto la desorienta, y sus alas se enredan torpemente en las cuerdas, provocando su caída estrepitosa sobre la cubierta con un sonoro golpe. La arpía se levanta lentamente, aturdida por el golpe. Con un graznido de furia, se lanza hacia ellas con la porra en alto, sus oj (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
-  - 10/06/2024, 13:16: amenaza - evitaremos problemas más adelante. Ember toma una postura más decidida, su expresión severa pero concentrada. Ella asiente y avanza con cautela hacia la cubierta, consciente de la amenaza que se avecina. Mira a Chibi Meido, ofreciendo una leve sonrisa de ánimo. -Mantente cerca de mí. Si atacamos, lo hacemos juntas. Nos apoyaremos mutuamente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
-  - 04/06/2024, 13:37: maldicion - en las joyas, muestra un destello de comprensión. Con un suspiro exagerado y una sonrisa altiva, asiente con la cabeza. -Está bien. Vamos a entregar ese amuleto y poner fin a esta maldición. Después de todo, una reina no puede permitir que su futuro reino esté plagado de no-muertos, ¿verdad? Una vez en la cubierta, la luz del día se siente como un bálsamo para sus espíritus agotados. Ember, con su habitual actitud de superioridad, se estira y sonríe con confianza. -Ahora, vamos a buscar a esos kobolds para que nos (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1)
-  - 03/06/2024, 22:05: maldicion - das, su vista acaba una vez más en la codiciosa mirada de Ember. -¡Ember! Toma lo que quieras y vamos. Tenemos que volver, si entregamos esto a la persona adecuada se deshacerá la maldición.- (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1)
+  - 19/06/2024, 13:31: batalla - Ambas se lanzan hacia la arpía con movimientos coordinados. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+  - 18/06/2024, 21:30: ataque - Chibi toma una profunda bocanada de aire y, sin previo aviso, lanza su aliento con una fuerza sorprendente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+  - 10/06/2024, 13:16: amenaza - Ember frunce el ceño, evaluando la situación mientras observa a Chibi Meido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+  - 04/06/2024, 13:37: maldicion - Ember, con sus ojos brillando de codicia, se detiene un momento al escuchar las palabras de Chibi Meido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1)
+  - 03/06/2024, 22:05: maldicion - La pequeña maid comienza a leer el cuaderno de la bitácora con expresión variada a medida que va leyendo más y más de este. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1)
+
 - Ultimo evento conocido:
-  - 30/06/2024, 16:24 - Director: Ember acepta las gemas con una sonrisa altiva y satisfecha, sus ojos brillando con una emoción casi infantil al ver las brillantes joyas. Las observa fascinada, girándolas entre sus dedos para admirar el destello de las luces reflejadas en sus superficies pulidas.  -Buena chica. Sabes cómo agradar a tu reina.  Dice con un guiño.  Luego, con una mirada seria, asiente y comienza a caminar hacia la ladera.  -Vamos. No quiero estar aquí más tiempo del necesario.  Chibi sigue a Ember de cerca.  La br (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+  - 30/06/2024, 16:24 - Director: Ember acepta las gemas con una sonrisa altiva y satisfecha, sus ojos brillando con una emoción casi infantil al ver las brillantes joyas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+
 - Amenazas activas:
-  - 26/06/2024, 21:52: La criatura le parecía mucho más peligrosa y aterradora que los zombis que hasta el momento habrían estado enfrentando, pero la sonrisa que se forma en su rostro al acabar con esta casi con la misma facilidad que antes le hace sentir invencible.
+  - Confianza: baja
+  - 26/06/2024, 21:52: La criatura le parecía mucho más peligrosa y aterradora que los zombis que hasta el momento habrían estado enfrentando, pero la sonrisa que se forma en su rostro al acabar con esta casi con la misma facilidad que antes le hace sentir invencible. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
+
 - Misiones abiertas:
-  - 30/06/2024, 16:24: Una vez llegan a la base de la ladera, se toman un momento para recuperar el aliento y mirar alrededor.
-  - 30/06/2024, 05:25: -Tenemos que irnos ya...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito
 
 ## 0608 Nueva Vector
 
-- Estado actual: En conflicto
+- Estado actual: Amenazado por corrupcion o plaga
+- Confianza estado: media
+
 - Control / faccion dominante: Nueva Vector
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Mamoru Ai Yastis
-  - Sakurami City
-  - Laylee y Myla
-  - Myla y Laylee
-  - Añadió Myla
-  - Detective Mamoru
-  - Detrás de
-  - Dragon’s Rest
-  - Anillo Este
-  - Añadió Laylee
-  - Archivador Uno
-  - Armaduras Magitek
+
 - Jugadores que han actuado aqui:
   - Mamoru Ai Yastis
+
 - Eventos importantes ocurridos:
-  - 04/05/2025, 23:23: guerra, sello, maldicion - botas pesadas. No lo hacía. Solo caminaba raro. -Comandante Celes. -Se llevó una mano al pecho, como si acabara de aterrizar de un salto épico y estuviera ocultando una herida de guerra, cuando en realidad solo tenía hipo— Me honra recibir su desesperación. El silencio se volvió incómodo. Luego siguió siendo incómodo, pero ya todos estaban acostumbrados. Mamoru avanzó hasta el centro de la sala, ignorando por completo al general con flores caídas, al de la propuesta de matrimonio y al artista con alma de ficwriter (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
-  - 03/05/2025, 15:54: sello - eó dos veces contra su propia rodilla, lo que no hizo nada útil, pero sí sonó autoritario. -Esta operación fue un éxito total -continuó, dando un paso hacia las puertas dobles- El sello mágico fue neutralizado. Las estructuras físicas siguen en pie, el burrito se mantuvo operativo en todo momento, y yo, por supuesto, no morí. Lo cual ya es estadísticamente improbable. No hace falta agradecerme. Lo hago por el bien de Sakurami City. Dijo eso último con un énfasis tal que casi se pudo oír cómo se formaba un eco invis (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
-  - 27/04/2025, 18:20: guerra - pared marcaba el paso del tiempo con un tic-tac deliberadamente dramático. Laylee susurró por lo bajo, repleta de emoción: -¡Este es el momento donde los héroes irrumpen en la sala de guerra! Myla asintió, sacando un pergamino que ella misma había titulado: "Resumen de la Gloriosa Victoria de Unidad Bravo Uno (Primera Edición, Borrador Número 7)." (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
-  - 27/04/2025, 02:26: sello - viera marcando el paso de una banda militar. Myla repasaba en voz alta el borrador del informe de misión: -Operativo 8-G: Activación de protocolo de acción reactiva improvisada. Resultado: Sello mágico desactivado mediante impacto tonfaico combinado con desplazamiento cinético controlado. Daños colaterales: Inmateriales. Daños a la dignidad: Evaluación pendiente. La Comisaría Central se alzaba majestuosa como siempre: Columnas de hierro forjado, puertas pesadas, faroles de gas encendidos que iluminaban los uniforme (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
-  - 22/04/2025, 00:34: sello - mpuerta abierta, como si supiera que su detective había hecho algo… otra vez. La sala aún olía a magia quemada, grasa de kobold y algo vagamente parecido a tostadas carbonizadas. El sello en el suelo ya no brillaba. Solo quedaban los residuos mágicos y una mancha pegajosa en forma de media luna, cortesía del aceite derramado y el ego inflado. Mamoru Ai Yastis, aún con la tonfa torcida y la gabardina colgando como si hubiera salido de una centrifugadora emocional, se había erguido como un símbolo de algo. No sabían (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 04/05/2025, 23:23: guerra, sello, maldicion - Mamoru Ai Yastis se quedó un instante congelado en el umbral, iluminado por el contraluz del atardecer, con la silueta perfectamente enmarcada como si el mismísimo destino le hubiera hecho una entrada teatral digna de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 03/05/2025, 15:54: sello - Mamoru Ai Yastis se plantó frente a los dos guardias Magitek como si estuviera enfrentándose a una puerta del destino que necesitaba de su puño y convicción para abrirse. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 27/04/2025, 18:20: guerra - Laylee se llevó ambas manos a la boca, los ojos brillando como si estuviera frente a una profecía cumplida. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 27/04/2025, 02:26: sello - Laylee y Myla marchaban detrás de él como si fueran parte de una escolta de élite improvisada, claramente creyendo que estaban en medio de una operación secreta de proporciones históricas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 22/04/2025, 00:34: sello - Laylee lo miró con los ojos abiertos como platos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+
 - Ultimo evento conocido:
-  - 11/05/2025, 03:33 - Director: El administrativo, “Archivador Uno”, como había sido nombrado, se quedó mirando a Mamoru con el formulario aún flotando en su mano como si acabara de recibir una respuesta en un dialecto olvidado por los dioses de la burocracia.  Lo pensó. Lo volvió a pensar.  Nada de lo dicho concordaba con los registros que él tenía sobre Dragon’s Rest:  No había ascensores, y mucho menos que hablaran.  Nadie, jamás, había llorado al llamarlo teniente.  Y los espejos... bueno, los espejos no hablaban. Hasta do (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=3)
+  - 11/05/2025, 03:33 - Director: El administrativo, “Archivador Uno”, como había sido nombrado, se quedó mirando a Mamoru con el formulario aún flotando en su mano como si acabara de recibir una respuesta en un dialecto olvidado por los dioses de la burocracia. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=3)
+
 - Amenazas activas:
-  - 10/05/2025, 23:12: -Y el Distrito Imperial, claro… -prosiguió Mamoru, dando un par de pasos que pretendían ser reflexivos, pero que en realidad lo alejaban peligrosamente del burro, que lo seguía con mirada fija y juicio mudo- Tan pulcro, tan estructurado...
+  - Confianza: media
+  - 10/05/2025, 23:12: -Y el Distrito Imperial, claro… -prosiguió Mamoru, dando un par de pasos que pretendían ser reflexivos, pero que en realidad lo alejaban peligrosamente del burro, que lo seguía con mirada fija y juicio mudo- Tan pulcro, tan estructurado... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 04/05/2025, 23:23: -Se llevó una mano al pecho, como si acabara de aterrizar de un salto épico y estuviera ocultando una herida de guerra, cuando en realidad solo tenía hipo— Me honra recibir su desesperación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 04/05/2025, 23:23: Probable origen: maldición, posesión o marketing. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+
 - Misiones abiertas:
-  - 11/05/2025, 03:33: Y cuando Mamoru se alejó, el administrativo lo observó en silencio, como si acabara de presenciar el paso de una fuerza de la naturaleza que no se puede detener...
-  - 09/05/2025, 15:48: se ha informado oficialmente que su misión ha sido registrada como "resuelta satisfactoriamente", con dos asteriscos, una anotación flotante y una nota de “consulta pendiente con el departamento de Realidad Consensuada”.
-  - 08/05/2025, 11:42: TÍTULO DEL INFORME: "Cortejo, Carboncillo y Comando: una misión diplomática de alto riesgo emocional (con flores)" Resumen de lo sucedido: Entré en el centro neural de operaciones estratégicas, también conocido como “la oficina de Celes Chere”, con el temple de un guerrero veterano que ha enfrentado tráfico vehicular y el sistema de licencias de armas del...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 10/05/2025, 23:12: No las puedo abandonar ahora.
-  - 10/05/2025, 23:12: Mamoru, en cambio, se giró hacia el burro y le dio unas palmadas en el lomo.
+  - 10/05/2025, 23:12: No las puedo abandonar ahora. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+  - 10/05/2025, 23:12: Mamoru, en cambio, se giró hacia el burro y le dio unas palmadas en el lomo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector
 
 ## 0706 Dragon's Rest
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Chibi Meido
   - Ember
   - Doragonkuin
   - Mamoru Ai Yastis
-  - Azure Dragon
-  - Myla y Laylee
-  - Sakurami City
-  - Chibi y Ember
-  - Chibi Meido y Ember
-  - Dragon’s Rest
-  - Añade Laylee
-  - Chibi Meido. Sin
+
 - Jugadores que han actuado aqui:
   - Chibi Meido
   - Ember
   - Doragonkuin
   - Mamoru Ai Yastis
+
 - Eventos importantes ocurridos:
-  - 15/05/2025, 09:50: invadir - Mamoru Ai Yastis contempló el caos perfectamente coordinado que acababa de invadir su despacho con la resignación de un hombre que había visto demasiado… y aún así no lo suficiente. -Bien… veo que la operación ha escalado de peculiar a festival micótico sin retorno. Se acercó a la carreta, inspeccionó el llavero de coral como si pudiera morderlo, y luego lanzó una mirada significativa al burrito. -Prepárate, camarada. Hoy nos convertimos en embajadores de la humedad. -Alzó una ceja al ver las banderas, la bocina, y (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-  - 14/05/2025, 20:29: traicion - endo el ceño. No contaba que le pusieran un trabajo nuevo tan rápido, aunque a decir verdad el hecho de estar hasta arriba de trabajo no era algo extraño para el. -Esto... huele a traición... -murmuró. Luego hojeó el informe. Lo hojeó más rápido. Lo hojeó una tercera vez con la esperanza de que en la relectura desapareciera la parte del pulpo mutado por esporas. No lo hizo. Se acomodó la capa, suspiró con dignidad dudosa, y se puso de pie. Era otro día más en Sakurami City. -Muy bien -dijo en voz alta, como si nece (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-  - 12/05/2025, 23:18: amenaza - ado una criatura fúngica que patrulla las cuevas: un pulpo mutado por esporas. Así que, si quiere acceder a su zona, tendrá que enfrentarse a él o convencerlo de que no representa una amenaza. Extendió el saco: -Este es… un gesto de buena voluntad. Restos de comida fermentada. Según Tarak, el olor les resulta “familiar y amigable”. La sacerdotisa lo miró directamente, y añadió con un tono neutro que Mamoru sabía leer como “esto es para ti porque nadie más va a querer hacerlo”: -Oficialmente: Operación 49-F, contact (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-  - 12/05/2025, 21:19: traicion - is había permanecido de pie como una estatua durante toda la interpretación, con la chaqueta ladeada, una media visible en el tobillo derecho (la otra aún perdida en el caso de La Traición del Ascensor Parlante) y los ojos entornados como si sopesara la gravedad de una revelación sagrada. Pero cuando los kobolds entonaron la última línea, y el burrito respondió con un rebuzno digno de una sinfonía escrita por un comité de bardos ebrios… Mamoru comenzó a aplaudir. No aplaudía bien. Aplaudía como si cada palmada inte (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-  - 11/05/2025, 14:42: plaga, sello - jado de la celda improvisada, Cid podía ver parcialmente la plaza frente a la comisaría. El sonido del tambor-kobold y la flautita desafinada se colaba por las grietas de la piedra como una plaga sonora inevitable. Apoyado contra la pared de su celda, los brazos cruzados, Cid ladeó la cabeza muy lentamente, justo mientras Myla entonaba la parte final del himno y Laylee agitaba un banderín con el burrito pintado a témpera. El rebuzno final lo sacudió como un golpe emocional no consentido. Cid, aún mirando a través d (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 15/05/2025, 09:50: invadir - Mamoru Ai Yastis contempló el caos perfectamente coordinado que acababa de invadir su despacho con la resignación de un hombre que había visto demasiado… y aún así no lo suficiente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 14/05/2025, 20:29: traicion - Mamoru Ai Yastis observó el saco mugriento como si acabaran de dejarle un corazón palpitante sobre el escritorio. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 12/05/2025, 23:18: amenaza - Pasado el breve respiro de caos festivo, ya con la melodía kobold menor disipándose en los ecos de los pasillos de Dragon’s Rest y con Mamoru asentado en su escritorio (una pila de informes, una taza de café tibio y una... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 12/05/2025, 21:19: traicion - Mamoru Ai Yastis había permanecido de pie como una estatua durante toda la interpretación, con la chaqueta ladeada, una media visible en el tobillo derecho (la otra aún perdida en el caso de La Traición del Ascensor... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 11/05/2025, 14:42: plaga, sello - Los kobolds, ante la orden solemne de Mamoru, se pusieron en formación con la coordinación de un coro sin ensayos, sin partituras y sin sentido del ritmo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+
 - Ultimo evento conocido:
-  - 15/05/2025, 16:53 - Director: La carreta partió de Dragon’s Rest envuelta en una mezcla de vapor matinal, olor a cuero húmedo y una motivación inexplicablemente alta. Unidad Bravo Uno, ahora oficialmente reconocida por varios carteles dibujados con crayón en la entrada de la comisaría, avanzaba rumbo a las cuevas marinas.  Laylee, desde la parte trasera de la carreta, ondeaba una bandera con hongos bordados al revés mientras practicaba una coreografía improvisada de señas que incluía pasos de cangrejo.  -¡Estamos listos para (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 15/05/2025, 16:53 - Director: La carreta partió de Dragon’s Rest envuelta en una mezcla de vapor matinal, olor a cuero húmedo y una motivación inexplicablemente alta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+
 - Amenazas activas:
-  - 15/05/2025, 16:53: -¡Estamos listos para el contacto fúngico pacífico no hostil!
-  - 14/05/2025, 20:29: O me hago el muerto.
-  - 12/05/2025, 23:18: Así que, si quiere acceder a su zona, tendrá que enfrentarse a él o convencerlo de que no representa una amenaza.
+  - Confianza: media
+  - 15/05/2025, 16:53: -¡Estamos listos para el contacto fúngico pacífico no hostil! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 14/05/2025, 20:29: O me hago el muerto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+  - 12/05/2025, 23:18: Así que, si quiere acceder a su zona, tendrá que enfrentarse a él o convencerlo de que no representa una amenaza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
+
 - Misiones abiertas:
-  - 14/05/2025, 22:00: Objetivos: sobrevivir, comunicar y no ofender con juegos de palabras sobre setas.” Desde fuera, el burrito patrullero ya rascaba el suelo con una pezuña, como quien presiente que va a tener que remar por lodo metafísico.
-  - 12/05/2025, 23:18: Laylee, desde una esquina, ya empezaba a buscar su banderín.
-  - 12/05/2025, 23:18: -Nos ha pedido que enviemos a un agente a investigar el motivo del aislamiento, intentar restablecer contacto, y si es posible, traer una muestra de hongos con sombrero en forma de corazón, que al parecer son clave en su estructura de comunicación...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest
 
 ## 0707 Planicie
 
 - Estado actual: Desconocido
-- Control / faccion dominante: Imperio Terra
+- Confianza estado: baja
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Chibi Meido
   - Ember
   - Mamoru Ai Yastis
-  - Añadió Myla
-  - Azure Dragon
   - Doragonkuin
-  - Chibi y Ember
-  - Myla y Laylee
-  - Cid- Creo
-  - Ember y
-  - Exclama Myla
-  - Exclamó Laylee
+
 - Jugadores que han actuado aqui:
   - Chibi Meido
   - Ember
   - Mamoru Ai Yastis
+
 - Eventos importantes ocurridos:
-  - 26/02/2025, 20:09: ritual - n reaccionar. -...¡Eso fue INCREÍBLE! Myla parpadeó varias veces. -Sí, sí… ¡¿Pero qué significa?! Laylee se inclinó hacia Mamoru y preguntó con una curiosidad genuina: -¿Eso es un ritual de apareamiento humano? Cid colapsó internamente. No físicamente. No aún. Pero su alma se derrumbó. -…No. Laylee no pareció convencida. -Seguro que sí. Asintió con confianza. -¿No has visto cómo lo hizo? ¡Con absoluta determinación! -¡Y sin dudarlo! Añadió Myla, tomando notas mentales. -¡Claramente es un gesto de vínculo eterno! Ci (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
-  - 25/02/2025, 12:34: destruccion, ruinas - absoluta. -¡GENIAL! Gritaron al unísono. Cid parpadeó y las fulminó con la mirada. -¡¿DE QUÉ LADO ESTÁIS?! Laylee hizo un gesto vago con las manos. -Bueno, técnicamente del lado de la destrucción… -…y del caos mecánico sin regulación alguna. Añadió Myla. -¡Sí, eso! Cid masajeó sus sienes con desesperación. -Me rindo. Me rindo completamente. Laylee se giró hacia Mamoru y le dio un leve codazo en la pierna, porque no alcanzaba más arriba. -¡Eh, oficial, si vas a multarlo, pon en el informe que la nave explotó en llam (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
-  - 23/02/2025, 23:54: asesinato - t tenía razón y Mamoru Ai Yastis, de hecho, era una anomalía que debía ser eliminada. Cid parpadeó lentamente. -…Voy a matarte. Pero antes de que Cid pudiera decidir si cometer un asesinato en ese momento valía la pena, una voz llamó la atención de ambos. Eran kobolds. Pequeñas, escamosas, cubiertas de hollín, aceite y un entusiasmo mecánico completamente desbordante. Myla y Laylee. Las dos corrían hacia los recién llegados con una sincronización caótica pero eficiente, como si hubieran estado esperando una oportun (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
-  - 20/02/2025, 18:26: destruida, amenaza - una vez fue su orgullo y joya de la ingeniería, con la expresión de un hombre que acaba de perder la última pizca de cordura que le quedaba. Cid, sin apartar la mirada de su nave destruida, cerró los ojos lentamente. -…Voy a matarte. Mamoru, ignorando por completo la amenaza, levantó la vista y observó su entorno. Se encontraban en una vasta llanura, con colinas suaves y algo de vegetación baja. El cielo seguía despejado, sin rastro de Bahamut, lo que significaba que o bien el dragón había considerado que su misió (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
+  - 26/02/2025, 20:09: ritual - Cid dejó de respirar por un segundo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
+  - 25/02/2025, 12:34: destruccion, ruinas - Cid cerró los ojos con una profunda expresión de resignación absoluta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
+  - 23/02/2025, 23:54: asesinato - Cid, que todavía estaba procesando la absoluta tragedia de su nave destrozada, parpadeó lentamente ante las palabras de Mamoru. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
+  - 20/02/2025, 18:26: destruida, amenaza - La tragedia aérea del Enterprise fue un evento que debería haber terminado en absoluto desastre. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1)
+
 - Ultimo evento conocido:
-  - 07/03/2025, 02:41 - Director: Cid sintió cómo su paciencia se desintegraba al escuchar aquello.  Se detuvo en seco, apretó los dientes y se llevó una mano a la cara, frotándose el puente de la nariz con absoluta desesperación.  Las kobolds, en cambio, reaccionaron de manera completamente distinta.  Laylee se giró hacia Mamoru con los ojos abiertos de par en par.  -…¡¿QUÉ?!  Myla también se detuvo, parpadeando repetidamente con una mezcla de sorpresa y confusión.  -¡¿NOSOTRAS?! ¿¡PERSEGUIDAS Y ENCARCELADAS!?  Laylee se llevó  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
+  - 07/03/2025, 02:41 - Director: Cid sintió cómo su paciencia se desintegraba al escuchar aquello. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
-  - 26/02/2025, 22:07: -Hmm… bueno, considerando que parece muy importante para él y que habla de “detener” gente ahí… debe ser algún tipo de lugar de adoración.
-  - 26/02/2025, 20:09: Cid dejó caer la cabeza hacia atrás, mirando al cielo como si estuviera pidiendo ayuda divina.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 07/03/2025, 02:41: Las kobolds, en cambio, reaccionaron de manera completamente distinta.
-  - 26/02/2025, 22:07: Mamoru, en cambio, ya estaba avanzando sin dirección.
+  - 07/03/2025, 02:41: Las kobolds, en cambio, reaccionaron de manera completamente distinta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
+  - 26/02/2025, 22:07: Mamoru, en cambio, ya estaba avanzando sin dirección. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie
 
 ## 0711 Strixhaven
 
 - Estado actual: Dañado o destruido
+- Confianza estado: media
+
 - Control / faccion dominante: Strixhaven
+- Confianza control: media
+
 - NPCs presentes o relevantes:
   - Carol Copper
   - Jacklin
   - Tenebris
   - Aranea
-  - Smelted Beasts
-  - Smelted Beast
   - Aldar
-  - Miss Bilwa
   - Becky
   - Cecil
-  - Llave Xion
   - Rosa
+  - Zelda
+
 - Jugadores que han actuado aqui:
   - Carol Copper
   - Jacklin
   - Tenebris
+
 - Eventos importantes ocurridos:
-  - 24/05/2025, 15:31: destruida, cristal - e horrible, pero quien los guiaba sabía lo que hacía. Cid gruñó: -Así que los cerebritos sabían cuándo huir. Bien por ellos. Aranea, mirando aún las brasas humeantes de la taberna destruida, murmuró: -¿Y quién demonios prende fuego a una taberna... durante una evacuación? Un silencio incómodo siguió a esa pregunta, roto solo por el crujido de una viga derrumbándose al fondo. Y allí, entre la ceniza, los restos mágicos y la brisa que traía olor a escape, el grupo volvió a reunirse, sabiendo que la siguiente etapa de (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
-  - 13/05/2025, 02:29: sello - la cabeza, como si buscara alguna vibración irregular o un eco demasiado agudo para ser natural. Nada. Por ahora. Richard, aún junto al arcón que había abierto, sostuvo el pequeño sello arcano en sus manos y lo evaluó antes de guardarlo con delicadeza. Cuando Jacklin dio la orden, se levantó sin decir palabra. Sabía que no tenían tiempo para lamentos ni arqueología. En medio de la búsqueda rápida, casi como un susurro entre la penumbra mágica, Jacklin dio con algo que parecía haberse pasado por alto. Oculto tras un (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
-  - 07/05/2025, 19:02: sello - o Cid, desconfiado, aunque su voz no tenía la dureza habitual. Solo cansancio. Richard, mientras tanto, abrió uno de los baúles con precaución. Dentro, lo único que quedaba era un sello arcano de protección menor, y una pequeña caja con materiales de escritura aún sin usar. -Puede que encontremos notas. O un rastro más concreto. La cerró con cuidado. Detrás, la nueva ruta parecía aún más antigua. Las piedras eran distintas: más rústicas, menos encantadas. Como si se adentraran en una parte de la academia que no hab (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
-  - 26/04/2025, 11:39: huida - te, Richard señaló un rastro de huellas mal definidas sobre la ligera capa de polvo que cubría el suelo: algunas marcaban pasos firmes, otras mostraban tropiezos, arrastrones. Una huida desesperada. El túnel principal serpenteaba en direcciones diversas. Al fondo, apenas perceptible, se escuchaba el rumor de agua corriendo, probablemente el afluente subterráneo del Río Orium del que hablaban los registros de la academia. El murmullo del agua reverberaba en los corredores como un susurro constante, haciendo que cada (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
-  - 25/04/2025, 11:04: destruccion - strozada. Recogí la cabeza tirada en el suelo viendo los daños que sufrió la estatua, no terminaba de coincidir con Cid... si, podría haber miedo, pero también frustración en esta destrucción. Alcé la cabeza ante las palabras de tanto Richard como Aranea- Entonces yo tuve que seguir el rastro incorrecto -añadí, dejé la cabeza lo mejor que pude y me puse en pie rápido- ¿Creéis que han bajado por aquí? -las escaleras descendían internándose en el subsuelo donde teorizamos que podrían haber ido. Así que di un par de p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=8)
+  - 24/05/2025, 15:31: destruida, cristal - El nuevo espadón descansaba con firmeza en la espalda de Jacklin, su brillo arcano disipando apenas la creciente penumbra del túnel. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 13/05/2025, 02:29: sello - Cid gruñó entre dientes mientras pasaba la mano por la pared pulida de la cámara, lanzando una mirada a los huecos vacíos del armamento desaparecido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 07/05/2025, 19:02: sello - El descenso terminó en un giro inesperado. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 26/04/2025, 11:39: huida - Cid soltó un gruñido bajo, rodando los hombros mientras bajaba tras Jacklin. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 25/04/2025, 11:04: destruccion - - Y no olvides partir por la mitad a una bestia mecánica -recordé alzando un dedo haciendo alusión a mi pelea con las Smelted Beast antes de que llegaran ellos, justo antes de recibir la palmada en la espalda. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=8)
+
 - Ultimo evento conocido:
-  - 18/06/2025, 22:25 - Director: Cid chasqueó la lengua, pero no añadió nada más. Solo echó un último vistazo al puerto vacío y a los restos carbonizados.  -Al menos salimos caminando  Dijo por fin  -Ya es más de lo que esperaba al bajar esas escaleras.  Aranea, ya en la pasarela del Hightwind, miraba de reojo las columnas de humo seco que aún manchaban el horizonte.  -Si no nos mataron aquí, quizás haya una razón. Y si queda alguna esperanza para Kain… hay que jugarla ahora. No más desvíos  Dijo con seriedad, apoyando su mano  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 18/06/2025, 22:25 - Director: Cid chasqueó la lengua, pero no añadió nada más. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+
 - Amenazas activas:
-  - 24/05/2025, 15:31: Aranea, mirando aún las brasas humeantes de la taberna destruida, murmuró: -¿Y quién demonios prende fuego a una taberna...
+  - Confianza: baja
+  - 24/05/2025, 15:31: Aranea, mirando aún las brasas humeantes de la taberna destruida, murmuró: -¿Y quién demonios prende fuego a una taberna... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+
 - Misiones abiertas:
-  - 18/06/2025, 22:25: Y si queda alguna esperanza para Kain… hay que jugarla ahora.
-  - 20/05/2025, 00:54: Entonces puse mis manos en torno a la empuñadura de aquella espada alzándola por encima de mi cabeza, pero creer a veces nos hacía darnos cuenta de que no todo era tan oscuro como creíamos y nos ayudaba a seguir avanzando para traer la luz a otros.
-  - 20/05/2025, 00:54: Abría el camino para el resto- Richard, puedes ayudarnos con la iluminación aquí delante, poco a poco cada vez se ve menos -pedí al hombre confiando en sus habilidades mágicas.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 18/06/2025, 22:25: Solo echó un último vistazo al puerto vacío y a los restos carbonizados.
-  - 24/05/2025, 15:31: La esfera iluminó las paredes irregulares del pasadizo y reveló el cambio de arquitectura: las losas cuidadosamente colocadas daban paso a un corredor más abrupto, casi esculpido con prisa en la roca.
-  - 24/05/2025, 15:31: Restos chamuscados de mobiliario, fragmentos de cristal derretido y objetos mágicos distorsionados por el calor cubrían parte del muelle, ahora silencioso, abandonado por el desastre.
+  - 18/06/2025, 22:25: Solo echó un último vistazo al puerto vacío y a los restos carbonizados. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 24/05/2025, 15:31: La esfera iluminó las paredes irregulares del pasadizo y reveló el cambio de arquitectura: las losas cuidadosamente colocadas daban paso a un corredor más abrupto, casi esculpido con prisa en la roca. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+  - 24/05/2025, 15:31: Restos chamuscados de mobiliario, fragmentos de cristal derretido y objetos mágicos distorsionados por el calor cubrían parte del muelle, ahora silencioso, abandonado por el desastre. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven
 
 ## 0813 El valle de huesos
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Imperio Arcadia
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Carol Copper
   - Karen Copper
-  - Valle de los Huesos
-  - Comentaría Carol Copper
-  - Gritaría Carol Copper
-  - Armor Class
-  - Carol y
-  - Gritó Quintorus
-  - Hit Points
-  - Languages Common
-  - Medium Humanoid
-  - Melee Weapon Attack
+
 - Jugadores que han actuado aqui:
   - Carol Copper
   - Karen Copper
+
 - Eventos importantes ocurridos:
-  - 20/05/2024, 23:08: combate, ataque - able. La espada del líder cortó el aire con un silbido mortal antes de encontrar su objetivo, derribando a Carol con una brutalidad que no dejaba lugar a dudas sobre su dominio en combate. Carol cayó al suelo, sintiendo el frío del mármol bajo ella mientras la sangre brotaba de sus heridas. El dolor era insoportable, y la oscuridad comenzó a nublar su visión. El líder, imponente y victorioso, se mantuvo sobre ella, su espada todavía brillaba con el resplandor arcano. -No subestimes nunca el poder de aquellos que pr (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
-  - 20/05/2024, 13:26: ataque - ida?. ¿He de matar a otro líder antes de que me salga la ventanita diciendo "Enhorabuena, eres una magnicida, ahora cada vez que mates a un nuevo líder ganas una corona que te da +1 en ataque y daño por cada nuevo lider que mates"?. O algo así... bueno, eso ya lo veré... Con aquello dicho, Carol Copper atacaría con su tridente a aquella armadura gigante. Sin florituras ni nada más, a fin de cuentas sus divagaciones habían sido lo suficientemente extravagantes para ello. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
-  - 20/05/2024, 07:02: muerte, combate, destruccion - presa y desprecio. Mientras ella hablaba, una sombra de desdén cruzó su rostro, sus ojos fríos y calculadores nunca abandonaron la figura de Carol. -Así que buscas diversión en la muerte y la destrucción Dijo con voz grave y resonante. -Tu desprecio por el orden y la autoridad es evidente. Pero te equivocas si piensas que soy como los demás. Se adelantó, sus pasos resonaban con un eco metálico en la sala. -He construido este lugar desde las cenizas, manteniendo el orden en un mundo caótico. Los autómatas, el contro (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
-  - 19/05/2024, 12:14: muerte, muere, batalla, guerra - ue tienen que huir de sus casas... ¿Entiendes?. -Comentó explicando sus motivos mientras preparaba su tridente +1- En cambio los ricos y poderosos, lejos del conflicto no temen a la muerte, estan demasiado lejos de cualquier campo de batalla o refugiados en sus castillos lejos de cualquier peligro y... ahí es donde entro yo. ¡Entregame la ciudad y muere! No, no era un "Si me la entregas no te mataré", ella iba a tratar de matarlo de todas formas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
-  - 18/05/2024, 12:34: traicion - n vómito ácido directamente en el lateral del rostro de aquella criatura, persona o automata. Al parecer aquella pregunta ya se hizo evidente, al igual que de quien iba a venir la traición: De ella. Hizo mal en confiarle reducir distancias a alguien como ella. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 23:08: combate, ataque - El líder, con una habilidad y técnica que superaban con creces las de Carol, desvió el tridente con facilidad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 13:26: ataque - -No soy una simple revolucionaria, -replicó la muchacha- creo que soy una "magnicida". (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 07:02: muerte, combate, destruccion - El verdadero líder, envuelto en su imponente armadura, escuchó a Carol con una mezcla de sorpresa y desprecio. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 19/05/2024, 12:14: muerte, muere, batalla, guerra - -Pues en principio buscaba saber si el ácido te hacía daño. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 18/05/2024, 12:34: traicion - Viendo que aquel hombre estaba dispuesto a escuchar a Carol Copper esta se le acercó, a fin de cuentas, el secreto y la información que tenía que revelar era de suma importancia. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+
 - Ultimo evento conocido:
   - 20/05/2024, 23:15 - SISTEMA:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=4)
+
 - Amenazas activas:
-  - 20/05/2024, 23:08: Con un movimiento fluido y preciso, contrarrestó el ataque de Carol y lanzó su propia ofensiva.
-  - 20/05/2024, 13:26: ¿He de matar a otro líder antes de que me salga la ventanita diciendo "Enhorabuena, eres una magnicida, ahora cada vez que mates a un nuevo líder ganas una corona que te da +1 en ataque y daño por cada nuevo lider que mates"?.
-  - 20/05/2024, 07:02: -Así que buscas diversión en la muerte y la destrucción Dijo con voz grave y resonante.
+  - Confianza: media
+  - 20/05/2024, 23:08: Con un movimiento fluido y preciso, contrarrestó el ataque de Carol y lanzó su propia ofensiva. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 13:26: ¿He de matar a otro líder antes de que me salga la ventanita diciendo "Enhorabuena, eres una magnicida, ahora cada vez que mates a un nuevo líder ganas una corona que te da +1 en ataque y daño por cada nuevo lider que mates"?. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 07:02: -Así que buscas diversión en la muerte y la destrucción Dijo con voz grave y resonante. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+
 - Misiones abiertas:
-  - 20/05/2024, 23:08: No hubo tiempo para que ella se recuperara antes de que el segundo golpe, un remate devastador, la alcanzara con fuerza implacable.
-  - 20/05/2024, 23:08: La espada del líder cortó el aire con un silbido mortal antes de encontrar su objetivo, derribando a Carol con una brutalidad que no dejaba lugar a dudas sobre su dominio en combate.
+  - Confianza: baja
+  - 20/05/2024, 23:08: La espada del líder cortó el aire con un silbido mortal antes de encontrar su objetivo, derribando a Carol con una brutalidad que no dejaba lugar a dudas sobre su dominio en combate. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+
 - Cambios respecto al mapa base:
-  - 20/05/2024, 07:02: Mientras ella hablaba, una sombra de desdén cruzó su rostro, sus ojos fríos y calculadores nunca abandonaron la figura de Carol.
-  - 20/05/2024, 07:02: -Así que buscas diversión en la muerte y la destrucción Dijo con voz grave y resonante.
+  - 20/05/2024, 07:02: Mientras ella hablaba, una sombra de desdén cruzó su rostro, sus ojos fríos y calculadores nunca abandonaron la figura de Carol. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 20/05/2024, 07:02: -Así que buscas diversión en la muerte y la destrucción Dijo con voz grave y resonante. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+  - 19/05/2024, 12:14: -Comentó explicando sus motivos mientras preparaba su tridente +1- En cambio los ricos y poderosos, lejos del conflicto no temen a la muerte, estan demasiado lejos de cualquier campo de batalla o refugiados en sus castillos lejos de cualquier peligro y... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos
 
 ## 0907 Las cuevas de Pleamar
 
 - Estado actual: Amenazado por corrupcion o plaga
+- Confianza estado: media
+
 - Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Mamoru Ai Yastis
-  - Myla y Laylee
-  - Portador de Caos
-  - Auranta y En’oc
+
 - Jugadores que han actuado aqui:
   - Mamoru Ai Yastis
+
 - Eventos importantes ocurridos:
-  - 24/07/2025, 10:24: destruccion, descubrimiento, cristal - haría. -¡ES UNA DECISIÓN! -declaró Mamoru, con un dedo apuntando a lo alto como si el túnel tuviera una cámara de votación interdimensional- Una bifurcación cuántico-metafísica. ¿Destrucción catastrófica con estilo y heroicidad dudosa? ¿O misterio críptico con posibilidades de redención moral y descubrimiento accidental de una nueva especie burocrática? Retrocedió un poco. Miró a sus compañeras. Mamoru se giró al cristal. Respiró hondo. Se arrepintió. Tosió. Tosió más. Luego, fingió que no había tosido... luego vo (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-  - 23/07/2025, 19:13: cristal - erado. Una raíz luminiscente, aún cruzada en su torso, emitía un latido inverso. Cada vez que su corazón latía, la raíz brillaba un segundo antes. Las paredes estaban cubiertas de cristales morados que comenzaban a aparecer por doquier: brotaban de la roca como si intentaran empujar algo hacia fuera. Algunos estaban rotos. Otros vibraban con un zumbido infrasónico que solo Laylee parecía oír (aunque no lo comentó). Una brisa se colaba por una grieta invisible, pero el aire era errático, sin dirección coherente. Y e (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-  - 20/06/2025, 12:29: amenaza, cristal - úrpura, tropezó con un micónido bebé que no estaba allí hace un segundo, giró sobre sí mismo y disimuló el accidente apuntando dramáticamente hacia la entrada viva: -¡Allí está la amenaza gaseosa! ¡Allí está el tapón de la condena! ¡Y allí estará mi nombre... en la historia... o en el obituario! Puedo hacerlo porque no soy solo un policía. Soy una institución. Soy un ejemplo. Soy... Mamoru Ai Yastis, agente de orden y portador de caos, en partes iguales y nada balanceadas. Entonces, y sin más preparación, sacó una (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-  - 18/06/2025, 22:47: plaga, cristal - sur se abrió como un diafragma vivo. La raíz en el pecho de Mamoru palpitaba con más fuerza, iluminando su torso con reflejos verdes y anaranjados. La misión estaba en marcha. La plaga no era un enemigo. Era un desequilibrio atrapado. Y el caos… ya había empezado a tomar notas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-  - 31/05/2025, 10:49: plaga - a mano sobre su propio pecho. -Portador de Caos acepta. Agente Mamoru Ai Yastis, defensor de los sueños vegetales, juramenta en este momento proteger al guía Sinensa, enfrentar la plaga invisible y, si es necesario, pelear contra garras risueñas aunque no sepa dónde están. Mamoru se levantó de un salto que casi se transforma en una caída controlada. -¿Dónde está el origen del marchitamiento? ¿Qué tenemos que hacer? ¿Desenterrar al sueño profundo? ¿Aplicar una compostura emocional al sistema micótico? ¿O... lanzar u (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 24/07/2025, 10:24: destruccion, descubrimiento, cristal - Mamoru Ai Yastis se quedó quieto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 23/07/2025, 19:13: cristal - El túnel que los micónidos habían señalado respiraba como si fuera un organismo vivo: las vetas rojizas pulsaban con una luz enfermiza, y el aire estaba cargado de una humedad densa, casi pegajosa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 20/06/2025, 12:29: amenaza, cristal - Mamoru Ai Yastis recibió la visión mental con la solemnidad de quien se cree investido por fuerzas cósmicas, aunque llevaba una expresión de quien entendió un 30% pero se comprometió al 200%. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 18/06/2025, 22:47: plaga, cristal - La colonia entera exhaló, no aire, sino una pulsación de esporas que se dispersaron como un aplauso silente y orgánico. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 31/05/2025, 10:49: plaga - Mamoru Ai Yastis observó la raíz luminiscente como si fuera una condecoración intergaláctica entregada por un consejo de sabios galáctico. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+
 - Ultimo evento conocido:
-  - 24/07/2025, 10:24 - Mamoru Ai Yastis: Mamoru Ai Yastis se quedó quieto. Lo cual ya era raro. Más raro aún fue que no dijera nada de inmediato. La raíz en su pecho temblaba como un sensor estropeado y ansioso, y su cuerpo, por una vez, no tenía ninguna pose heroica activa. Solo estaba… allí. En el centro de la saturación, en medio de duplicidades, parpadeos, cristales y ecos que no venían del mundo, sino de algún sitio entre líneas de código mal cerradas.  -Vale… Vale, vale, vale… No es que no entienda lo que está pasando -murmuró pa (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 24/07/2025, 10:24 - Mamoru Ai Yastis: Mamoru Ai Yastis se quedó quieto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+
 - Amenazas activas:
-  - 24/07/2025, 10:24: ¿Destrucción catastrófica con estilo y heroicidad dudosa?
-  - 23/07/2025, 19:13: Solo dos caminos existenciales: Destruir el cristal.
-  - 20/06/2025, 12:29: Mamoru avanzó con paso decidido hacia el túnel angosto y púrpura, tropezó con un micónido bebé que no estaba allí hace un segundo, giró sobre sí mismo y disimuló el accidente apuntando dramáticamente hacia la entrada viva: -¡Allí está la amenaza gaseosa!
+  - Confianza: media
+  - 24/07/2025, 10:24: ¿Destrucción catastrófica con estilo y heroicidad dudosa? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 23/07/2025, 19:13: Solo dos caminos existenciales: Destruir el cristal. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 20/06/2025, 12:29: Mamoru avanzó con paso decidido hacia el túnel angosto y púrpura, tropezó con un micónido bebé que no estaba allí hace un segundo, giró sobre sí mismo y disimuló el accidente apuntando dramáticamente hacia la entrada viva: -¡Allí está la amenaza gaseosa! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+
 - Misiones abiertas:
-  - 24/07/2025, 10:24: -Elijo… buscar otra vía.
-  - 23/07/2025, 19:13: Liberar los gases.
-  - 23/07/2025, 19:13: Buscar otra vía.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 24/07/2025, 10:24: ¿Destrucción catastrófica con estilo y heroicidad dudosa?
-  - 23/07/2025, 19:13: Y en el centro… un enorme cristal naranja bloqueaba una abertura en la roca por donde deberían salir los gases.
-  - 23/07/2025, 19:13: Solo dos caminos existenciales: Destruir el cristal.
+  - 24/07/2025, 10:24: ¿Destrucción catastrófica con estilo y heroicidad dudosa? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 23/07/2025, 19:13: Y en el centro… un enorme cristal naranja bloqueaba una abertura en la roca por donde deberían salir los gases. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+  - 23/07/2025, 19:13: Solo dos caminos existenciales: Destruir el cristal. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar
 
 ## 0913 La Torre Negra
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Strixhaven
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Aranea
   - Aldar
-  - Torre Negra
-  - Llave Xion
   - Becky
-  - Alexander y Aldar
-  - Alexander y Richard
-  - Aranea y Cid
-  - Cid y Aranea
-  - Jacklin y
-  - Jacklin. Cid
+  - Tenebris
+
 - Jugadores que han actuado aqui:
   - Jacklin
+
 - Eventos importantes ocurridos:
-  - 26/06/2025, 16:24: batalla, amenaza - a con fuerza. “Un día... quizás no hoy, ni mañana, pero un día” <Es nuestro deber, incluso si no logramos la paz con ello> Y caía sobre nuestras cabezas, todos se preparaban para la batalla que se avecinaba sobre nosotros... Todos menos yo... Inmóvil esperaba que terminara de caer, no podía decir que no tuviera miedo, apenas conseguía mantenerme de pie. Pero sabía que no había motivo para ello- Tenemos que hablar, es sobre ella. Tenebris esta destruyendo el mundo que tanto quieres y proteges. Yo puedo ayudarte a sa (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
-  - 18/12/2024, 22:03: maldicion - lexionaba, su tono medido y razonado. -Si la Llave Xion existe, es probable que esté ligada a algo más grande que este asunto con Kain. Un objeto con la capacidad de purificar una maldición tan peligrosa seguramente no estará olvidado en un rincón cualquiera. Si otros reencarnados saben algo, es lógico que sea nuestro mejor punto de partida. Hizo una pausa, sus ojos brillando con una chispa de inspiración mientras añadía: -De hecho, si hay algún lugar donde podríamos encontrar información concreta, probablemente se (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
-  - 18/12/2024, 14:22: capturado, maldicion - curre, al menos si creemos sus palabras. Pero por lo menos sabemos que mientras este recluido aquí dentro no corre peligro, la verdad es que prefiero esta situación a que hubiera sido capturado por el culto de Smel –aunque ellos no debían entender cuan alejados estaban ambos hechos realmente- Y si, en principio con esa reliquia el moguri debería ser capaz de limpiar su cuerpo para que no corra peligro él ni nadie a su alrededor. Entonces Richard pregunto exactamente lo que debía pensar yo ahora- Solo su nombre –era (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
-  - 18/12/2024, 03:07: maldicion - undas de lo que realmente había sucedido dentro de la Torre Negra. Aranea cruzó los brazos, inclinando ligeramente la cabeza mientras reflexionaba sobre lo que Jacklin decía. -Una maldición, ¿eh? Dijo, su tono neutral, pero con una chispa de escepticismo -Supongo que tiene sentido. Algo lo suficientemente grave como para que ese Moguri lo retuviera. No parecía el tipo que tomara decisiones a la ligera, aunque daba la impresión de que disfrutaba jugando con nuestras cabezas. Cid resopló, apoyándose en su lanza con u (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
-  - 18/12/2024, 01:52: combate, portal, maldicion - a antigua para poder conseguir su libertad. Luchar no es una opción, no se cuanta verdad hay sobre esa supuesta maldición, pero incluso si fuera mentira no podríamos ganarle en un combate, eso lo puedo asegurar. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
+  - 26/06/2025, 16:24: batalla, amenaza - Desde hacía varios minutos me encontraba de pie en la proa del barco esperando para llegar a este momento, no tenía claro si volviésemos a encontrarlo o el Administrador entendía que era innecesario... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 18/12/2024, 22:03: maldicion - El grupo escuchó con atención las palabras de Jacklin, asimilando la información tal como él la presentó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
+  - 18/12/2024, 14:22: capturado, maldicion - Observaba el cielo mientras escuchaba al resto, probablemente ese dragón no fuera más que otra prueba puesta por el administrador para disuadir a los visitantes, ni siquiera había una criatura así “real” aquí y los... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
+  - 18/12/2024, 03:07: maldicion - El grupo escuchó atentamente a Jacklin mientras hablaba, sus palabras cuidadosamente diseñadas para ser procesadas por ellos, evitando mencionar las verdades más profundas que no podían comprender. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
+  - 18/12/2024, 01:52: combate, portal, maldicion - Según el administrador se disipaba en al aire le observaba por encima de mi hombro, me había detenido en cuanto empezó a hablar sobre el propósito de Grymoire para mirarle sorprendido de que realmente pensara que me... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2)
+
 - Ultimo evento conocido:
-  - 29/07/2025, 18:39 - Jacklin: El aire salió por el pequeño resquicio que formaron mis labios, y junto a el también exhale todo el miedo que estaba conteniendo. Pensaba que iba a morir. Me sostuve el pecho temblando como un flan y la cabeza gacha por un segundo. Luego la volví a alzar lentamente viendo el rostro del dragón frente a mí por apenas unos pocos centímetros, no tardo en alejarse volando tal como vino... ¿habría formado este guardián en imagen a alguien o simplemente esbozo tal como le vino a la mente? Esa pregunta  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 29/07/2025, 18:39 - Jacklin: El aire salió por el pequeño resquicio que formaron mis labios, y junto a el también exhale todo el miedo que estaba conteniendo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+
 - Amenazas activas:
-  - 29/07/2025, 18:39: aterriza la nave, esta vez bajaré yo solo -informé rompiendo en sus conversaciones en susurros y haciendo que se fijaran en mí en lugar del monstruo- Vosotros esperadme aquí, no creo tardar mucho en salir –asegure con una falsa confianza en que realmente todo iría como creía; pese a que las cosas no hacían más que salirse de lo que esperaba y preveía, com...
-  - 23/07/2025, 19:21: El monstruo giró en el aire y se alejó, ascendiendo con una elegancia antinatural, perdiéndose poco a poco entre la bruma que coronaba la cima de la Torre Negra.
-  - 26/06/2025, 16:24: Como una amenaza que haría temblar a cualquier transformo el día en noche tapándonos el sol con su gargantuesco tamaño.
+  - Confianza: media
+  - 29/07/2025, 18:39: aterriza la nave, esta vez bajaré yo solo -informé rompiendo en sus conversaciones en susurros y haciendo que se fijaran en mí en lugar del monstruo- Vosotros esperadme aquí, no creo tardar mucho en salir –asegure con una falsa confianza en que realmente todo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 23/07/2025, 19:21: El monstruo giró en el aire y se alejó, ascendiendo con una elegancia antinatural, perdiéndose poco a poco entre la bruma que coronaba la cima de la Torre Negra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 26/06/2025, 16:24: Como una amenaza que haría temblar a cualquier transformo el día en noche tapándonos el sol con su gargantuesco tamaño. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+
 - Misiones abiertas:
-  - 26/06/2025, 16:24: Esto era mi objetivo a batir, debía crecer tanto como para que mi espada pudiera derribar una bestia así.
-  - 26/06/2025, 16:24: Pero sabía que no había motivo para ello- Tenemos que hablar, es sobre ella.
-  - 26/06/2025, 16:24: Yo puedo ayudarte a salvarlo –dije al aire, sin esperanza de ser escuchado viendo como el monstruo en la cúspide de la pirámide se avecinaba sobre nosotros.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 26/06/2025, 16:24: Como una amenaza que haría temblar a cualquier transformo el día en noche tapándonos el sol con su gargantuesco tamaño.
-  - 26/06/2025, 16:24: Tenebris esta destruyendo el mundo que tanto quieres y proteges.
-  - 25/12/2024, 19:45: Si quieren algo a cambio, necesitamos saber qué estamos dispuestos a ofrecer.
+  - 26/06/2025, 16:24: Como una amenaza que haría temblar a cualquier transformo el día en noche tapándonos el sol con su gargantuesco tamaño. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 26/06/2025, 16:24: Tenebris esta destruyendo el mundo que tanto quieres y proteges. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+  - 25/12/2024, 19:45: Si quieren algo a cambio, necesitamos saber qué estamos dispuestos a ofrecer. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra
 
 ## 1012 La Aldea
 
 - Estado actual: Dañado o destruido
-- Control / faccion dominante: Fortaleza de Farar
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
-  - Bartz y
-  - Comentaria Faris
-  - Comentaria Lenna
-  - Diria Lenna
   - Drake
-  - Ninguno de
-  - Bonif. Ataque
-  - Bonus Comp
   - Cecil
-  - Lenna y Kryle
-  - Muchos de
+
 - Jugadores que han actuado aqui:
   - Jacklin
+
 - Eventos importantes ocurridos:
-  - 18/07/2023, 11:35: ruinas, amenaza - ntidad personal, esperaba que eso no me pasara a mí... Perder el quién eres y dedicarte a ser el personaje que interpretas- Algún día me acercare a Tybra para preguntarle por esas ruinas, pero por el momento me despido Fredegar –y le tendí una mano para despedirnos. Tocaba volver a la ciudad, recibir el pago y descansar un poco. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
-  - 16/07/2023, 13:01: ruinas - Lo que el anciano me conto distaba mucho de la imagen que pudiera tener de este mundo en un principio ¿extraños objetos con la capacidad de alterar el mundo? ¿Ruinas “antiguas” donde se puede vislumbrar una estructura mucho más virtual? Ahora ya no solo tenía que tratar de interponerme en los planes de un dragón, sino que, además debía descubrir de que iba todo esto del sistema... - Soy consciente de ello –le respondí ante su inquietud por resolver el posible problema en pos de proteger el lugar que ahora habitábam (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
-  - 16/07/2023, 05:42: ruinas - o lo del sistema, me parecía muy conveniente. Asi que si, también pensé que estamos en una simulación, despues de todo un antiguo compañero me hablo de que ha encontrado supuestas ruinas "Aborigenes" en la que encontro lo que llamo "Datos alfa" es decir, toda una estructura que parece mucho mas virtual. Tambien me ha hablado de artefactos que pueden "manipular" este mundo, lo que fortalece la idea, que si no es una simulacion, o juego, como minimo se basa en ello. Fedregar caminaría de un lado a otro, mientras te e (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
-  - 14/07/2023, 01:59: amenaza - zona controlada por orcos... Poco me importaba eso sinceramente, ellos volverían al pueblo que era mi objetivo. Tenían de repente esperanzas de proteger su hogar frente a aquella amenaza que se cernía sobre ellos, ahora sí que les importaba su hogar, cuando la promesa del oro se diluía en la distancia... chasqueé la lengua. Abrí la boca para hablar, pero las palabras de Kryle me sorprendieron haciéndome alargar mi silencio unos segundos más, lo que acabábamos de vivir ambos nos había afectado de forma diferente, p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
-  - 12/07/2023, 01:34: ataque - as pesadas pisadas del ogro, que ya habia llegado a vuestra altura y se preparaba para atacar. Faris te miro, con sus ojos sumidos en la desesperacion y cargo contra Tanaruk en un ataque desesperado por salvar a Kryle, o al menos, mantenerlo ocupado. Kryle en un acto de desesperacion volvió a estabilizar a Lenna, pero la situacion pintaba ahora mucho peor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
+  - 18/07/2023, 11:35: ruinas, amenaza - Por supuesto que era consciente de ello, pero también sabía que no había necesidad de pelear más... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 16/07/2023, 13:01: ruinas - Lo que el anciano me conto distaba mucho de la imagen que pudiera tener de este mundo en un principio ¿extraños objetos con la capacidad de alterar el mundo? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 16/07/2023, 05:42: ruinas - Fedregar es cruzo de brazos, pensativo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
+  - 14/07/2023, 01:59: amenaza - Rápidamente el ánimo general se caldeo, cada uno reaccionaba de manera diferente ante mis palabras y cada uno quería hacer algo diferente al anciano que aparentemente visitaba diariamente una zona controlada por orcos... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
+  - 12/07/2023, 01:34: ataque - El orco escucho tus pisadas, pero aun mas importante, escucho a Lenna acercarse para llevarse a Kryle Una sonrisa malevola se dibujo en el rostro del orco, que ya habia escuchado que la prioridad era salvar a la pequeña. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5)
+
 - Ultimo evento conocido:
-  - 20/07/2023, 08:37 - Director: Boko, se encontraba algo confuso por la desaparición de su amigo y compañero pero Kryle estubo hablando con el, fueron las unicas palabras que oistes que pronuncio despues de aquella declaracion de intenciones.  Hablaba de manera suave, mientras se consolaban mutuamente.  Por el resto la vuelta fue bastante tranquila la tormente habia espantado a los monstruos de los alrededores, y posiblemente tambien a los bandidos.  La tierra aun estaba empapada, y a los chocobos les costaba bastante avanzar, (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 20/07/2023, 08:37 - Director: Boko, se encontraba algo confuso por la desaparición de su amigo y compañero pero Kryle estubo hablando con el, fueron las unicas palabras que oistes que pronuncio despues de aquella declaracion de intenciones. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+
 - Amenazas activas:
-  - 20/07/2023, 08:37: Por el resto la vuelta fue bastante tranquila la tormente habia espantado a los monstruos de los alrededores, y posiblemente tambien a los bandidos.
-  - 18/07/2023, 11:35: Seguía insistiendo en que se ocuparía de que la aldea pudiera seguir funcionando y se encontrara protegida ante la amenaza que se cernía sobre ellos, no insistiría más.
-  - 18/07/2023, 10:04: -Lo quieras creer o no, si, lo habeis hecho, no ha habido mas muertes inocentes gracias a vuestro esfuerzo, por supuesto, podria haber ido mucho mejor, pero, aun estas vivo, con lo que quieras que no, es un logro.
+  - Confianza: media
+  - 20/07/2023, 08:37: Por el resto la vuelta fue bastante tranquila la tormente habia espantado a los monstruos de los alrededores, y posiblemente tambien a los bandidos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 18/07/2023, 11:35: Seguía insistiendo en que se ocuparía de que la aldea pudiera seguir funcionando y se encontrara protegida ante la amenaza que se cernía sobre ellos, no insistiría más. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 18/07/2023, 10:04: -Lo quieras creer o no, si, lo habeis hecho, no ha habido mas muertes inocentes gracias a vuestro esfuerzo, por supuesto, podria haber ido mucho mejor, pero, aun estas vivo, con lo que quieras que no, es un logro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+
 - Misiones abiertas:
-  - 18/07/2023, 11:35: Ya habíamos completado la misión, podríamos haber vuelto todos juntos, pero en lugar de eso decidí seguir peleando.
-  - 17/07/2023, 14:40: lo que tu digas, entonces nosotros nos marchamos nuestro trabajo está hecho, hemos traído a todos los hombres, cazado un oso búho que había de camino y traído la verdad tras esa historia del oro –informe para dejar claro que cumplimos con honores el encargo...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 18/07/2023, 11:35: Perder el quién eres y dedicarte a ser el personaje que interpretas- Algún día me acercare a Tybra para preguntarle por esas ruinas, pero por el momento me despido Fredegar –y le tendí una mano para despedirnos.
-  - 16/07/2023, 19:51: no me gustaría abandonarla asi por que si.
+  - 18/07/2023, 11:35: Perder el quién eres y dedicarte a ser el personaje que interpretas- Algún día me acercare a Tybra para preguntarle por esas ruinas, pero por el momento me despido Fredegar –y le tendí una mano para despedirnos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 16/07/2023, 19:51: no me gustaría abandonarla asi por que si. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+  - 16/07/2023, 13:01: ¿Ruinas “antiguas” donde se puede vislumbrar una estructura mucho más virtual? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2
 
 ## 1013 Fortaleza Gnoll
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Filgaia
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Rebecca Desirae
   - Fang
@@ -382,42 +435,52 @@ Localizaciones incluidas: 34.
   - Matriarca Gnoll
   - Cecilia
   - Nulka
-  - Fang y Nulka
-  - Rebecca y Fang
-  - Torre Negra
-  - Diosa de los Monstruos
-  - Kock Sharaath
-  - Rebecca y
+  - Zelo
+  - Tenebris
+
 - Jugadores que han actuado aqui:
   - Rebecca Desirae
   - Fang
   - Becky
   - Matriarca Gnoll
   - Cecilia
+
 - Eventos importantes ocurridos:
-  - 16/02/2025, 23:20: combate, guerra - abeza en señal de respeto. -Le haré saber a Korpo tu voluntad. Por un instante, su expresión fue indescifrable, pero no expresó ningún desacuerdo en voz alta. El respeto ganado en combate aún estaba fresco, y aunque un kobold como líder interino podía chocar con su orgullo, la Matriarca sabía que desafiarlo sería imprudente. -Nos prepararemos. Cuando nos llames, estaremos listos para la guerra. Fang, mientras tanto, se preparaba para partir, ajustando sus armas y siguiendo de cerca a Rebecca. Aunque su mente estaba (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-  - 14/02/2025, 18:20: batalla, guerra - llo de emoción apareció en sus ojos rojos. -Eso es algo que sabemos hacer. Los gnolls rugieron con entusiasmo, algunos golpeando el suelo con sus armas, ansiosos por la promesa de batalla. La Matriarca sonrió con sus colmillos al descubierto. -Cuando llegue el momento, no pediremos permiso para arrancar gargantas. El pacto estaba sellado. La guerra se avecinaba. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-  - 13/02/2025, 18:18: guerra, portal - s tampoco . Vosotros quedaos aquí. En no mucho se abrirá un portal. Contacta con Korpo. Ella os dirá cómo hacer. En mi ausencia, es la regente de mi reino.e Eso, preparaos para la guerra. Algo me dice que en no mucho tendremos que combatir. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-  - 11/02/2025, 22:16: traicion, liberacion - - ¿Que ofrezco? Una revolución al sistema, un cántico de liberación, una nueva armonía. ¿Qué demando? Adoración y compromiso. Soy la diosa de la libertad, no la de los tontos. La traición... se paga muy cara. Y antes de que os lo preguntéis, os he visto antes, sé quienes tenéis suficiente fé y quienes no. El tiempo corre... tic tac, elegid. Eso sí, si bien los gnolls no os atacarán sin mis ordenes, si alguno sale antes de que lo autorice, tienen la orden de poder desquitarse con vosotros. Y nada de rebelarse y agr (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7)
-  - 11/02/2025, 13:13: guerra, portal - n, golpeaban tambores improvisados hechos de cráneos y bebían de copas talladas en hueso. Era una escena de puro desenfreno, el eco de una horda que se preparaba para un futuro de guerra… o de gloria. Pero la llegada de Rebecca y Fang interrumpió el frenesí. Un silencio tenso cayó sobre la multitud cuando la Matriarca Gnoll se levantó de su asiento y alzó una garra en señal de autoridad. -¡Escuchad! Su voz resonó con el eco de la caverna, y la música se apagó lentamente mientras los gnolls centraban su atención en (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7)
+  - 16/02/2025, 23:20: combate, guerra - Los gnolls comenzaron a moverse rápidamente, algunos recogiendo sus armas, otros preparando su equipo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 14/02/2025, 18:20: batalla, guerra - La Matriarca Gnoll escuchó con atención las palabras de Rebecca. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 13/02/2025, 18:18: guerra, portal - Ya estaba resuelto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 11/02/2025, 22:16: traicion, liberacion - Rebecca asintió. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7)
+  - 11/02/2025, 13:13: guerra, portal - El portal se abrió, su resplandor distorsionando el aire con un brillo vibrante y etéreo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7)
+
 - Ultimo evento conocido:
-  - 16/02/2025, 23:20 - Director: Los gnolls comenzaron a moverse rápidamente, algunos recogiendo sus armas, otros preparando su equipo. La Matriarca se acercó a Rebecca, inclinando ligeramente la cabeza en señal de respeto.  -Le haré saber a Korpo tu voluntad.  Por un instante, su expresión fue indescifrable, pero no expresó ningún desacuerdo en voz alta. El respeto ganado en combate aún estaba fresco, y aunque un kobold como líder interino podía chocar con su orgullo, la Matriarca sabía que desafiarlo sería imprudente.  -Nos p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 16/02/2025, 23:20 - Director: Los gnolls comenzaron a moverse rápidamente, algunos recogiendo sus armas, otros preparando su equipo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+
 - Amenazas activas:
-  - 16/02/2025, 23:20: Cuando nos llames, estaremos listos para la guerra.
-  - 16/02/2025, 23:16: Su postura era tensa, pero su rostro mantenía esa serenidad forzada que había adoptado desde que todo se volvió peligroso a su alrededor.
-  - 14/02/2025, 18:20: -Prepararnos para la guerra.
+  - Confianza: media
+  - 16/02/2025, 23:20: Cuando nos llames, estaremos listos para la guerra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 16/02/2025, 23:16: Su postura era tensa, pero su rostro mantenía esa serenidad forzada que había adoptado desde que todo se volvió peligroso a su alrededor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+  - 14/02/2025, 18:20: -Prepararnos para la guerra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
+
 - Misiones abiertas:
+  - Confianza: baja
   - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2
 
 ## 1110 Pantano de las grandes bestias
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Nueva Roclenia
+- Confianza estado: media
+
+- Control / faccion dominante: Fortaleza de Farar
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Horus Icarus
   - Hjelma
@@ -428,9 +491,10 @@ Localizaciones incluidas: 34.
   - Maquina de tatuar
   - Cecilia
   - HJELMA
-  - Dentro de
   - Tenebris
   - Becky
+  - Cecil
+
 - Jugadores que han actuado aqui:
   - Horus Icarus
   - Hjelma
@@ -439,29 +503,41 @@ Localizaciones incluidas: 34.
   - Kaela
   - Acceber
   - Maquina de tatuar
+
 - Eventos importantes ocurridos:
-  - 05/12/2024, 01:50: portal - veremos en Farar. El beso en su mejilla arrancó una pequeña sonrisa, aunque su mirada mostraba la dificultad de aceptar esa separación. Se ajustó su capa, lista para pasar por el portal que Rebecca había abierto hacia otro destino. Los enanos también asintieron, aunque Thorfrid, siempre el más directo, agregó con una voz seria: -No hablaremos de lo que hemos visto aquí, Rebecca. Si este poder puede traerte problemas, lo guardaremos en nuestras barbas. Pero no olvides que te debemos una, y en la Ciénaga Negra, la p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
-  - 05/12/2024, 00:32: portal - s. Al menos el mío lo hizo en su momento, auqnue no puedo ver si tras mi cambio sigo con el tatuaje. En cualquier caso, creo que ya hemos dicho suficiente. Hizo un gesto y creó un portal. - Lamentablemente, aquí nos separamos. Cecilia, no puedo llevarte conmigo ahora mismo, nos encontraremos en la fortaleza de Farar. No quiero que alguien se de cuenta de que esto es lo que ha ocurrido, y si te encuentran en otro lugar, es más dificil que te relacionen conmigo. Y vosotros, enanos, de este último hecho os pediría que (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
-  - 04/12/2024, 22:51: ritual - mero, sobre si estás glitcheada... ¡muy probablemente sí! Y te digo algo: eso es genial. A ver, el sistema no está diseñado para lidiar con creatividad impredecible. Si hiciste un ritual estúpido, seguramente generaste una situación que el sistema no supo cómo clasificar. Imagina que tiraste un d20 y sacaste un 21, algo que no debería pasar pero que ocurrió igual. Es lo que pasa cuando juntas reglas rígidas con algo que no sigue las normas: bugs hermosos como tú. Se tomó un momento, sonriendo internamente. -Además, (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
-  - 04/12/2024, 22:15: ritual - de a pie. Ya me la intentarán jugar por mi apariencia. Respiró hondo. - De lo que empecé siendo a lo que soy... espera, ahí está la clave. ¿Cómo conseguí mis poderes? Haciendo un ritual estúpido, me parecía divertido, y el sistema respondió. No te conocí que sepa hasta entonces. ¡Fue.. un glitch? Si estoy glitcheada, ¿O es esa oscuridad de la que hablas? Si supiese como conseguir crearlos yo y dominarlos, sería otra cosa. En cualquier caso, ¿cómo de seguro es este espacio? No quiero que el sistema se dé cuenta de (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
-  - 04/12/2024, 18:13: batalla, combate, guerra - el equipo correcto. Piensa en ellos como una mezcla entre DPS masivo y tanque de distracción. Son agresivos, veloces y, si los organizas, pueden ser una fuerza demoledora en el campo de batalla. Además, ¿quién no quiere un ejército que literalmente aterrorice a sus enemigos antes de que los ataquen? Es puro bonus de intimidación. Se inclinó un poco más en la conversación, como si estuviera compartiendo un secreto. -Pero lo mejor de todo no es solo su fuerza bruta, sino su lealtad. Los gnolls, por naturaleza, buscan (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
+  - 05/12/2024, 01:50: portal - Cecilia asintió con una mezcla de tristeza y comprensión mientras Rebecca le daba su despedida. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
+  - 05/12/2024, 00:32: portal - - Jajajaja No pudo evitar reirse con la maquinita. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
+  - 04/12/2024, 22:51: ritual - Acceber suspiró, aunque sonaba más como un susurro pensativo, y comenzó a responder con su característico tono entusiasta mezclado con una pizca de cinismo: -Ok, lo primero, sobre si estás glitcheada... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
+  - 04/12/2024, 22:15: ritual - - Uhmmm, estoy de acuerdo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
+  - 04/12/2024, 18:13: batalla, combate, guerra - Acceber dejó escapar una risita, un poco más relajada que antes, mientras respondía con ese tono de compañera friki que ahora parecía adoptar con naturalidad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17)
+
 - Ultimo evento conocido:
   - 05/12/2024, 22:05 - Director:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
+
 - Amenazas activas:
-  - 05/12/2024, 01:50: No puedo correr el riesgo de ponerte en peligro.
+  - Confianza: baja
+  - 05/12/2024, 01:50: No puedo correr el riesgo de ponerte en peligro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
+
 - Misiones abiertas:
-  - 05/12/2024, 01:50: Pero no olvides que te debemos una, y en la Ciénaga Negra, la palabra de los enanos aún tiene peso.
-  - 05/12/2024, 00:32: Estoy creando un imperio de descastados y ayudando al bien usando oscuridad, tarde o temprano me acabaré rompiendo.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 05/12/2024, 00:32: Al menos el mío lo hizo en su momento, auqnue no puedo ver si tras mi cambio sigo con el tatuaje.
+  - 05/12/2024, 00:32: Al menos el mío lo hizo en su momento, auqnue no puedo ver si tras mi cambio sigo con el tatuaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias
 
 ## 1111 Nueva Roclenia
 
 - Estado actual: Amenazado por corrupcion o plaga
-- Control / faccion dominante: Nueva Lyrule
+- Confianza estado: media
+
+- Control / faccion dominante: Talsyrc
+- Confianza control: media
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Drake
@@ -475,6 +551,7 @@ Localizaciones incluidas: 34.
   - Axel
   - Fang
   - Rebecca Desirae
+
 - Jugadores que han actuado aqui:
   - Jacklin
   - Drake
@@ -488,34 +565,46 @@ Localizaciones incluidas: 34.
   - Axel
   - Fang
   - Rebecca Desirae
+
 - Eventos importantes ocurridos:
-  - 30/12/2024, 01:24: ataque - pasó, debió ser rápido y bien calculado. Drake, cruzando los brazos, comentó: —Entonces, quienquiera que lo haya interceptado sabía exactamente lo que hacía. Esto no fue un simple ataque al azar. Flora, con su habitual serenidad, agregó: —Quizás el castillo sea nuestra mejor pista. Si llegó allí o fue interceptado cerca, podríamos encontrar algo. Ai, siempre deseosa de ayudar, ofreció: —¡Si necesitan chocobos para moverse más rápido, solo díganlo! Sería un honor ayudarlos a resolver este misterio. Nadia agradeció e (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-  - 30/12/2024, 01:22: amenaza - para alcanzar su máximo poder. Está en un templo hundido al oeste de estas tierras. Cecil tomó los documentos, revisándolos con una expresión grave. —Smel... Siempre pensé que su amenaza era distante, pero si esto es cierto, estamos más cerca de una crisis de lo que esperaba. Drake añadió: —También descubrimos que Nicholas estaba buscando a alguien llamada Victoria. Parece ser una pieza clave en los planes de Smel, aunque no sabemos exactamente cómo. Cecil asintió, cruzando los brazos mientras reflexionaba. —Victo (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-  - 10/12/2024, 00:19: invadir - su fuerza no parecía suficiente. La desesperación se apoderó de él cuando sintió el paño húmedo presionándose contra su rostro, una mezcla de olores dulces y extraños comenzando a invadir sus sentidos. Sus movimientos se hicieron erráticos, buscando cualquier manera de liberarse. A través de la neblina de sus pensamientos, recordó la interfaz. Moviendo sus patas frenéticamente, logró abrirla y comenzó a teclear con lo que le quedaba de energía. Sus alas agitaban débilmente mientras sus ojos se enfocaban en la brill (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-  - 09/12/2024, 03:04: maldicion - abrir mis alas, al menos esperaba que el mensaje le llegara a Jacklin a tiempo, mientras en mi mente surgían varias preguntas, me buscaban porque era una criatura rara o porque mi maldición los encantaba, deseaba que alguno de los presentes callera rendido y quisiera protegerme como los guardias del castillo pero parecía no ser el caso. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-  - 02/12/2024, 00:17: batalla - sólido, aunque arriesgado. La clave será que no permitamos que te sobrecargues. Si los números son demasiados, nuestra prioridad será mantener la retirada abierta. Esto no es una batalla, es un rescate. Por su parte, Aranea levantó una ceja y se cruzó de brazos, inclinando un poco la cabeza hacia Jacklin. Sus palabras salieron con el típico sarcasmo que no ocultaba su preocupación. -Bien, héroe, si estás tan seguro de que puedes soportar los golpes, adelante. Pero no creas que eso te da permiso para hacerte el val (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=26)
+  - 30/12/2024, 01:24: ataque - Nadia se cruzó de brazos mientras compartía la información con el grupo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 30/12/2024, 01:22: amenaza - Al llegar a Nueva Roclenia, el grupo fue recibido por los guardias del castillo, quienes los escoltaron directamente a la sala del trono. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 10/12/2024, 00:19: invadir - Horus forcejeaba con todas sus fuerzas mientras la brisa del aire nocturno acariciaba sus plumas en pleno vuelo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 09/12/2024, 03:04: maldicion - Estaba elevándome poco a poco abriendo mis alas, había suficiente espacio como para poder planear e impulsarme con las corrientes de aire, ya me había acostumbrado a esa forma de viajar algunas distancias quería llegar... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 02/12/2024, 00:17: batalla - Tras las palabras de Jacklin, la sala permaneció en silencio por un momento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=26)
+
 - Ultimo evento conocido:
-  - 30/12/2024, 01:24 - Director: Nadia se cruzó de brazos mientras compartía la información con el grupo.  -Acabo de recibir un mensaje de Jacklin. Parece que otro posible caso de desaparición ha ocurrido aquí, en Roclenia. Un tal Horus Icarus pidió ayuda hace poco.  Miró a Drake, Flora y Zok  -Esto empieza a ser más grande de lo que imaginamos. ¿Creen que podríamos investigar esto también mientras estamos aquí?  Drake asintió, aunque su rostro reflejaba la preocupación.  —Si Horus pidió ayuda, podríamos encontrar algo relacion (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 30/12/2024, 01:24 - Director: Nadia se cruzó de brazos mientras compartía la información con el grupo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+
 - Amenazas activas:
-  - 30/12/2024, 01:24: Esto no fue un simple ataque al azar.
-  - 30/12/2024, 01:24: —Es peligroso.
-  - 30/12/2024, 01:22: —Nicholas está muerto, pero su conexión con Smel es mucho más profunda de lo que imaginábamos.
+  - Confianza: media
+  - 30/12/2024, 01:24: Esto no fue un simple ataque al azar. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 30/12/2024, 01:24: —Es peligroso. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 30/12/2024, 01:22: —Nicholas está muerto, pero su conexión con Smel es mucho más profunda de lo que imaginábamos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+
 - Misiones abiertas:
-  - 30/12/2024, 01:24: Un tal Horus Icarus pidió ayuda hace poco.
-  - 30/12/2024, 01:24: ¿Creen que podríamos investigar esto también mientras estamos aquí?
-  - 30/12/2024, 01:24: —Si Horus pidió ayuda, podríamos encontrar algo relacionado con Rosa o incluso con lo que está detrás de todo esto.
+  - Confianza: media
+  - 30/12/2024, 01:22: Con el apoyo de Cecil y su equipo fortalecido, el grupo se preparó para partir hacia el oeste, conscientes de que el templo hundido sería el próximo paso en su misión para proteger a Grymoire de la creciente oscuridad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 30/12/2024, 01:22: Con el apoyo del grupo, Nadia se preparó para emprender la nueva misión, sabiendo que encontrar a Rosa podría ser la clave para entender algo aún más grande detrás de los misterios de Grymoire. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+
 - Cambios respecto al mapa base:
-  - 30/12/2024, 01:24: Nadia asintió, su decisión ya tomada.
-  - 10/12/2024, 00:19: La fuerza lo abandonó lentamente, y sus alas se plegaron con un movimiento casi involuntario.
-  - 10/12/2024, 00:19: Al momento siguiente, la apariencia de la calle cambió drásticamente.
+  - 30/12/2024, 01:24: Nadia asintió, su decisión ya tomada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 10/12/2024, 00:19: La fuerza lo abandonó lentamente, y sus alas se plegaron con un movimiento casi involuntario. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+  - 10/12/2024, 00:19: Al momento siguiente, la apariencia de la calle cambió drásticamente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia
 
 ## 1112 Fortaleza de Farar
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Filgaia
+- Confianza control: media
+
 - NPCs presentes o relevantes:
   - Fang
   - Rebecca Desirae
@@ -529,6 +618,7 @@ Localizaciones incluidas: 34.
   - Maquina de tatuar
   - Nulka
   - Aranea
+
 - Jugadores que han actuado aqui:
   - Fang
   - Rebecca Desirae
@@ -540,143 +630,181 @@ Localizaciones incluidas: 34.
   - Acceber
   - Becky
   - Maquina de tatuar
+
 - Eventos importantes ocurridos:
-  - 24/03/2025, 23:21: portal - de inmediato de vuelta. Eso sí, quiero que seáís conscientes. Domo a los monstruos, pero algunos tienen rencillas con los humanos. Tendréis que seguirme el juego o quedaros en el portal temporalmente, os guste o no. Nulka y su pueblo son considerados, pero otras razas no. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
-  - 14/03/2025, 17:42: combate - dad de Filgaia- una cosa era luchar contra unos hombres vaca armados y entrenados, otra muy diferente luchar contra un grupo de campesinos pobremente armado y sin entrenamiento en combate. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
-  - 01/03/2025, 10:36: liberacion - piró un poco. - Y alguno se preguntará: ¿por qué dirimir estas cuestiones a estas horas? Preferiría solamente la parte picante, mas hay cuestiones importantes. El enemigo busca la liberación, o eso dice. Dio un poco de aire. - No sé si sois conscientes, pero este mundo está atado a una serie de reglas cósmicas, creadas por unas criaturas llamadas administradores, aunque ahora uno se ha impuesto sobre el resto. Y hay algunas criaturas que se oponen al régimen del actual administrador, como... Smel. Él y otros. de es (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
-  - 25/02/2025, 22:55: corrupcion - ño quizás, un mero sueño. En el mundo real hubiese sido eso seguro, pero en esta ocasión.. no tenía la certeza. Al menos estaba intacta. Era quizás por no dejarme controlar por la corrupción. esto... Becky, ¿pasó algo anoche? Aparte del desenfreno sexual, claro. Y mientras tanto, me dirijo hacia las voces. No puedo evitar echar un vistazo a Jacklin, ¿estará bien? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
-  - 25/02/2025, 22:32: batalla - sensación latente en su pecho, como si hubiera cruzado un umbral invisible. Cecilia, dormida plácidamente a su lado. El rostro de Cecilia, sereno y sin rastro de la tensión de la batalla, parecía flotar en un remanso de paz. Cada respiración de la princesa, tranquila y regular, contrastaba con el caótico mundo que las rodeaba. ¿Había sido solo un sueño? ¿O un presagio de algo que aún estaba por venir? Las risas del grupo continuaban en la distancia. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
+  - 24/03/2025, 23:21: portal - - Está bien, partiremos de inmediato de vuelta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
+  - 14/03/2025, 17:42: combate - -Podemos acercarnos y recopilar información, tal vez así podamos encontrar un buen plan para recuperar la normalidad de Filgaia- una cosa era luchar contra unos hombres vaca armados y entrenados, otra muy diferente... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
+  - 01/03/2025, 10:36: liberacion - Suspiró. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
+  - 25/02/2025, 22:55: corrupcion - No sabía que había ocurrido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
+  - 25/02/2025, 22:32: batalla - La figura en el trono no reaccionó de inmediato. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25)
+
 - Ultimo evento conocido:
-  - 26/03/2025, 00:02 - Director: Al escuchar el comentario de Fang, Rebecca notó cómo las expresiones del resto del grupo pasaban del interés al desconcierto.  Jack frunció ligeramente el ceño.  -¿"La kobold que lame piedras"?  Rudy alzó una ceja, cruzando los brazos.  -¿Estamos hablando de alguien real o es una metáfora extraña?  Nulka soltó una risa.  -No me sorprendería si fuera ambas cosas.  El grupo parecía alineado. Solo quedaba convencer a Shiteshe de formar parte de la operación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
+  - 26/03/2025, 00:02 - Director: Al escuchar el comentario de Fang, Rebecca notó cómo las expresiones del resto del grupo pasaban del interés al desconcierto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
+
 - Amenazas activas:
-  - 24/03/2025, 23:21: Domo a los monstruos, pero algunos tienen rencillas con los humanos.
+  - Confianza: baja
+  - 24/03/2025, 23:21: Domo a los monstruos, pero algunos tienen rencillas con los humanos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
+
 - Misiones abiertas:
-  - 25/03/2025, 21:21: -Si- dije a Rebe -Vamos a la cueva, quizás nos sea de ayuda la Kobold que le gusta chupar piedras, seguro que ella puede ayudarnos a que se amas creíble que seamos comerciantes de cosas de Ingenieros-.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar
 
 ## 1114 Nubelon
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Nueva Roclenia
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Aldar
   - Aranea
-  - Gran Páramo
   - Loy-Yang
-  - Federación de Bahamut
   - Tenebris
-  - Yang Fang
-  - Agregó Aldar
-  - Aldar y Aranea
-  - Aranea y Aldar
   - Goraksha
+
 - Jugadores que han actuado aqui:
   - Jacklin
+
 - Eventos importantes ocurridos:
-  - 24/04/2024, 20:26: traicion - ra originalmente un guardián de la Federacion de Bahamut. Pero a diferencia de otros de su especie, Smel desarrolló una sed de poder que lo llevó por un camino oscuro. Se dice que traicionó a los suyos al intentar apoderarse de un antiguo artefacto de la Federacion, aquello le llevo al exilio. El druida hizo una pausa. -Después de su exilio, Smel no desapareció en el olvido como muchos esperaban. Se dedicó a recorrer las sombras del mundo, buscando aliados y acumulando conocimiento prohibido. Su traición no fue sol (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
-  - 24/04/2024, 20:09: ataque - e lo que hablar- Si, dentro de lo que cabe ha ido bastante bien, quizás no perfecto, pero bastante bien -comenté siendo realista con el resultado global- Llegamos justo durante el ataque de los saqueadores, si no no hubieras mandado con tu magia habría sido demasiado tarde así que venía para agradecértelo -le tendí la mano, esta si que para un estrechón de verdad- Aunque descubrimos que los saqueadores, al menos los líderes, servían al culto de un dragón... el mismo que mora en el bosque que hay al norte. Es posibl (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
-  - 10/04/2024, 19:08: ritual, portal - alio afuera, para meter a las monturas por el portal. El ambiente en la cabaña del druida se llenó de una energía vibrante y mística mientras Avaloki-Sadva comenzaba a preparar el ritual para teleportar al grupo. Con gestos lentos y precisos, el druida colocó varios objetos sagrados en un círculo alrededor del grupo, cada uno representando un elemento de la naturaleza: tierra, aire, fuego y agua. El suave susurro del viento se filtraba por las rendijas de la cabaña, acompañado por el crepitar reconfortante de la ch (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
-  - 10/04/2024, 15:28: amenaza - o encontrábamos refugio para la noche estábamos muertos, sin un ápice de vegetación, solo terreno rocoso, niebla, oscuridad absoluta en cuanto comenzara a oscurecer y la acechante amenaza de que lo único que nos podríamos encontrar era una criatura monstruosa que vagaba por el lugar... genial plan de viernes. - Bueno... ni tan mal ¿no? -comenté al grupo con cierto sarcasmo- Y ya no hace falta que vaya a comprarme ropas abrigadas -comenté hacia Aldar poniéndome una de las capas que nos había entregado por encima y a (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
-  - 10/04/2024, 00:26: batalla, corrompido - l de la historia de la que hablaba aquel Gnomo: -Juntos, se enfrentaron a la fuente del mal, un ser antiguo cuya envidia y odio hacia el núcleo había corrompido su esencia. En una batalla épica que se extendió a través del cielo y las islas de Grymoire, Aeliana y sus aliados lograron sellar al ser maligno una vez más, dispersando la niebla y restaurando la luz al mundo. Aeliana, sin embargo, sabía que la paz era frágil. Para proteger a Grymoire de futuras amenazas, decidió convertirse en la Guardiana de la Niebla, (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+  - 24/04/2024, 20:26: traicion - El druida estrechó la mano de Jacklin con firmeza, sus ojos brillando con una mezcla de preocupación y curiosidad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+  - 24/04/2024, 20:09: ataque - El mismo gnomo por el mismo problema, le mire según pasaba por al lado mía extrañado por la situación, aunque lo deje pasar al tener algo más de lo que hablar- Si, dentro de lo que cabe ha ido bastante bien, quizás no... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+  - 10/04/2024, 19:08: ritual, portal - Aldar observó con atención mientras Avaloki-Sadva explicaba los detalles del viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+  - 10/04/2024, 15:28: amenaza - Casi al momento en que la teletransportación fue mencionada levante la mirada al cielo agradeciendo sin que sonido saliera de mis labios pese a estar articulando palabras. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+  - 10/04/2024, 00:26: batalla, corrompido - Mientras el grupo avanzaba por las calles empedradas de Núbelon, Loy-yang no podía evitar sentir una sensación de familiaridad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+
 - Ultimo evento conocido:
-  - 24/04/2024, 22:27 - Director: El druida asintió con comprensión, su expresión mostrando tanto respeto como una cierta tristeza al despedirse de Jacklin y su grupo.  -El placer ha sido mío, y siempre es una bendición poder ayudar a aquellos que luchan por el bien de nuestro mundo y más allá  Respondió, devolviendo la reverencia con un gesto igualmente respetuoso.  -Que tus viajes te sean favorables, y que encuentres lo que buscas dondequiera que te lleve tu camino.  Con esas palabras, el druida dio un paso atrás, permitiendo  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=2)
+  - 24/04/2024, 22:27 - Director: El druida asintió con comprensión, su expresión mostrando tanto respeto como una cierta tristeza al despedirse de Jacklin y su grupo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=2)
+
 - Amenazas activas:
-  - Desconocido
+  - Confianza: baja
+  - 24/04/2024, 20:37: No sabía nada de ellos, pero si le expulsaron por traidor tal vez debería visitarlos para conocer los detalles e incluso aliados potenciales ante un enemigo común, si es que Smel realmente amenazaba contra ellos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+
 - Misiones abiertas:
-  - 24/04/2024, 22:27: -El placer ha sido mío, y siempre es una bendición poder ayudar a aquellos que luchan por el bien de nuestro mundo y más allá Respondió, devolviendo la reverencia con un gesto igualmente respetuoso.
-  - 24/04/2024, 22:27: Había un aire de solemnidad en el ambiente, un reconocimiento del peso de su misión y de los desafíos que aún enfrentaban.
-  - 24/04/2024, 21:58: adiós a mis posibilidades e ideas de tener aliados contra el culto, esperaba que no siempre encontrar ayuda fuera buscar un lugar de leyendas y mitos, sino más como la forma en que conocí a Aldar.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 24/04/2024, 21:58: Nosotros volveremos a Roclenia, quizás nos volvamos a ver -no sonaba tan creíble como cuando se lo dije a Loy, o al menos no con tanto entusiasmo- Ha sido un placer -con una reverencia de cabeza me despedí del druida y abandonamos su hogar.
-  - 24/04/2024, 21:08: -Por lo que logro entender de estos textos, Tenebris parece ser no más que otro aspecto de Smel, una transformación que permite al dragón adoptar forma humana.
+  - 24/04/2024, 21:58: Nosotros volveremos a Roclenia, quizás nos volvamos a ver -no sonaba tan creíble como cuando se lo dije a Loy, o al menos no con tanto entusiasmo- Ha sido un placer -con una reverencia de cabeza me despedí del druida y abandonamos su hogar. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=2)
+  - 24/04/2024, 21:08: -Por lo que logro entender de estos textos, Tenebris parece ser no más que otro aspecto de Smel, una transformación que permite al dragón adoptar forma humana. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon
 
 ## 1210 Fortaleza de Roland
 
 - Estado actual: Dañado o destruido
-- Control / faccion dominante: Fortaleza de Roland
+- Confianza estado: media
+
+- Control / faccion dominante: Nueva Lyrule
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Horus Icarus
-  - Nueva Delyde
-  - Sí. Pero
+
 - Jugadores que han actuado aqui:
   - Horus Icarus
+
 - Eventos importantes ocurridos:
-  - 19/06/2025, 07:26: destruido, cristal - da confiar, si se entrega a cualquiera podría ser un arma de doble filo, quería encontrar al científico que custodiaba el cristal, pero posiblemente falleció cuando el cristal fue destruido, depender de eso seria como tirar una moneda al aire Pensaba tratando de unir mis ideas, quizás me había emocionado demasiado por la forma en la que Lucien espiaba mis conversaciones, me había ilusionado con una idea que al final fracasaría -No hay nada que pueda ofrecerte, no tengo nada material que darte, además dudo que seas (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
-  - 25/05/2025, 16:28: cristal - o es solo ambicioso. Es una herejía. Dejó que esa palabra flotara. -Acceder a la interfaz siendo un NPC ya es un problema. Dar ese acceso a otros que no han sido designados por el Cristal… podría desatar una purga del propio Administrador. Lucien se acercó un par de pasos, y aunque su voz era tranquila, había tensión en ella. -¿Tú crees que lo que hago es admiración? ¿Capricho? Es supervivencia. Todo lo que he hecho, cada criatura que conservo aquí, cada desviación de protocolo, cada rincón de esta fortaleza, está (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
-  - 22/02/2025, 16:15: descubre - egundos después de sus palabras, su interfaz volvió a parpadear, y un nuevo mensaje apareció frente a sus ojos. "No esperaba que lo vieras de esa forma. La mayoría se asusta cuando descubre que no están tan 'seguros' como creen." Esta vez, el tono del mensaje no parecía burlón ni amenazante. Había un matiz de interés, como si la reacción de Horus hubiera logrado captar la atención de quien estaba del otro lado de la interfaz. Apenas un instante después, la cerradura de la puerta hizo un clic, y la puerta se abrió c (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
-  - 22/02/2025, 14:09: maldicion - arte del contrario mientras poco a poco escucho sus palabras negando con mi cabeza. Parece que quien me ha subestimado eres tu, a diferencia de ti yo no tengo interés en usar esta maldición en mi beneficio, para empezar no es algo que pueda controlar a voluntad, es demasiado volátil, los que se ven afectados por ella tienden a ser sobreprotectores conmigo- Respondería firmemente antes de encarar al contrario sin una pizca de miedo nuestras formas de pensar eran completamente opuestas En eso te equivocas, como he di (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1)
-  - 13/02/2025, 01:05: amenaza, maldicion - El aire en la habitación se volvió más denso, como si la amenaza implícita en las palabras de Horus hubiera cambiado la atmósfera por completo. Lucien permaneció en silencio por un momento, sin reaccionar de inmediato, simplemente observándolo con una expresión indescifrable. No había rabia en su mirada, ni sorpresa, sino algo más profundo, una mezcla de evaluación y… quizás, por primera vez, un atisbo de advertencia. Finalmente, dejó escapar un suspiro casi teatral, como si estuviera decepcionado, pero sin perder (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1)
+  - 19/06/2025, 07:26: destruido, cristal - No te subestimo, estoy siendo lógico, cambiar la estructura de mis plumas para que sean algo mas que un mero simbolismo solo nos pondrá una diana en la espalda, hay mucho más que perder a largo plazo que cualquier... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 25/05/2025, 16:28: cristal - Lucien no se movió cuando Horus entró. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 22/02/2025, 16:15: descubre - El sonido de los golpes de Horus resonó en la habitación, pero no hubo respuesta inmediata. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 22/02/2025, 14:09: maldicion - ¿Subestimando? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1)
+  - 13/02/2025, 01:05: amenaza, maldicion - El aire en la habitación se volvió más denso, como si la amenaza implícita en las palabras de Horus hubiera cambiado la atmósfera por completo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1)
+
 - Ultimo evento conocido:
-  - 24/08/2025, 03:10 - Horus Icarus: De un momento a otro la realidad pareció distorsionarse de forma tan grotesca que no pude evitar quedar pálido, el rostro de Lucien reflejaba alfo que nunca espere ver, terror, mientras las paredes se deformaban, parecía que la fortaleza estaba cayendo, envueltos en estática impredecible antes de regresar a la normalidad, mis orejas estaban agachadas, mi rostro confiado y desafiante había cambiado mi rostro reflejaba preocupación, además de miedo, pero no tenia miedo por mi seguridad, veía con p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 24/08/2025, 03:10 - Horus Icarus: De un momento a otro la realidad pareció distorsionarse de forma tan grotesca que no pude evitar quedar pálido, el rostro de Lucien reflejaba alfo que nunca espere ver, terror, mientras las paredes se deformaban, parecía que la fortaleza estaba cayendo,... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+
 - Amenazas activas:
-  - 19/06/2025, 07:26: Si el gremio hace un comunicador, aun puede ser robado, pero el verdadero problema es que mi idea podría terminar en manos enemigas, quiero que la comunicación se de entre personas en las que pueda confiar, si se entrega a cualquiera podría ser un arma de doble filo, quería encontrar al científico que custodiaba el cristal, pero posiblemente falleció cuan...
+  - Confianza: media
+  - 19/06/2025, 07:26: Si el gremio hace un comunicador, aun puede ser robado, pero el verdadero problema es que mi idea podría terminar en manos enemigas, quiero que la comunicación se de entre personas en las que pueda confiar, si se entrega a cualquiera podría ser un arma de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 25/05/2025, 16:28: El silencio volvió a llenar la sala, cargado de la promesa de una idea peligrosa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+
 - Misiones abiertas:
-  - 24/08/2025, 03:10: De un momento a otro la realidad pareció distorsionarse de forma tan grotesca que no pude evitar quedar pálido, el rostro de Lucien reflejaba alfo que nunca espere ver, terror, mientras las paredes se deformaban, parecía que la fortaleza estaba cayendo, envueltos en estática impredecible antes de regresar a la normalidad, mis orejas estaban agachadas, mi...
-  - 19/06/2025, 07:26: No te subestimo, estoy siendo lógico, cambiar la estructura de mis plumas para que sean algo mas que un mero simbolismo solo nos pondrá una diana en la espalda, hay mucho más que perder a largo plazo que cualquier beneficio cercano- Afirme tranquilamente mirando al contrario su explicación era mas completa de lo que podría esperar aunque no se alejaba dem...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 19/06/2025, 07:26: Si el gremio hace un comunicador, aun puede ser robado, pero el verdadero problema es que mi idea podría terminar en manos enemigas, quiero que la comunicación se de entre personas en las que pueda confiar, si se entrega a cualquiera podría ser un arma de doble filo, quería encontrar al científico que custodiaba el cristal, pero posiblemente falleció cuan...
-  - 18/06/2025, 23:04: ¿Qué me das tú, a cambio de que te ayude a poner en marcha ese comunicador?
+  - 19/06/2025, 07:26: Si el gremio hace un comunicador, aun puede ser robado, pero el verdadero problema es que mi idea podría terminar en manos enemigas, quiero que la comunicación se de entre personas en las que pueda confiar, si se entrega a cualquiera podría ser un arma de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 18/06/2025, 23:04: ¿Qué me das tú, a cambio de que te ayude a poner en marcha ese comunicador? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+  - 25/05/2025, 16:28: -Comunicación como moneda de cambio… monitoreo selectivo de usuarios… acceso limitado a la interfaz por objetos... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland
 
 ## 1211 Nueva Lyrule
 
 - Estado actual: Dañado o destruido
+- Confianza estado: media
+
 - Control / faccion dominante: Nueva Lyrule
+- Confianza control: media
+
 - NPCs presentes o relevantes:
   - Kirara
   - Zelda
   - Horus Icarus
   - Ganondorf
   - Drake
-  - Kirara y
-  - Cerca de
-  - Entre los
-  - Guardian de
-  - Link y Ganondorf
-  - Orbe Cromático
   - Rosa
+
 - Jugadores que han actuado aqui:
   - Kirara
   - Zelda
   - Horus Icarus
+
 - Eventos importantes ocurridos:
-  - 05/01/2025, 22:12: combate, captura, amenaza, ataque - bezas hacia el grupo, mientras la Neosombra rugía con un sonido gutural, señalando al grupo como su próximo objetivo. Drake, Zok y Flora se posicionaron rápidamente para entrar en combate. El Combate Iniciativa: Neosombra Sincorazón Sombra Nadia Drake Flora Zok Ronda 1: La Neosombra Ataca La Neosombra, más rápida que el resto, se lanzó hacia Nadia, atacándola con un golpe sombrío. Aunque logró esquivarlo, el impacto dejó una marca en el suelo, mostrando su fuerza. Sincorazón Sombra Los Sincorazón Sombra rodearon a (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-  - 30/12/2024, 01:31: invadir, ruinas - vinculada de alguna manera, y encontrarla era la única forma de desentrañar este misterio. Mientras avanzaban, el aire se volvía más denso, y una sensación de urgencia comenzaba a invadir a cada uno de ellos. La pregunta que ninguno quería hacer en voz alta resonaba en sus mentes: ¿Llegarían a tiempo para salvarla? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-  - 30/12/2024, 01:30: batalla, combate, destruccion, destruido, ruinas - hacia el bosque en la distancia, habló con firmeza: —Sea lo que sea, necesitamos seguir este rastro. Saria no desapareció por accidente. Descubrimientos en las Ruinas Restos de la Batalla: 	Encuentran fragmentos de tecnología de Shin-Ra esparcidos por las ruinas, pero también señales de que la magia del reino fue utilizada para defenderse. Las marcas de combate no ofrecen respuestas sobre las desapariciones recientes. Un Diario Parcial: 	Entre los escombros, encuentran un diario que menciona a Saria liderando a los (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-  - 21/03/2024, 13:05: batalla, guerra, ruinas - aqui, no quiero que te veas envuelto en medio de un conflicto politico. Dijo Gapora mientras extendia su mano. Cuando te distes cuenta, estabas afuera de la ciudad, alejado de la batalla. pudiste ver a hombres uniformados, con armas pesadas que se dirigian al interior de la ciudad, mientras los caballeros rasos caian, impotentes ante aquellas armas tan avanzadas. La batalla entre Shinra y Lyrule fue un enfrentamiento épico que quedará grabado en la historia como un choque entre la tecnología implacable y la bravur (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-  - 18/03/2024, 08:04: alianza - ien desempeñaba un papel similar al mío en su reino. Suponía que éramos vulnerables, pero es la primera vez que algo así ocurre... No sé qué consecuencias tendrá esto para nuestra alianza. Tendré que discutirlo con el guardián de los Talsyrc en un futuro cercano. Su rostro reflejaba una profunda preocupación ante la gravedad de la situación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 05/01/2025, 22:12: combate, captura, amenaza, ataque - El Encuentro con Saria El grupo llegó a un pequeño claro en el bosque, donde la escena que los esperaba les heló la sangre. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 30/12/2024, 01:31: invadir, ruinas - Narración: Adentrándose en el Bosque El bosque que rodeaba las ruinas de Nueva Lyrule era un lugar denso y oscuro, cargado con una atmósfera opresiva. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 30/12/2024, 01:30: batalla, combate, destruccion, destruido - Entendido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 21/03/2024, 13:05: batalla, guerra, ruinas - De repente se escucho un estallido en las afueras, solo el inicio de muchos otros. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 18/03/2024, 08:04: alianza - El guardián te observaría con una mezcla de sorpresa y pesar antes de exhalar un suspiro cargado de resignación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+
 - Ultimo evento conocido:
-  - 22/01/2025, 23:05 - SISTEMA: [ALERTA: ALTERACIÓN NO AUTORIZADA DETECTADA]  [ANÁLISIS DEL SISTEMA EN CURSO…]  [ERROR: MÚLTIPLES GLITCHES DETECTADOS]  [PROTOCOLO DE RESTAURACIÓN FALLIDO]  [EJECUTANDO ESCALADA DE INCIDENTE…] - AVISANDO A ADMINISTRADOR - (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 22/01/2025, 23:05 - SISTEMA: [ALERTA: ALTERACIÓN NO AUTORIZADA DETECTADA] [ANÁLISIS DEL SISTEMA EN CURSO…] [ERROR: MÚLTIPLES GLITCHES DETECTADOS] [PROTOCOLO DE RESTAURACIÓN FALLIDO] [EJECUTANDO ESCALADA DE INCIDENTE…] - AVISANDO A ADMINISTRADOR - (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+
 - Amenazas activas:
-  - 05/01/2025, 22:12: Junto a ellos, una Neosombra más grande y peligrosa lideraba el ataque.
-  - 05/01/2025, 22:12: Nadia, al ver a Saria en peligro, desenvainó su cimitarra mientras gritaba: -¡Saria!
-  - 05/01/2025, 22:12: Nadia Nadia invocó su Tentáculo Azul, atrapando a uno de los Sincorazón Sombra y destruyéndolo con un golpe contundente.
+  - Confianza: media
+  - 05/01/2025, 22:12: Junto a ellos, una Neosombra más grande y peligrosa lideraba el ataque. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 05/01/2025, 22:12: Nadia, al ver a Saria en peligro, desenvainó su cimitarra mientras gritaba: -¡Saria! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 05/01/2025, 22:12: Nadia Nadia invocó su Tentáculo Azul, atrapando a uno de los Sincorazón Sombra y destruyéndolo con un golpe contundente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+
 - Misiones abiertas:
-  - 05/01/2025, 22:12: Los Sincorazón Sombra voltearon sus cabezas hacia el grupo, mientras la Neosombra rugía con un sonido gutural, señalando al grupo como su próximo objetivo.
-  - 05/01/2025, 22:12: Zok Zok lanzó un último Piro hacia la Neosombra, causando una explosión que la hizo retroceder, pero no fue suficiente para detenerla.
-  - 05/01/2025, 22:12: Vamos a encontrarla, y vamos a detener lo que sea que esté ocurriendo.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 05/01/2025, 22:12: Nadia Nadia invocó su Tentáculo Azul, atrapando a uno de los Sincorazón Sombra y destruyéndolo con un golpe contundente.
-  - 05/01/2025, 22:12: Sin embargo, en el intercambio, Nadia sintió un cambio: su habilidad para analizar a sus enemigos le permitió copiar la técnica de Paso Brumoso de la Neosombra, aunque no pudo activarla de inmediato.
-  - 30/12/2024, 01:31: Narración: Adentrándose en el Bosque El bosque que rodeaba las ruinas de Nueva Lyrule era un lugar denso y oscuro, cargado con una atmósfera opresiva.
+  - 05/01/2025, 22:12: Nadia Nadia invocó su Tentáculo Azul, atrapando a uno de los Sincorazón Sombra y destruyéndolo con un golpe contundente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 05/01/2025, 22:12: Sin embargo, en el intercambio, Nadia sintió un cambio: su habilidad para analizar a sus enemigos le permitió copiar la técnica de Paso Brumoso de la Neosombra, aunque no pudo activarla de inmediato. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+  - 30/12/2024, 01:31: Narración: Adentrándose en el Bosque El bosque que rodeaba las ruinas de Nueva Lyrule era un lugar denso y oscuro, cargado con una atmósfera opresiva. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule
 
 ## 1212 Cueva Goblin
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Fortaleza de Farar
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Rebecca Desirae
   - Fang
@@ -688,8 +816,9 @@ Localizaciones incluidas: 34.
   - Acceber
   - Nulka
   - Goraksha
-  - Rebecca y Fang
   - Becky
+  - Kaela
+
 - Jugadores que han actuado aqui:
   - Rebecca Desirae
   - Fang
@@ -700,28 +829,42 @@ Localizaciones incluidas: 34.
   - Korpogadisto
   - Acceber
   - Nulka
+
 - Eventos importantes ocurridos:
-  - 12/05/2025, 06:56: cristal - go que venimos a evaluar posibles rutas de comercio y a valorar el reciclaje de componentes mágicos obsoletos… o rotos. ¡Que tenemos muchos de esos! Se acercó a una de las cajas y sacó un cristal roto que emitía un zumbido ligeramente errático. -Este, por ejemplo, ¡zumba! Y eso basta para venderlo como “receptor de vibraciones místicas”. Se giró con una sonrisa confiada. -Vamos a necesitar un carro, o al menos una plataforma. Lo disfrazamos con lonas y mecanismos visibles, y viajamos como comerciantes excéntricos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
-  - 24/04/2025, 01:59: combate - n descanso. Su dominio del arma ígnea es cada vez más refinado, y ha comenzado a coordinar con algunos de los jóvenes soldados orcos, especialmente aquellos con inclinación por el combate cuerpo a cuerpo. Se ha ganado el respeto por su fuerza... y cierto temor por su intensidad. Luego bajó ligeramente la voz, en tono confidencial: -En cuanto a diplomacia… sigue considerando que hablar más de tres frases sin gritar es perder el tiempo. Ayer intenté que mediara en una pequeña disputa por turnos de cocina. Terminó con (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
-  - 29/03/2025, 23:02: batalla - las mágicas. Zelo tiene su espada ardiente, yo mi magia así como tenemos lanzadores de conjuros... y no tenemos mucho más. Tenemos que prepararnos, tarde o temprano tendremos una batalla real con ellos, buscar la forma de que nuestras armas tengan algo de magia impregnada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=13)
-  - 14/12/2024, 05:54: guerra - decidir qué hacer consigo mismo, que expreséis y realicéis vuestros proyectos. Eso no quiere decir que el crimen, el robo o desobedecer las leyes no pueda ser penado. No busco la guerra ni el conflicto, pero es posible que nos intenten atacar en un futuro, por mero racismo e ignorancia. No lo permitiremos. ¡ Gloria a Forbin! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12)
-  - 14/12/2024, 01:57: guerra - -Me parece bien, debemos estar listos para la guerra, no es nuestro objetivo, pero siempre es mejor estar preparados para lo peor- menciono ante las palabras de Rebecca -Sin duda la gestión de Korpo ha sido ejemplar como siempre y ahora con Goraksha seguro recibirá mucha mas ayuda-. Comienzo a mirar alrededor buscando a alguien -Claro que no pongo en duda el trabajo de Rådgiver-. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12)
+  - 12/05/2025, 06:56: cristal - El pasillo de piedra que conducía a la Sala del Trono en la Cueva Kobold había sido recientemente reforzado con soportes de hierro forjado y antorchas de luz mágica parpadeante. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
+  - 24/04/2025, 01:59: combate - Korpo dejó escapar una leve exhalación que parecía contener una mezcla de paciencia, orgullo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
+  - 29/03/2025, 23:02: batalla - Korpo, como siempre eficiente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=13)
+  - 14/12/2024, 05:54: guerra - Estaban todos en formación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12)
+  - 14/12/2024, 01:57: guerra - -Me parece bien, debemos estar listos para la guerra, no es nuestro objetivo, pero siempre es mejor estar preparados para lo peor- menciono ante las palabras de Rebecca -Sin duda la gestión de Korpo ha sido ejemplar... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12)
+
 - Ultimo evento conocido:
-  - 29/05/2025, 05:11 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. La carreta, tirada por un par de lobos huargo, avanzaba lenta pero constante por el sendero que descendía desde la entrada rocosa de la Cueva Goblin hacia las llanuras que rodeaban la vieja frontera de Nueva Delhyde.  Habían salido sin llamar la atención, una mañana sin niebla y con suficiente luz para calentar la piedra. En la carreta viajaban las mercancías cuidadosamente preparadas por Shiteshe: artefactos  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=15)
+  - 29/05/2025, 05:11 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=15)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
-  - 18/05/2025, 01:34: Pero… Se detuvo un momento, cruzando los brazos como si lo estuviera ponderando -Si el objetivo de la intimidación es evitar un enfrentamiento, ¿no será mejor no sacar el hacha?
-- Cambios respecto al mapa base:
+  - Confianza: baja
   - Desconocido
+
+- Cambios respecto al mapa base:
+  - 17/05/2025, 12:43: Se rió, disfrutando el show y los cambios de tono de Rebecca. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
+  - 17/05/2025, 12:43: Era algo que nunca fallaba con la kobold: el caos le divertía y veía cómo todo se transformaba ante sus ojos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin
 
 ## 1213 Lipwick/ Bosque de Smel
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Gremio de Inventores
+- Confianza estado: media
+
+- Control / faccion dominante: Fortaleza de Farar
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Carol Copper
   - Hjelma
@@ -733,8 +876,9 @@ Localizaciones incluidas: 34.
   - Jacklin
   - HJELMA
   - Aldar
-  - Jack y Rudy
   - Kaela
+  - Aranea
+
 - Jugadores que han actuado aqui:
   - Carol Copper
   - Hjelma
@@ -744,30 +888,41 @@ Localizaciones incluidas: 34.
   - Cecilia
   - Kristal
   - Jacklin
+
 - Eventos importantes ocurridos:
-  - 17/05/2024, 09:52: descubrimiento - explicar nuestro gremio y por la posible colaboración. Viajen seguros y espero que nuestras misiones se crucen de nuevo bajo mejores circunstancias. Estaremos atentos a cualquier descubrimiento y usaremos el amuleto si encontramos algo relevante. Lynthara, la draconiana, sonrió mientras respondía a Jacklin -Así es, pocos han alcanzado el rango de Titanio, y los niveles superiores son aún más raros. Pero cada rango refleja un compromiso y una habilidad excepcional. Buena suerte en su viaje. Estoy segura de que volv (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
-  - 15/05/2024, 03:09: descubren, cristal - ica que han detectado es la que buscan. Al decir esto, Krystal golpeó suavemente su armadura para enfatizar su punto y extendió otro amuleto al grupo de aventureros de Hajime. -Si descubren información sobre algún santuario antiguo, por favor, utilicen esto para contactarme. Apareceré como lo hice recientemente. Agradezco que lo usen principalmente para hallazgos relacionados con santuarios, pero en caso de emergencia, también pueden llamarme. Su sonrisa amplia y sincera ofrecía seguridad y apoyo, reforzando la ser (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
-  - 14/05/2024, 18:52: cristal - ragón, tal vez se reunió con él y después de lo ocurrido creo esa revolución en Filgaia, siento que ese era su plan, desequilibrar el poder de los guardianes y asaltar la torre de cristal entre la confusión, aunque todo lo que digo son especulaciones, no tenemos pruebas de lo que está pasando- (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
-  - 13/05/2024, 07:17: destruccion, amenaza - el tejido mágico del bosque que podrían tener consecuencias desconocidas. Por eso estamos aquí, para investigar y entender qué o quién podría estar detrás de esto. Al mencionar la destrucción de la barrera, la mujer continuó -La investigación sobre la destrucción de la barrera está siendo manejada por otro grupo dentro de nuestro gremio. Ellos están especializados en ese tipo de eventos mágicos a gran escala y están trabajando para comprender las causas y posibles remedios. Cuando Rebecca activó el amuleto, de él e (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
-  - 13/05/2024, 01:33: ruinas - cas? No estaba siendo precisamente muy esclarecedora con ello, había llevado una mano a mi mentón repasando cada una de sus palabras en mi mente... por lo que cuando menciono unas ruinas mágicas levanté la cabeza rápido para mirarla sin atrever a decir nada al respecto. - ¿Os referís a cosas como la desaparición de la barrera? -era una pregunta casi retórica obviamente eso estaba entre la lista, la perdida de la torre podría suponer también la desaparición de los privilegios "heroicos". Tras su respuesta continúe e (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
+  - 17/05/2024, 09:52: descubrimiento - Rinn, la kobold portavoz del grupo, asintió con una sonrisa al escuchar las palabras de despedida de Jacklin. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
+  - 15/05/2024, 03:09: descubren, cristal - Krystal asintió en acuerdo con la propuesta de Rebecca, su gesto serio reflejaba su compromiso con la tarea encomendada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
+  - 14/05/2024, 18:52: cristal - Miro confundida a Rebecca, aunque me mantengo en guardia de los aventureros -Rebe, no metería las manos en el fuego por el dragón, puede que él fuera quien rompió la protección de la torre o uno de sus sectarios, tal... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
+  - 13/05/2024, 07:17: destruccion, amenaza - La mujer draconiana escuchó atentamente a Jacklin compartir sus recientes aventuras y descubrimientos sobre el culto de Smel. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
+  - 13/05/2024, 01:33: ruinas - Me cruce de brazos en cuanto empezaron a explicar los motivos de su presencia por la zona. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8)
+
 - Ultimo evento conocido:
-  - 17/05/2024, 09:52 - Director: Rinn, la kobold portavoz del grupo, asintió con una sonrisa al escuchar las palabras de despedida de Jacklin.  -Gracias por la oportunidad de explicar nuestro gremio y por la posible colaboración. Viajen seguros y espero que nuestras misiones se crucen de nuevo bajo mejores circunstancias. Estaremos atentos a cualquier descubrimiento y usaremos el amuleto si encontramos algo relevante.  Lynthara, la draconiana, sonrió mientras respondía a Jacklin  -Así es, pocos han alcanzado el rango de Titanio (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
+  - 17/05/2024, 09:52 - Director: Rinn, la kobold portavoz del grupo, asintió con una sonrisa al escuchar las palabras de despedida de Jacklin. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
+
 - Amenazas activas:
-  - 17/05/2024, 09:52: Decidieron rodear el bosque, evitando los peligros que podrían acechar en su interior.
+  - Confianza: baja
+  - 17/05/2024, 09:52: Decidieron rodear el bosque, evitando los peligros que podrían acechar en su interior. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
+
 - Misiones abiertas:
-  - 17/05/2024, 09:52: Viajen seguros y espero que nuestras misiones se crucen de nuevo bajo mejores circunstancias.
-  - 17/05/2024, 09:52: Volvió la vista hacia los aventureros de Hajime y añadió -Buena suerte con su misión.
-  - 17/05/2024, 09:52: -Les deseo éxito en su misión.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel
 
 ## 1214 Poblado orco
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Nueva Delhyde
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Goraksha
@@ -778,9 +933,10 @@ Localizaciones incluidas: 34.
   - Kaela
   - Acceber
   - Nulka
-  - Aranea y Aldar
-  - Loy Yang
   - Loy-Yang
+  - Zelo
+  - Becky
+
 - Jugadores que han actuado aqui:
   - Jacklin
   - Goraksha
@@ -790,64 +946,87 @@ Localizaciones incluidas: 34.
   - Fang
   - Kaela
   - Acceber
+
 - Eventos importantes ocurridos:
-  - 12/12/2024, 23:23: portal - El portal resplandeció con un brillo oscilante mientras Rebecca lo creaba, su energía vibrante iluminaba las figuras de Goraksha y Nulka. La líder orco mantuvo su expresión solemne, mientras que su hija no ocultaba su entusiasmo. Nulka se adelantó, observando la magia del portal con curiosidad. -¡Esto es increíble! ¿De verdad podemos cruzar y aparecer en otro lugar así de fácil? Comentó Nulka con una sonrisa amplia mientras ajustaba su túnica. Goraksha, tomó el primer paso, seguida de cerca por su hija. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-  - 12/12/2024, 23:08: batalla, portal - - Ya lo pensaremos de camino, tengo que ultimar detalles, y tenemos varios día spor delante. ningún plan de batalla sobrevive al contacto con el boss... ¿O es que alguno ha servido contra Malenia? Te mata igual. Pero sí, reconzoco que pese a que me gusta una sociedad igualitaria, reconozcámoslo, las mujeres somos más inteligentes. Siempre me gustó más Nidoqueen que Nidoking. Suelta una risilla - De todas formas, volvamos al poblado goblin. Me muero de agnas por empezar. Crea un portal y se dispone a atravesarlo, es (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-  - 10/12/2024, 13:08: muerte, combate, portal, liberacion - emporalmente, pero tampoco debería ser la base de nuestra estrategia, es como cuando usas cheats en un juego y meten una nueva actualización. Tengo un par de trucos para fingir mi muerte, pero sólo los usaré si no existe otra opción, si ves las cosas muy desesperadas, huye, Fang, ya te alcanzaré en algún momento. Parezco un pj de apoyo, pero creo que puedo desenvolverme en combate mejor de lo que parece. Mi idea es ir adonde Farar y ver que pueden hacer los tambores de la liberación. ¿No dijeron que los usarían con (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-  - 10/12/2024, 04:03: batalla - o que las palabras de aquel Kobold gruñón vinieron a mi cabeza en ese instante -No podemos poner todas las monedas en el mismo saco, en caso de que algo del desafío termine en una batalla, debemos tener un plan de contraataque o de escape-. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-  - 08/12/2024, 23:10: batalla - Rebecca escuchó a Goraksha con paciencia - No hay ningún problema, nuestro plan de batalla es win to win... aunque creo que nos hace falta un cambio en la party. Kaela debe meditar sobre lo ocurrido y creo que está preparada, pero tu otra hija creo que ganaría mucha experiencia viniendo con nosotras, el level up va a ser brutal. Dejó un poco de silencio - Y lo dicho, quedas formalmente invitada a unirte a nuestro concilio, tu sabiduría será crucial para nuestro ascenso meteórico (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 12/12/2024, 23:23: portal - El portal resplandeció con un brillo oscilante mientras Rebecca lo creaba, su energía vibrante iluminaba las figuras de Goraksha y Nulka. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 12/12/2024, 23:08: batalla, portal - - Ya lo pensaremos de camino, tengo que ultimar detalles, y tenemos varios día spor delante. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 10/12/2024, 13:08: muerte, combate, portal, liberacion - Se terminoó de colocar el sombrero. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 10/12/2024, 04:03: batalla - Al escuchar a la otra Orca hija de Goraksha una de mis venas de la cabeza estaba a punto de explotar ¿Es normal que la vea igual que Zelo?, no, es peor, Zelo al menos tiene la escusa de ser un bebe, ella... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 08/12/2024, 23:10: batalla - Rebecca escuchó a Goraksha con paciencia - No hay ningún problema, nuestro plan de batalla es win to win... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+
 - Ultimo evento conocido:
-  - 12/12/2024, 23:23 - Director: El portal resplandeció con un brillo oscilante mientras Rebecca lo creaba, su energía vibrante iluminaba las figuras de Goraksha y Nulka. La líder orco mantuvo su expresión solemne, mientras que su hija no ocultaba su entusiasmo. Nulka se adelantó, observando la magia del portal con curiosidad.  -¡Esto es increíble! ¿De verdad podemos cruzar y aparecer en otro lugar así de fácil?  Comentó Nulka con una sonrisa amplia mientras ajustaba su túnica.  Goraksha, tomó el primer paso, seguida de cerca p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 12/12/2024, 23:23 - Director: El portal resplandeció con un brillo oscilante mientras Rebecca lo creaba, su energía vibrante iluminaba las figuras de Goraksha y Nulka. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
+  - Confianza: baja
   - Desconocido
+
 - Cambios respecto al mapa base:
-  - Desconocido
+  - 11/12/2024, 02:48: - La última vez no me había transformado , no sé cómo reaccionarían ahora, de ahí el sombrero. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+  - 11/12/2024, 02:48: Su mirada cambió de un lado a otro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco
 
 ## 1310 Tybra
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Rosa
   - Cecil
-  - Sueño de Reyes
-  - Laud de
-  - Cerca de
-  - Cual de
-  - Dentro de la
-  - Eldrich Blast
-  - Salieron de
+
 - Jugadores que han actuado aqui:
   - Rosa
+
 - Eventos importantes ocurridos:
-  - 02/09/2023, 02:46: cristal - tampoco hizo nada por imponerse, para ella no eras mucho ams que una mosca, aunque una que le estaba entreteniendo. -Sobre los niveles, por desgracia eso no depende de mi, depende del cristal y de sus guardianes, cuando hables con Cecil y le informes el podra premiarte, aunque por lo que tengo entendido, no sera mas de un nivel. Comento mientras volvia a prestar atencion al instrumento. Justo cuando acabaste con el, despertaste del sueño, aunque ya no estabas en la habitacion de Rosa, era una algo menos lujosa, aun (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-  - 01/08/2023, 01:31: destruido, ritual, amenaza, cristal - elo como merchandising, tiene una forma curiosa... Dijo observandolo con detenimiento. -aunque supongo que no va a poder ser, esta cosa amenaza el mundo en el que estas, y debe ser destruido, si el mundo queda corrupto por un virus, es como si cancelasen la temporada, no me parece divertido. Diria sonriente mietras lanzaba el laud a tus pies. -En fin, te dejare hacer los honores, me gustaria ver que pasa cuando no lo destruye una diosa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-  - 27/07/2023, 04:59: liberacion - El maldito laúd no se había roto, la bruja descargó más espadazos contra el instrumento sólo como mecanismo de liberación, sabiendo que no era posible destruirlo. Con ambas manos le dio más fuerte mientras Zill le explicaba que solo en los sueños podría destruirlo. Cuando terminó, llevó su mano a sus cabellos para arreglarlos y quedar mirando a ambos dándose cuenta que Rosa guardó silencio. -- Ah... maldita sea Rosa... esta bien, yo soñaré con esa cosa esa... tsss ¿cómo pensaron que podrían contener algo que puede (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-  - 26/07/2023, 00:39: ritual - , no pienso permitir que eso se repita. Diría firmemente, mientras aun se preguntaba como habia podido acabar el laud en manos de aquella persona. -Pero yo debo concentrarme en el ritual, necesito a alguien que decida soñar con el para destruirlo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-  - 26/07/2023, 00:12: maldicion - aire y saca su espada para darle un golpe seco y de lleno para partirlo en dos. Era realmente peligroso y se preguntó porqué la tribu de Zill lo resguardaba y como evitaba que su maldición se esparciera. Masajeo su entrecejo, la frase de virus le pareció extraña. Un virus… quizás esto no sea del todo otro mundo en otra dimensión, sino que algo mucho más mundano. — y bueno, no sé si necesitan que lo troce en más pedacitos o no… y si con esto la misión ha terminado — se gira hacia Rosa, con una mano en la cintura y (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 02/09/2023, 02:46: cristal - La mujer se cruzaria de brazos ante tus preguntas, posiblemente preguntandose cuantas debia de responder. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 01/08/2023, 01:31: destruido, ritual, amenaza, cristal - Zil nego con la cabeza, dandote a entender que no tenia interes alguno en ser mordido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 27/07/2023, 04:59: liberacion - El maldito laúd no se había roto, la bruja descargó más espadazos contra el instrumento sólo como mecanismo de liberación, sabiendo que no era posible destruirlo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 26/07/2023, 00:39: ritual - Al golpear el Laud notaste como tu espada rebotaba en el, como si hubieses golpeado una gran roca. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 26/07/2023, 00:12: maldicion - La bruja resopla, y les pide tiempo para revisar el objeto, determinar si hay algo de información extra, pero comienza a sentir como su oscuridad la va envolviendo así que antes de cualquier cosa, la lanza al aire y... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+
 - Ultimo evento conocido:
-  - 31/01/2024, 13:20 - Director: La muchacha asentiría.  -Pues usted esta en... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 31/01/2024, 13:20 - Director: La muchacha asentiría. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+
 - Amenazas activas:
-  - 08/09/2023, 04:10: Solo quedaba el destruir ese mundo desde dentro pero avanzando de un nivel a la vez, sería muy lento.
-  - 08/09/2023, 04:10: Destruiría ese mundo de algún modo.
+  - Confianza: media
+  - 08/09/2023, 04:10: Solo quedaba el destruir ese mundo desde dentro pero avanzando de un nivel a la vez, sería muy lento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 08/09/2023, 04:10: Destruiría ese mundo de algún modo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 01/08/2023, 01:56: y entiendo ese virus, es muy peligroso ¿Cierto?... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+
 - Misiones abiertas:
+  - Confianza: baja
   - Desconocido
+
 - Cambios respecto al mapa base:
-  - 08/09/2023, 04:10: Solo quedaba el destruir ese mundo desde dentro pero avanzando de un nivel a la vez, sería muy lento.
-  - 08/09/2023, 04:10: Destruiría ese mundo de algún modo.
+  - 08/09/2023, 04:10: Solo quedaba el destruir ese mundo desde dentro pero avanzando de un nivel a la vez, sería muy lento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 08/09/2023, 04:10: Destruiría ese mundo de algún modo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+  - 01/08/2023, 01:56: destruyamos esa cosa, recuerda... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra
 
 ## 1312 Nueva Delhyde
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Gremio de Inventores
+- Confianza control: media
+
 - NPCs presentes o relevantes:
   - Rebecca Desirae
   - Fang
@@ -858,9 +1037,9 @@ Localizaciones incluidas: 34.
   - Aithara
   - Ingeniero Tom
   - Becky
-  - Rebecca y
-  - Escuela de Magia
-  - Fang y Rebecca
+  - Euclid
+  - Zelo
+
 - Jugadores que han actuado aqui:
   - Rebecca Desirae
   - Fang
@@ -871,566 +1050,649 @@ Localizaciones incluidas: 34.
   - Aithara
   - Ingeniero Tom
   - Becky
+
 - Eventos importantes ocurridos:
-  - 18/06/2025, 23:17: ruinas, cristal - guna cornisa, tal vez incluso el cruce donde se habían refugiado tras su primera llegada a la ciudad. Pero lo que ahora veían no era la Nueva Delhyde de entonces. Donde antes hubo ruinas grises, polvo, pancartas de propaganda rasgadas por el viento y una opresiva sensación de asfixia, ahora se alzaba una urbe reconstruida con una precisión casi antinatural. Los viejos edificios de ladrillo, con balcones corroídos y estructuras quemadas, habían sido reemplazados por bloques metálicos perfectamente angulados, sin fis (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
-  - 31/05/2025, 16:56: sello - férreo de la guardaespaldas. Sin alterar su tono: -Circulo de Intercambio Arcanotécnico… registrado. La tablilla flotante emitió un leve sonido, y tras unos segundos, proyectó un sello luminoso en forma de engranaje con símbolos en espiral, el sello de autorización temporal para comerciantes extranjeros. -Duración de estancia permitida: 72 horas. Acceso limitado a los sectores de intercambio, manufactura y comercio menor. Está prohibido el ingreso a zonas industriales profundas o núcleos administrativos sin cita v (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
-  - 25/04/2024, 11:42: traicion - e se han fortificado. Comentaria -No ha aparecido ningun heroe por los alrededores, al menos, que sepamos, y tampoco parece que nadie haya hecho movimientos nuevos, mas alla de la traicion de la mayoria de los del gremio de inventores que han abandonado la ciudad. Añadio, mientras escribia un par de notas y pedia que las llevaran al almacen. -Creo que con eso lo tendras todo listo. Agradecemos sus esfuerzos para traer mas riquezas a la ciudad. Diria sonriente. -Aunque conseguir una nueva no estaria mal, esta ciudad (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
-  - 24/04/2024, 16:56: batalla - unos papeles. -Sobre la ciudad, hemos podido establecer bien las bases en la ciudad y el movimiento ha tenido una acogida aceptable, no hemos podido recoger mucho dinero, pues la batalla genero bastantes perdidas, asi que nuestras arcas andan algo vacias, aunque, por fortuna, gracias a nuestros campos podemos mantener el reino sin problemas, solo que tendre que esperar a la siguiente recogida de tasas para poder crear montar algun edificio nuevo. Aithara suspiro -Les pedi a los del movimiento que no destruyesen la (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
-  - 24/04/2024, 15:09: liberacion - a fin de cuentas. -Puedes comentarme como ha ido todo, en especial hablame del artista... -Comentaría echando un vistazo a uno de esos banners- ¿Esa soy yo o es una metafora de la liberación y unión del pueblo que se parece ligeramente a mi?. Pero volviendo al tema, ¿Podéis tratar a los recién llegados y darme unos cuantos suministros para poder ayudar a otros?. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
+  - 18/06/2025, 23:17: ruinas, cristal - La carreta avanzó sin sobresaltos por los amplios bulevares de Nueva Delhyde. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+  - 31/05/2025, 16:56: sello - El replicante uniformado apenas parpadeó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+  - 25/04/2024, 11:42: traicion - Aithara nego con la cabeza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
+  - 24/04/2024, 16:56: batalla - Aithara asintió con una sonrisa, comprendiendo la curiosidad de Carol y su deseo de conocer los detalles del progreso de la ciudad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
+  - 24/04/2024, 15:09: liberacion - La muchacha estaba claramente sorprendida por como toda la ciudad había mejorado, claramente Aithara había logrado hacer un buen trabajo con todo aquello. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19)
+
 - Ultimo evento conocido:
   - 24/07/2025, 18:42 - Fang: Levante una ceja al ver todo lo que pasaba al rededor, intente afianzar mis pies en la tierra para evitar caer a causa del mareo, pero permanecí en silencio y con mi cara de guardaespaldas, intentando mantener la fachada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+
 - Amenazas activas:
-  - 23/07/2025, 23:09: Un error creador, no destructor.
+  - Confianza: media
+  - 23/07/2025, 23:09: Un error creador, no destructor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+  - 23/07/2025, 20:01: En cuanto Rebecca formuló esa idea, destruir y reconstruir el sistema, algo cambió. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+
 - Misiones abiertas:
+  - Confianza: baja
   - Desconocido
+
 - Cambios respecto al mapa base:
-  - 23/07/2025, 23:09: Este caos era incorrecto, como el de la otra Becky, un cambio descontrolado.
-  - 23/07/2025, 23:09: Un error creador, no destructor.
+  - 23/07/2025, 23:09: Este caos era incorrecto, como el de la otra Becky, un cambio descontrolado. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+  - 23/07/2025, 23:09: Un error creador, no destructor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+  - 23/07/2025, 20:01: En cuanto Rebecca formuló esa idea, destruir y reconstruir el sistema, algo cambió. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2
 
 ## 1313 Cueva Kobold
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Filgaia
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Fang
   - Rebecca Desirae
   - Zelo
-  - Conrad
   - Korpogadisto
   - Cecilia
-  - Diosa Goblin
-  - Randal Morn
-  - Reina Korpo
-  - Cecilia y
-  - Acoso de la Araña
-  - Chasqueó los
+
 - Jugadores que han actuado aqui:
   - Fang
   - Rebecca Desirae
   - Zelo
-  - Conrad
   - Korpogadisto
   - Cecilia
+
 - Eventos importantes ocurridos:
   - 12/04/2024, 03:01: portal - -Eso es bastante positivo, vamos a necesitar toda la fuerza posible desde ahora- coloco con suavidad mi mano en el hombro de Rebecca -Tal vez hay que probar eso del portal, claro cuando todo esté listo- (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
-  - 12/04/2024, 01:39: alianza - Noté como me estremecía, mi cuerpo se llenó de enrgía. vi todas las notificaciones... y saboreé el poder. - Oh, pues si que ha sido provechosa la alianza, ya lo creo. Diría que he.. ¿duplicado mi fuerza? Será por tener el doble de seguidores. Me siento estupéndamente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
-  - 12/04/2024, 00:43: alianza - Como si aquel apreton de manos, le confirmase al sistema, que efectivamente la alianza se habia establecido, una pantalla aparecio frente a Rebecca y Fang Rebecca: -ATENCION- NUEVO TITULO: DIOSA KOBOLD ADQUIRIDO RANGO DIVINO +1 AUMENTO +2 DESTREZA ADQUIRIDO AUMENTO +1 CARISMA ADQUIRIDO HABILIDAD RUGIDO DRACONICO ADQUIRIDO HABILIDAD MINIONS RANGO 2 ADQUIRIDA HABILIDAD INVOCAR KOBOLD (1/DIA) ADQUIRIDA HABILIDAD CONNECTED (KOBOLDS) RANGO 3 ADQUIRIDA DEFECTO OBLIGATED (KOBOLDS) ADQUIRIDO DEFECTO SIGNIFICANT OTHER (KOBO (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
-  - 11/04/2024, 21:16: alianza - tusiasmo. -Sí, cerramos el trato, Rebecca. Los bienes prometidos, el templo en tu nombre, la ayuda de los magos kobolds y mi colaboración estarán a tu disposición, a cambio de una alianza y la espada para mi amad... para Randall. Respondió con determinación, aunque su voz revelaba una ligera ansiedad ante la magnitud del acuerdo. Volvio a tender la mano a Rebecca, tratando de cerrar aquel trato de la manera tradicional Kobold. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
-  - 11/04/2024, 21:02: alianza - Espera, ¿que? Asiento  -Entonces, ¿cerramos el trato, Korpo? Los bienes prometidos, el templo en mi nombre, la ayuda de los magos kobolds y tu colaboración, a cambio de crear una alianza de criaturas. Dirigida por una diosa humana, curiosamente. ¿Cuánto tardarían en acusárselo? Los humanos son demasiado mainstream, pero no podía cambiarlo, y si pudiese, sería en una criatura preciosa. Un buen disfraz, pero que a la larga le pasaría factura. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+  - 12/04/2024, 01:39: alianza - Noté como me estremecía, mi cuerpo se llenó de enrgía. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+  - 12/04/2024, 00:43: alianza - Como si aquel apreton de manos, le confirmase al sistema, que efectivamente la alianza se habia establecido, una pantalla aparecio frente a Rebecca y Fang Rebecca: -ATENCION- NUEVO TITULO: DIOSA KOBOLD ADQUIRIDO RANGO... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+  - 11/04/2024, 21:16: alianza - Korpo asintió, aunque con una mezcla de nerviosismo y entusiasmo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+  - 11/04/2024, 21:02: alianza - Espera, ¿que? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+
 - Ultimo evento conocido:
-  - 29/05/2025, 04:15 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. La carreta, tirada por un par de lobos huargo avanzaba lenta pero constante por el sendero que descendía desde la entrada rocosa de la Cueva Kobold hacia las llanuras que rodeaban la vieja frontera de Nueva Delhyde.  Habían salido sin llamar la atención, una mañana sin niebla y con suficiente luz para calentar la piedra. En la carreta viajaban las mercancías cuidadosamente preparadas por Shiteshe: artefactos s (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+  - 29/05/2025, 04:15 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
-  - 12/04/2024, 03:01: -Eso es bastante positivo, vamos a necesitar toda la fuerza posible desde ahora- coloco con suavidad mi mano en el hombro de Rebecca -Tal vez hay que probar eso del portal, claro cuando todo esté listo-
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold
 
 ## 1315 El gran Paramo
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Loy-Yang
   - Aranea
   - Aldar
-  - Aranea y Aldar
-  - Gran Páramo
-  - Loy Yang
-  - Agregó Aldar
-  - Aldar y Aranea
-  - Algunos de
-  - Any Non-Lawful Alignment
-  - Any Race
+
 - Jugadores que han actuado aqui:
   - Jacklin
   - Loy-Yang
+
 - Eventos importantes ocurridos:
-  - 24/04/2024, 17:27: batalla, amenaza - ergaminos eran necesarios para los planes del dragón volverían a por ellos sin lugar a dudas. Se habían confiado pensando en que esto terminaría tras acabar con sus fuerzas en una batalla, pero desde que había comenzado a hacer el camino hacia este templo tras aceptar la misión ya había notado algo raro, no habría adivinado que era otra vez Smel, pero si que era extraño. Ataques tan organizados, por unos pergaminos, sin información previa sobre ellos, en templos perdidos de una acceso dificilísimo... Había muchas o (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-  - 24/04/2024, 17:21: amenaza - o responderemos Afirmó Yang-Fang, infundiendo una mezcla de realismo y esperanza. -Debemos reconocer que nuestras capacidades actuales pueden no ser suficientes para enfrentar una amenaza de esta magnitud de forma continua Expresó Yang-Fang con un tono medido pero firme. -El gremio de aventureros de Hajime, conocidos por su eficacia y recursos, podría ser una valiosa adición a nuestras fuerzas. Contratarlos no será barato ni sencillo, pero la inversión podría justificar el precio si logramos prevenir ataques futuro (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-  - 14/04/2024, 01:42: destruido - ación de los edificios dañados. El espíritu de solidaridad y resiliencia se palpaba en el aire mientras cada uno se esforzaba por reconstruir lo que el fuego y la violencia habían destruido. Con la esperanza de que el maestro de Loy-Yang pronto recobrara la consciencia para brindar respuestas sobre los valiosos pergaminos, el grupo se enfocó en sus labores, decidido a enfrentar cualquier desafío que el destino les deparara. De repente, Yang-Fang se incorporó de golpe, pero una punzada de dolor lo obligó a manteners (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-  - 14/04/2024, 00:37: ataque - é un puño al cielo con una sonrisa en el rostro... nos había costado, sobretodo este último tramo, pero lo logramos. Cumplimos la misión por los pelos, llegamos justo al final del ataque y aunque hubo muertos pudimos echar a los ladrones, acabar con el líder y rescatar a muchos heridos... Solo quedaba saber si se habían llevado los pergamino y recuperar los que si tenían. Tras un rato para recuperarme del agotamiento comencé a ponerme en pie- Aún nos queda trabajo por hacer ¿Aldar monta las tiendas? Aranea y yo dar (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1)
-  - 13/04/2024, 23:03: batalla - eso estaba cambiando, como si el sistema reconociera mis actos y determinación. Ahora no solo era un Héroe por pertenecer a los viajeros del otro mundo, sino que mi mismo rol en la batalla era el de un Héroe, había ganado varias capacidades, ahora era más resistente, en general ahora era más fuerte y capaz. Pero lo que importaba era curar las heridas de otros y para mi suerte esta subida de nivel me trajo también ese extra de energía que necesitaba. Volví a centrar mi atención en la persona frente a mí, para trata (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1)
+  - 24/04/2024, 17:27: batalla, amenaza - Asentía a sus palabras, era una amenaza inequívoca que se cernía sobre ellos con la seguridad de que volverían, si esos pergaminos eran necesarios para los planes del dragón volverían a por ellos sin lugar a dudas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 24/04/2024, 17:21: amenaza - Mientras el joven héroe explicaba la situación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 14/04/2024, 01:42: destruido - Mientras las primeras luces del día iluminaban el panorama, los miembros del grupo se prepararon para abordar las tareas pendientes. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 14/04/2024, 00:37: ataque - Al ver esa escena de comunión bañada por las primeras luces del mañana termine de por relajar mi cuerpo dejando la cabeza caer a plomo de nuevo al suelo de nuevo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1)
+  - 13/04/2024, 23:03: batalla - Uno tras otro iba sanando las heridas en todos los que traía Loy, cada vez había más, pero no podía dejarlo a su suerte... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1)
+
 - Ultimo evento conocido:
-  - 24/04/2024, 18:35 - Director: Yang-Fang, con una sonrisa sabia y tranquilizadora, asintió a Jacklin mientras extendía el pergamino hacia él.  -Jacklin, tu preocupación es noble y aprecio tu consideración. Sin embargo, es precisamente porque valoramos tanto lo que has hecho y lo que aún tienes que enfrentar, que te otorgamos este pergamino. Creemos que tu misión es de vital importancia, y este artefacto servirá mejor en tus manos en este momento.  Se acercó un poco más, su mirada reflejando una mezcla de seriedad y calidez.   (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 24/04/2024, 18:35 - Director: Yang-Fang, con una sonrisa sabia y tranquilizadora, asintió a Jacklin mientras extendía el pergamino hacia él. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+
 - Amenazas activas:
-  - 24/04/2024, 17:27: Asentía a sus palabras, era una amenaza inequívoca que se cernía sobre ellos con la seguridad de que volverían, si esos pergaminos eran necesarios para los planes del dragón volverían a por ellos sin lugar a dudas.
-  - 24/04/2024, 17:27: Ataques tan organizados, por unos pergaminos, sin información previa sobre ellos, en templos perdidos de una acceso dificilísimo...
-  - 24/04/2024, 17:21: -Has hecho bien en ser honesto sobre los peligros que enfrentamos.
+  - Confianza: media
+  - 24/04/2024, 17:27: Asentía a sus palabras, era una amenaza inequívoca que se cernía sobre ellos con la seguridad de que volverían, si esos pergaminos eran necesarios para los planes del dragón volverían a por ellos sin lugar a dudas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 24/04/2024, 17:27: Ataques tan organizados, por unos pergaminos, sin información previa sobre ellos, en templos perdidos de una acceso dificilísimo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+  - 24/04/2024, 17:21: -Has hecho bien en ser honesto sobre los peligros que enfrentamos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+
 - Misiones abiertas:
-  - 24/04/2024, 18:35: Creemos que tu misión es de vital importancia, y este artefacto servirá mejor en tus manos en este momento.
-  - 24/04/2024, 17:48: No dudes en buscar ayuda o refugio aquí.
-  - 24/04/2024, 17:48: Al momento de despedirse, Yang-Fang hizo una pausa, meditando sobre la mejor manera de ayudar a Jacklin y su grupo en su viaje de regreso.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 24/04/2024, 17:48: A medida que el gesto se transformaba en un abrazo, su expresión se suavizó, reflejando la profundidad del vínculo forjado entre ellos a lo largo de su aventura.
+  - 24/04/2024, 17:48: A medida que el gesto se transformaba en un abrazo, su expresión se suavizó, reflejando la profundidad del vínculo forjado entre ellos a lo largo de su aventura. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo
 
 ## 1316 Valleoscuro
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Jacklin
   - Aldar
   - Aranea
   - Loy-Yang
-  - Aldar y Aranea
-  - Aranea y Loy
-  - Loy Yang
-  - Aldar y
-  - Aranea y Loy Yang
-  - Detrás de
-  - Susurró Dalia
-  - Aranea y Loy-yang
+  - Drake
+  - Tenebris
+
 - Jugadores que han actuado aqui:
   - Jacklin
   - Aldar
+
 - Eventos importantes ocurridos:
-  - 24/04/2024, 16:48: portal, ataque - Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa... si, era la mejor decisión romperlo. Sentía algo de culpa por Loy, le había dicho que no, luego que si y por último que no, parecía que jugara con él y sus expectativas, sabía que esto era más importante en su caso que para el resto, pero valoraba sus vidas y no podría volver a perder... desde aquel momento en adelante solo debía conocer la victoria o no podría llamarme a mi mismo héroe más. Hicim (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
-  - 24/04/2024, 00:43: portal - e si aquello habia sido una buena o mala decision. -Si es lo que has decidido, bien hecho esta, confio en tu criterio. Dijo finalmente, mientras Jacklin acababa de destrozar aquel portal. El grupo retorno sobre sus pasos, saliendo de aquel templo y del torreon que lo ocultaba, y tras poner a las Driadas al dia, se dirigieron al templo de Yang-Fang El monje, los recibio con los brazos abiertos. -Bienvenidos, bienvenidos, supongo que habeis tenido exito en vuestra gesta. Preguntaria amablemente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
-  - 23/04/2024, 23:14: combate, portal, ataque - tiendo que han venido del otro lado. Comento la guerrera cruzandose de brazos. -No suena mal, evitaremos que nadie mas pueda venir a este templo y no tenemos que arriesgarnos a un combate contra seres desconocidos. Añadiria Aldar. -Por un lado, me gustaria acabar con el, despues de todo, es el responsable del ataque al templo, pero por otro, nada bueno viene de la venganza, asi que si decidis destruirlo no me negare. Dijo Loy-yang (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
-  - 23/04/2024, 07:13: maldicion - o visual, de su propia paranoia, o si, en efecto, el fresco estaba encantado de alguna manera mística. Sin embargo, al tocar el libro, no se desencadenó ningún mecanismo oculto ni maldición aparente. El libro estaba sorprendentemente bien conservado, casi como si algún tipo de encantamiento lo protegiera, contrastando con el estado más deteriorado de los otros objetos en la sala. Las páginas abiertas del libro revelaban el título: Doctrinas de Smel: La Supremacía Draconiana I. Introducción a la Supremacía Los drago (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5)
-  - 21/04/2024, 02:54: descubrimiento - dio con la trampilla- La verdad es que tiene sentido, estaba más preocupado por partirles la cara que por preguntarme de donde habían salido -admití cruzándome de brazos antes el descubrimiento- Voy primero -dije justo antes de meterme por la trampilla el primero, si había algún peligro era mejor que fuera quien se lo encontrara, no solo podría recuperarme un poco sino que ahora mismo gracias a las últimas mejoras debía ser quien más capacidad de aguante tuviera sin lugar a dudas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5)
+  - 24/04/2024, 16:48: portal, ataque - Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+  - 24/04/2024, 00:43: portal - El espejo comenzo a resquebrajarse con el primer puñetazo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+  - 23/04/2024, 23:14: combate, portal, ataque - Jacklin llego al otro lado de la sala siguiendo aquella senda, podia escuchar las otras baldosas chispear, como si estubiesen cargadas de electricidad, pero, no erro ninguno de sus pasos, con lo que tubo la suerte de no... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+  - 23/04/2024, 07:13: maldicion - Jacklin ingresó a la sala sin incidentes. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5)
+  - 21/04/2024, 02:54: descubrimiento - Miraba de reojo a Aranea mientras caminábamos la torre, quería devolverle la broma, pero me avergonzaba un poco hacerla con Dalia escuchando, por eso espere a este momento- Lo dice quien esta deseando que le midan la... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5)
+
 - Ultimo evento conocido:
   - 24/04/2024, 17:16 - Director:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+
 - Amenazas activas:
-  - 24/04/2024, 16:48: Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa...
-  - 24/04/2024, 16:48: - Casi toda los restantes de la banda han muerto y hemos recuperado los pergaminos -hice un gesto hacia Aranea ya que era ella quien los llevaba consigo para que los devolviera- Pero os repito lo mismo que le plantee a Loy-Yang, estos hombres no eran una simple banda organizada con más codicia que sensatez.
-  - 24/04/2024, 16:48: Eran cultistas, y están ganando fuerza -hablaba con toda la seriedad que podía para dejar clara su situación- Hemos repelido este ataque, pero no tengo forma ni capacidad para asegurar que no habrá más a futuro.
+  - Confianza: media
+  - 24/04/2024, 16:48: Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+  - 24/04/2024, 16:48: - Casi toda los restantes de la banda han muerto y hemos recuperado los pergaminos -hice un gesto hacia Aranea ya que era ella quien los llevaba consigo para que los devolviera- Pero os repito lo mismo que le plantee a Loy-Yang, estos hombres no eran una... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+  - 24/04/2024, 16:48: Eran cultistas, y están ganando fuerza -hablaba con toda la seriedad que podía para dejar clara su situación- Hemos repelido este ataque, pero no tengo forma ni capacidad para asegurar que no habrá más a futuro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+
 - Misiones abiertas:
-  - 23/04/2024, 23:14: -No suena mal, evitaremos que nadie mas pueda venir a este templo y no tenemos que arriesgarnos a un combate contra seres desconocidos.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 23/04/2024, 23:14: -Por un lado, me gustaria acabar con el, despues de todo, es el responsable del ataque al templo, pero por otro, nada bueno viene de la venganza, asi que si decidis destruirlo no me negare.
+  - 23/04/2024, 23:14: -Por un lado, me gustaria acabar con el, despues de todo, es el responsable del ataque al templo, pero por otro, nada bueno viene de la venganza, asi que si decidis destruirlo no me negare. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro
 
 ## 1410 La torre de Granath
 
 - Estado actual: Dañado o destruido
+- Confianza estado: media
+
 - Control / faccion dominante: Gremio de Inventores
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Beatrix L'back
   - Jane
   - Euclid
-  - Torre de Granath
-  - Armor Class
-  - Ejecutor Real
-  - Elara Cogspin
-  - Hit Points
   - Ingeniero Tom
-  - Melee Weapon Attack
-  - Alden Gearwright
-  - Continuó Euclid
+
 - Jugadores que han actuado aqui:
   - Beatrix L'back
   - Jane
   - Euclid
+
 - Eventos importantes ocurridos:
-  - 19/04/2024, 21:16: destruido - Oh muchas gracias, a todos así no tendremos que seguir dependiendo del sistema de alarma antiguo - admirando por unos segundos a Bonekid que se había salvado del tener que ser destruido si surgía alguna evento peligroso . Tras hacer las preguntas correspondientes para saber como funcionaba el transmisor y admirar la torre por unos minutos es que me decidiría ponerme en marcha.  Jane, honorables inventores... confío en vuestras manos para que cuiden nuestro santuario... prometo que la próxima vez vendré con mayores (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
-  - 18/04/2024, 19:29: amenaza - ado que nos permita mantener la confidencialidad y la integridad de nuestros mensajes. Además, empezaré a explorar la tecnología de detección temprana para alertar sobre cualquier amenaza inminente. Finley Turbine, con su pasión por los vehículos y el transporte, expresa su entusiasmo: -Me encargaré de que nuestra movilidad no se vea comprometida. Reforzaré y expandiré nuestra flota de vehículos aéreos para asegurar que podemos responder rápidamente a cualquier necesidad, ya sea transporte, exploración o evacuación (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
-  - 18/04/2024, 18:04: combate, cristal - Aunque me gustaría haberme manejado mejor - comentaría un tanto apenada a Jane - Basto un combate algo mas difícil que el anterior como para tener que estar reviviendo por medio de la torre... - teniendo claro que debía tomarme con las responsabilidad mi futuros encuentro si quería evitar que escenarios así se volvieran a repetir .  Ya una vez en la reunión no podría evitar dibujar un semblante de tranquilidad tras oir las distintos campos de especializaciones.  En verdad, cada uno de ustedes será clave para el fut (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
-  - 18/04/2024, 08:05: muerte - La oscuridad de la muerte se despeja poco a poco mientras una luz azulada suave comienza a impregnar la cámara superior de la Torre de Granath. La atmósfera vibra con energía mística, cada oscilación tejida de hechizos antiguos y poder necrótico. En el epicentro de esta mágica convergencia, la forma de Beatrix L'back empieza a tomar sustancia, reconstruida por el poder vinculado a su filacteria. Silenciosamente, pero con intensidad, la energía necrótica forma huesos y tendones, cubriéndolos después con piel, no sol (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
-  - 18/03/2024, 23:35: ruinas - Euclid se encogeria de hombros ante tu pregunta. -Ni idea, ese cuadrante lo descubrio Ever, preguntale cuando le veas. Te diria sin demasiada curiosidad, al parecer, si no eran ruinas con tecnologia, no le suscitaban mucho interes al inventor. -¿Entonces? ¿Hacia el gremio de curanderos? te aviso que por norma general esos tios no mueven un dedo si no hay dinero por delante, asi que, como mucho podemos empezar las negociaciones, pero hasta que no tengamos un capital que ofrecerles, no moverán un dedo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 19/04/2024, 21:16: destruido - Oh muchas gracias, a todos así no tendremos que seguir dependiendo del sistema de alarma antiguo - admirando por unos segundos a Bonekid que se había salvado del tener que ser destruido si surgía alguna evento peligroso... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 18/04/2024, 19:29: amenaza - Los inventores, motivados por el discurso de Beatrix y conscientes de los desafíos y la importancia de su misión, comienzan a responder uno por uno, cada uno aportando sus pensamientos y planes para fortalecer la Torre... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 18/04/2024, 18:04: combate, cristal - Aunque me gustaría haberme manejado mejor - comentaría un tanto apenada a Jane - Basto un combate algo mas difícil que el anterior como para tener que estar reviviendo por medio de la torre... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 18/04/2024, 08:05: muerte - La oscuridad de la muerte se despeja poco a poco mientras una luz azulada suave comienza a impregnar la cámara superior de la Torre de Granath. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 18/03/2024, 23:35: ruinas - Euclid se encogeria de hombros ante tu pregunta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+
 - Ultimo evento conocido:
-  - 20/04/2024, 08:08 - Director: El vehículo aéreo despega suavemente, elevándose sobre la Torre de Granath mientras Beatrix se sumerge en sus pensamientos, contemplando el imponente edificio que se va reduciendo a medida que ascienden. La quietud del viaje le da espacio para reflexionar sobre las decisiones tomadas y los caminos no elegidos, una meditación sobre el azar y el destino que parece resonar con el suave zumbido de la nave.  Finley, al mando del vehículo, percibe el cambio en la atmósfera. Aunque su enfoque principal (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 20/04/2024, 08:08 - Director: El vehículo aéreo despega suavemente, elevándose sobre la Torre de Granath mientras Beatrix se sumerge en sus pensamientos, contemplando el imponente edificio que se va reduciendo a medida que ascienden. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+
 - Amenazas activas:
-  - 19/04/2024, 23:21: Tras terminar de ponerme los seguros y demás protocolos previo al viaje es que me quedaría admirando la torre meditando sobre lo que había estado ocurriendo, quizás si hubiera elegido otra misión o me hubiera ido con las otras heroínas en aquel momento todo esto ni siquiera existiría, Euclid habría muerto y los inventores tendrían que sobrevivir de otras...
-  - 19/04/2024, 21:16: Oh muchas gracias, a todos así no tendremos que seguir dependiendo del sistema de alarma antiguo - admirando por unos segundos a Bonekid que se había salvado del tener que ser destruido si surgía alguna evento peligroso .
+  - Confianza: media
+  - 19/04/2024, 23:21: Tras terminar de ponerme los seguros y demás protocolos previo al viaje es que me quedaría admirando la torre meditando sobre lo que había estado ocurriendo, quizás si hubiera elegido otra misión o me hubiera ido con las otras heroínas en aquel momento todo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 19/04/2024, 21:16: Oh muchas gracias, a todos así no tendremos que seguir dependiendo del sistema de alarma antiguo - admirando por unos segundos a Bonekid que se había salvado del tener que ser destruido si surgía alguna evento peligroso . (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+
 - Misiones abiertas:
-  - 20/04/2024, 08:08: o liberarnos, dependiendo de cómo lo miremos Responde con una voz calmada y reflexiva -Pero cada elección que hacemos, cada camino que tomamos, nos trae a momentos como este, con nuevas oportunidades y nuevos retos.
-  - 20/04/2024, 08:08: Quizás el misterio de las posibilidades no es algo que deba resolverse, sino algo que debe ser explorado y experimentado, un pensamiento que lleva consigo mientras el paisaje de Grymoire se despliega majestuosamente debajo de ellos.
-  - 19/04/2024, 23:21: Tras terminar de ponerme los seguros y demás protocolos previo al viaje es que me quedaría admirando la torre meditando sobre lo que había estado ocurriendo, quizás si hubiera elegido otra misión o me hubiera ido con las otras heroínas en aquel momento todo esto ni siquiera existiría, Euclid habría muerto y los inventores tendrían que sobrevivir de otras...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 20/04/2024, 08:08: La quietud del viaje le da espacio para reflexionar sobre las decisiones tomadas y los caminos no elegidos, una meditación sobre el azar y el destino que parece resonar con el suave zumbido de la nave.
-  - 20/04/2024, 08:08: Finley, al mando del vehículo, percibe el cambio en la atmósfera.
-  - 20/04/2024, 08:08: Las posibilidades pueden ser misteriosas, y a veces abrumadoras, pero también son la fuente de cambio y crecimiento.
+  - 20/04/2024, 08:08: La quietud del viaje le da espacio para reflexionar sobre las decisiones tomadas y los caminos no elegidos, una meditación sobre el azar y el destino que parece resonar con el suave zumbido de la nave. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 20/04/2024, 08:08: Finley, al mando del vehículo, percibe el cambio en la atmósfera. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+  - 20/04/2024, 08:08: Las posibilidades pueden ser misteriosas, y a veces abrumadoras, pero también son la fuente de cambio y crecimiento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath
 
 ## 1411 Cienaga Negra
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Nueva Roclenia
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
-  - Nadia Stormstride
   - Drake
-  - Nadia y Drake
-  - Cienaga Negra
-  - Gritó Drake
-  - Gritó Nadia
-  - Murmuró Nadia
-  - Reina Margra
-  - Llave Xion
-  - Gruñó Drake
-  - Nicholas y
-  - Orbe Cromático
+  - Cecil
+
 - Jugadores que han actuado aqui:
-  - Nadia Stormstride
+  - Desconocido
+
 - Eventos importantes ocurridos:
-  - 30/12/2024, 01:19: amenaza - a su alrededor. Lotulo levantó una mano, tratando de calmar el bullicio. —Hermanos, estoy bien. Gracias a estos valientes héroes, he podido regresar. Nicholas ya no representa una amenaza para nuestro pueblo. El alivio entre la multitud fue palpable. Algunos rompieron en lágrimas, mientras otros coreaban el nombre de Lotulo y ofrecían su agradecimiento al grupo. El grupo fue llevado al templo principal, que todavía mostraba signos de abandono desde la desaparición de Lotulo. Allí, el clérigo tomó su lugar frente al (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-  - 21/12/2024, 05:11: combate, ritual, amenaza - Tras el intenso combate y la caída de Nicholas, el grupo se tomó un momento para recobrar el aliento. Flora usó sus habilidades curativas para estabilizar a Drake y ayudar a Nadia con sus heridas, mientras el resto inspeccionaba la habitación que servía como guarida del vampiro. El lugar era sombrío y lleno de detalles que reflejaban la naturaleza de Nicholas: estanterías repletas de libros antiguos, mapas esparcidos en una mesa de madera ennegrecida, y un altar oscuro adornado con símbolos extraños, probablemente (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-  - 21/12/2024, 04:14: batalla, ataque - mal que dejó Nicholas no desaparecerá tan fácilmente. Mientras las cenizas del vampiro se desvanecían en el aire, el grupo sabía que, aunque habían ganado, las cicatrices de esta batalla serían recordatorios de los horrores que enfrentaron. Ahora, con el vampiro derrotado, era momento de recuperar fuerzas y decidir su próximo paso en la lucha contra la oscuridad que aún acechaba en Grymoire. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-  - 21/12/2024, 04:03: muerte, batalla, amenaza - ión tornándose más fría. -El gremio de Hajime siempre metiendo las manos donde no deben... Siempre interfiriendo, siempre pretendiendo ser la solución. ¿Y qué logran al final? Más muerte, más sufrimiento. Pero tú... Su mirada se centró en Lotulo, quien avanzó con la luz de Pelor rodeándolo -Tú eres la prueba de que el bien es frágil. Crees que puedes desafiarme con esa patética luz. Lotulo, con una determinación que brillaba incluso a través de su cansancio, levantó su maza. -Tu maldad termina aquí, Nicholas. No pe (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-  - 21/12/2024, 02:20: sacrificio, ataque - sintió mientras ajustaba el bastón en sus manos. -Entonces no podemos fallar. Este es nuestro momento para hacer las cosas bien. El grupo, inspirado por las palabras de Nadia y el sacrificio de Lotulo, comenzó a preparar sus estrategias, sabiendo que el enfrentamiento con Nicholas estaba cada vez más cerca. Nadia, tras leer la entrada de la Wiki sobre Lotulo, se acercó al clérigo con una mezcla de respeto y determinación. Lotulo, aún debilitado, levantó la mirada cuando sintió su presencia, mostrando una leve sonri (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 30/12/2024, 01:19: amenaza - El grupo, agotado pero victorioso, decidió abandonar el castillo y regresar a Ciénaga Negra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 05:11: combate, ritual, amenaza - Tras el intenso combate y la caída de Nicholas, el grupo se tomó un momento para recobrar el aliento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 04:14: batalla, ataque - El enfrentamiento con Nicholas estalló con una intensidad abrumadora. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 04:03: muerte, batalla, amenaza - El grupo descendió las últimas escaleras, el frío se hacía más intenso con cada paso. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 02:20: sacrificio, ataque - El enfrentamiento en las cárceles comenzó con un estallido de energía mágica. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+
 - Ultimo evento conocido:
-  - 30/12/2024, 01:21 - Director: Con Lotulo a salvo y Ciénaga Negra respirando un poco más tranquila, el grupo decidió que su próximo paso debía ser regresar a Nueva Roclenia para informar a Cecil y sus aliados sobre lo sucedido con Nicholas y la información obtenida sobre Smel y la Llave Xion.  El viaje de regreso fue relativamente tranquilo. Mientras recorrían los cielos a bordo de la Enterprise, el grupo compartió sus pensamientos sobre los eventos recientes. Nadia, siempre curiosa, repasaba los documentos y mapas encontrado (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 30/12/2024, 01:21 - Director: Con Lotulo a salvo y Ciénaga Negra respirando un poco más tranquila, el grupo decidió que su próximo paso debía ser regresar a Nueva Roclenia para informar a Cecil y sus aliados sobre lo sucedido con Nicholas y la información obtenida sobre Smel y la Llave... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+
 - Amenazas activas:
-  - 30/12/2024, 01:19: Nicholas ya no representa una amenaza para nuestro pueblo.
-  - 30/12/2024, 01:19: Smel sigue siendo una amenaza, y su búsqueda de la Llave Xion podría significar un peligro aún mayor.
-  - 21/12/2024, 05:11: Con voz solemne, comenzó a leer: -Desde mi destierro, he jurado venganza contra los mortales que destruyeron mi reino.
+  - Confianza: media
+  - 30/12/2024, 01:19: Nicholas ya no representa una amenaza para nuestro pueblo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 30/12/2024, 01:19: Smel sigue siendo una amenaza, y su búsqueda de la Llave Xion podría significar un peligro aún mayor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 05:11: Con voz solemne, comenzó a leer: -Desde mi destierro, he jurado venganza contra los mortales que destruyeron mi reino. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+
 - Misiones abiertas:
-  - 30/12/2024, 01:21: —Entonces debemos movernos rápido.
-  - 30/12/2024, 01:19: Tras descansar y reflexionar, el grupo se reunió nuevamente en el templo con Lotulo, quien les entregó algunos recursos que había recuperado de su escondite secreto: pociones curativas y algunas armas bendecidas que podrían ser útiles en su próxima misión.
-  - 30/12/2024, 01:19: Si alguien puede detener esta oscuridad, son ustedes.
+  - Confianza: media
+  - 21/12/2024, 02:20: Sin embargo, su Jolt, como de costumbre, falló al no encontrar su objetivo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 02:20: Necesitamos encontrar un lugar donde refugiarnos y recuperar fuerzas antes de dar el siguiente paso. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+
 - Cambios respecto al mapa base:
-  - 30/12/2024, 01:19: El grupo, agotado pero victorioso, decidió abandonar el castillo y regresar a Ciénaga Negra.
-  - 30/12/2024, 01:19: El grupo fue llevado al templo principal, que todavía mostraba signos de abandono desde la desaparición de Lotulo.
-  - 21/12/2024, 05:11: Con voz solemne, comenzó a leer: -Desde mi destierro, he jurado venganza contra los mortales que destruyeron mi reino.
+  - 30/12/2024, 01:19: El grupo, agotado pero victorioso, decidió abandonar el castillo y regresar a Ciénaga Negra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 30/12/2024, 01:19: El grupo fue llevado al templo principal, que todavía mostraba signos de abandono desde la desaparición de Lotulo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+  - 21/12/2024, 05:11: Con voz solemne, comenzó a leer: -Desde mi destierro, he jurado venganza contra los mortales que destruyeron mi reino. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra
 
 ## 1412 La torre del mago
 
 - Estado actual: Desconocido
-- Control / faccion dominante: Triarcas
+- Confianza estado: baja
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Kirara
   - Ganondorf
   - Zelda
   - Rouxgor
-  - Comentaria Zelda
-  - Saku y Tama
-  - Armor Class
-  - Comentaria Ganondorf
-  - Condition Immunities
-  - Damage Immunities
-  - Growlithe de Hisui
-  - Hit Points
+
 - Jugadores que han actuado aqui:
   - Kirara
   - Ganondorf
   - Zelda
   - Rouxgor
+
 - Eventos importantes ocurridos:
-  - 20/06/2023, 10:49: muerte - en un principio no parecian hacerles muchas gracias perder aun mas tiempo, accedieron a lo que les pediste. El Stirge que dormia en el piso de abajo por lo visto huyo al sentir la muerte de su reina. Pudisteis salir de alli sin mayor problema y os dirigisteis al pueblo, Ganondorf cargaba entre sus brazos los cuerpos d elos dos jovenes envueltos en los restos de unas sabanas que encontrasteis en la torre, mientras que Zelda llevaba a rastras el cuerpo de la reina Stirge. Al llegar a la aldea se acercaron un par de a (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
-  - 17/06/2023, 01:33: muerte, combate, ataque - aban de los Zombies, con los que acabaron de un solo golpe, mientras Link se encargaba de uno de los Stirges y acababa tambien con su vida. Tras esto, los Stirge, enfadados por la muerte de su reina volvieron a atacar, uno a Link, que no consiguio no acercarsele y otro a Zelda que una vez mas la muchacha logro esquivar. Ganondorf se ocupo en ese momento del bicho de su brazo, que continuaba drenando su sangre, aplastandolo como un mosquito. Mientras que Zelda y Link acababan con los dos Stirge que quedaban. -¿Estai (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
-  - 11/06/2023, 14:51: combate, ataque - Growlithe GROWLITHE USO ASCUAS SAKU A CAIDO DEBILITADO Sakura cayo con el ultimo ataque de Growlithe -Oh, que pena, pero has estado muy muy cerca, la verdad, a estado muy bien el combate, espero que nos volvamos a ver, eres una rival prometedora, teniendo en cuenta que tenia ventaja por tipo, casi debilitas a mi Growlithe aun asi, muy bien hecho. El joven echaría una mano a su mochila y te dio dos sprays, podias reconocerlos como pociones de pokemon. -Toma, usalas para curar a tus pokemon, yo me voy, este combate (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
-  - 10/06/2023, 16:16: combate - EL entrenador parecía estar disfrutando del combate. -Je, esto es bastante divertido, hasta ahora nos enfrentabamos a algunos monstruos, pero ellos no respetan las reglas de los combates pokemon, asi que era bastante agobiante, intentaban atacarme a mi y cosas asi, tenian muy poco estilo. Saku uso placaje El movimiento a fallado Gonriu levanto el puño en gesto de animo -Muy bien, esa es mi chica, ahora usa ascuas de nuevo. Growlithe uso Ascuas 5 HP de daño -Muy buena pequeña sigue asi. Dijo con una sonrisa de oreja (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
-  - 09/06/2023, 23:54: combate - El combate comenzo, el pobre Evee, como no le gritaron su comando, no supo placar bien, con lo que no llego a golpear al Growlithe. -Ja, esto va ha ser mas facil de lo que esperaba, no creia que iba a luchar contra una novata. Growlithe, usa ascuas... El Growlithe lanzo unas llamas que golpearon a Tama, restandole 4 puntos de daño... tecnicamente, tambien lo habian quemado, pero tampoco era cosa de cebarse... asi que el sistema lo ignoro (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
+  - 20/06/2023, 10:49: muerte - Aunque en un principio no parecian hacerles muchas gracias perder aun mas tiempo, accedieron a lo que les pediste. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
+  - 17/06/2023, 01:33: muerte, combate, ataque - Uno de los Stirge se lanzo contra Zelda pero la fuerte armadura de la mujer repelio el ataque mientras que otro se lanzo contra Ganon, consiguiendo impactarle y comenzando a alimentarse de su sangre, un tercer Stirge... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
+  - 11/06/2023, 14:51: combate, ataque - SAKU USO PLACAJE... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
+  - 10/06/2023, 16:16: combate - EL entrenador parecía estar disfrutando del combate. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
+  - 09/06/2023, 23:54: combate - El combate comenzo, el pobre Evee, como no le gritaron su comando, no supo placar bien, con lo que no llego a golpear al Growlithe. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2)
+
 - Ultimo evento conocido:
-  - 25/06/2023, 16:53 - Director: La velada paso sin pena ni gloria, se notaba que pese a que hicieron el banquete en tu honor, por haberles librado de aquellas criaturas, la preocupacion de todos agriaba el ambiente de fiesta.  Tras aquello paso la noche, y al dia siguiente, por fin partisteis en direccion al paso de Duvik (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
+  - 25/06/2023, 16:53 - Director: La velada paso sin pena ni gloria, se notaba que pese a que hicieron el banquete en tu honor, por haberles librado de aquellas criaturas, la preocupacion de todos agriaba el ambiente de fiesta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
-  - 24/06/2023, 10:23: Mire con lastima a la gente a la que no iba a poder ayudar por ahora e iba a dejar a su suerte.
-  - 23/06/2023, 18:39: -Es bastante frustrante, pero no podemos apagar todos los fuegos a la vez, y donde vamos tambien necesitan ayuda urgente, y la verdad, ya nos hemos retrasado mas de lo que nos hubiese gustado.
-  - 23/06/2023, 10:14: Supongo que podríamos intentar investigarlo después a la vuelta.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago
 
 ## 1413 Tumba de Shraevyn
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Strixhaven
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Fang
   - Rebecca Desirae
-  - Conrad
   - Zelo
   - Cecilia
-  - Exclama Conrad
-  - Chill Touch
-  - Comenzó Conrad
-  - Exclama Cecilia
-  - Grita Jack
-  - Pregunto Cecilia
-  - Rimuru Tempest
+  - Rådgiver
+  - Korpogadisto
+
 - Jugadores que han actuado aqui:
   - Fang
   - Rebecca Desirae
-  - Conrad
   - Zelo
   - Cecilia
+
 - Eventos importantes ocurridos:
-  - 09/04/2024, 17:57: portal - - Uhmm, esto... me parece correcto. Ya me dirás lo que quieras hacer, si os parece, salgamos fuera y alejémnos un poco, luego, tengo que meterme en el portal un rato con Zelo (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
-  - 09/04/2024, 16:22: combate, amenaza, portal - de alivio y disgusto. -Tienes razón, Rebecca. Aunque estaban muertas, nunca está de más asegurarse. Esos bichos no volverán a ser una amenaza. Tomó un momento para recuperarse del combate, su expresión reflejando tanto cansancio como determinación. -Respecto al portal, estoy de acuerdo. Esa debe ser nuestra próxima prioridad. Investigaré más a fondo su funcionamiento y traeré a algunos magos kobolds para que lo estudien. Seguro que pueden arrojar algo de luz sobre este misterio. Por ahora, podemos considerar nuestr (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
-  - 09/04/2024, 16:12: portal - o volverán a la vida. Después de reducir sus restos cenizas, descansé un poco. - Puff, ya están. Los libros nos pueden ser útiles en el futuro, la cuestión es... ¿Cómo abrimos ese portal? Porque lo que buscamos debe de estar en él. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
-  - 09/04/2024, 03:09: destruido, descubrimiento, amenaza, ataque - amas, poniendo fin a la amenaza. Aunque exhaustos y heridos, habían logrado prevalecer una vez más, demostrando su valentía y determinación frente a la adversidad. Con el enjambre destruido y la amenaza neutralizada, respiraron aliviados, sabiendo que habían superado otro desafío en su peligroso viaje. Mientras exploraban la sala, Cecilia, Conrad y Jack revisaron meticulosamente cada rincón en busca de pistas y tesoros ocultos. Las estanterías a lo largo del muro nordeste revelaron una sorprendente colección de tra (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5)
-  - 08/04/2024, 23:52: ataque - jambre. Aunque sabía que su arma no era la más adecuada para la tarea, no tenía otra opción. Con cada golpe, algunas arañas caían, pero otras continuaban avanzando, resistiendo el ataque. Cecilia, decidida a hacer uso de su magia de manera más efectiva, invocó una vez más las campanas funerarias. Esta vez, el hechizo surtió efecto, con las campanas resonando a través del aire y causando un efecto perturbador en las arañas. Aunque no infligieron un gran daño, lograron dispersar temporalmente parte del enjambre. Conr (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5)
+  - 09/04/2024, 17:57: portal - - Uhmm, esto... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+  - 09/04/2024, 16:22: combate, amenaza, portal - Conrad escuchó atentamente las sugerencias de Fang, asintiendo con aprobación mientras evaluaba las posibilidades. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+  - 09/04/2024, 16:12: portal - al final esas cosas estaban muertas, pero por si acaso, lancé más llamas sagradas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+  - 09/04/2024, 03:09: destruido, descubrimiento, amenaza, ataque - Con un último esfuerzo, Fang lanzó un devastador ataque que dejó a las arañas medio moribundas, reduciendo significativamente su número. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5)
+  - 08/04/2024, 23:52: ataque - El enjambre de arañas que se abalanzaba sobre el grupo parecía imparable, pero Fang se mantuvo firme, enfrentándose a la horda con determinación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5)
+
 - Ultimo evento conocido:
-  - 10/04/2024, 01:24 - Cecilia: Cecilia rodea con su brazo a Fang con calidez y una sonrisa reconfortante.  -Sí, lo sé. Gracias, Fang. Y tambien cuenta conmigo para lo que necesites. Siempre estaré aquí para ayudarte en lo que pueda.  Respondió con calidez, apreciando el apoyo y la solidaridad de sus compañeras de viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+  - 10/04/2024, 01:24 - Cecilia: Cecilia rodea con su brazo a Fang con calidez y una sonrisa reconfortante. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+
 - Amenazas activas:
-  - Desconocido
+  - Confianza: baja
+  - 09/04/2024, 16:22: Esos bichos no volverán a ser una amenaza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+
 - Misiones abiertas:
-  - 10/04/2024, 01:24: Siempre estaré aquí para ayudarte en lo que pueda.
-  - 09/04/2024, 17:51: Hemos cumplido con nuestra misión principal y parece que no hay mucho más que podamos hacer aquí por ahora.
-  - 09/04/2024, 17:51: La idea de buscar venganza puede ser tentadora, pero también sé que necesito tiempo para sanar y entender lo que ha sucedido.
+  - Confianza: baja
+  - 09/04/2024, 16:22: Por ahora, podemos considerar nuestra misión cumplida, despues de todo, vinimos a rescatar a Randall, y este se ha rescatado solito. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn
 
 ## 1512 Paso duvik
 
 - Estado actual: Desconocido
-- Control / faccion dominante: Fortaleza de Shin-ra
+- Confianza estado: baja
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Kirara
   - Zelda
   - Ganondorf
-  - Comentaria Ganondorf
-  - Comentaria Zelda
-  - Conocimiento Arcano
-  - Link y Ganondorf
-  - Plaga Ardiente
-  - Saku y Tama
-  - Tama y Sakura
+
 - Jugadores que han actuado aqui:
   - Kirara
   - Zelda
   - Ganondorf
+
 - Eventos importantes ocurridos:
-  - 06/03/2024, 19:26: plaga - Una pantalla aparecio ante ti. -ATENCION- SE HAN PERDIDO 2 PUNTOS DE CONSTITUCION A CAUSA DE LA PLAGA ARDIENTE Tras ello te sentirías algo mas débil, la enfermedad parecía estar mermando tus fuerzas.  El joven afirmaria con la cabeza. -Espero que tengais una buena bolsa preparada, esos tipos son unos agarrados, el otro dia nos ofrecimos a hacerles una funcion y no quisieron pagarla... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
-  - 04/03/2024, 23:55: plaga - Linkle afirmo con la cabeza. -La plaga ardiente es como denominaron a la enfermedad que acabamos de combatir. Te dijo tranquilamente. -Si quieres dormir apartada por qeu te sientes mas a gusto no dire nada mas. Añadio Zelda. -Sabemos que la plaga produce debilidad y fiebres, supongo que en tu caso aun estas incubandola, con lo que quizas sea el momento de mayor contagio, nos moveremos lo antes posible para curarte cuanto antes. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
-  - 04/03/2024, 18:22: plaga - res de donde hay enfermedad y donde no. Aunque no sé cómo, antes no pude. Mmmm creo que dormiré apartada, si esto está bien vosotros estáis bien... ¿A alguno le suena algo llamado plaga ardiente? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
-  - 04/03/2024, 17:56: plaga - nos. También puedes identificar el tipo de veneno, criatura venenosa o enfermedad en cada caso. Al activarlo pudiste asegurarte que ninguno de tus compañeros estaba enfermo por la plaga. Viste un cartel que señalaba la primera casa del pueblo en el que aparecia PLAGA ARDIENTE (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
-  - 28/02/2024, 12:47: muerte, combate, plaga - La derrota del orco tiene un efecto inmediato sobre las aguas del arrollo, que empiezan a aclararse de fango al poco tiempo de su muerte. Zelda se acerca al lago un momento y luego te mira. -Diria que esta agua era como propagaba la enfermedad, y la cueva por la que pasamos antes, donde la incubaba. La mujer se puso una mano sobre la barbilla. -Pero curar esto, creo que va mas allá de mis capacidades, lo ideal seria contactar con el gremio de curanderos, quizás ellos puedan encontrar la cura, por lo pronto hemos fr (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=3)
+  - 06/03/2024, 19:26: plaga - Una pantalla aparecio ante ti. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
+  - 04/03/2024, 23:55: plaga - Linkle afirmo con la cabeza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
+  - 04/03/2024, 18:22: plaga - Mmmm no entiendo este mundo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
+  - 04/03/2024, 17:56: plaga - En la ficha pudiste ver la descripcion de tu nueva habilidad Durante 10 minutos, puedes sentir la presencia y la localización de veneno, criaturas venenosas y enfermedades a 30 pies de ti o menos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4)
+  - 28/02/2024, 12:47: muerte, combate, plaga - La derrota del orco tiene un efecto inmediato sobre las aguas del arrollo, que empiezan a aclararse de fango al poco tiempo de su muerte. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=3)
+
 - Ultimo evento conocido:
   - 13/03/2024, 20:39 - Director:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=5)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
+  - Confianza: baja
   - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik
 
 ## 1611 Fortaleza de Shin-ra
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Triarcas
+- Confianza estado: media
+
+- Control / faccion dominante: Nueva Delhyde
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Kirara
   - Zelda
   - Beatrix L'back
   - Euclid
   - Lucia
-  - Euclid y Beatrix
   - Ganondorf
-  - Beatrix L'back y
-  - Beatrix y Euclid
-  - Ganondorf y Link
-  - Tama y Saku
-  - Comentaria Ganondorf
+  - Jane
+
 - Jugadores que han actuado aqui:
   - Kirara
   - Zelda
   - Beatrix L'back
   - Euclid
+
 - Eventos importantes ocurridos:
-  - 04/04/2024, 23:35: muerte - volvamos el Aeroplano ya debería estar recargado...  Lo que si... la visión del nuevo sitio dejaba una cierta sensación de dudas e incomodidad dentro de mi ser ... puede que la No-muerte sea mi sen, pero ... Siento que este sitio es otra clase de atentado contra la naturaleza...  V-vaya... s-si que brilla... - mirando desde de la caravana - ¿ El verde es por moda... o le ponen algo a sus luces para que tomen ese tinte ? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-  - 04/04/2024, 07:16: fundada - e de la tecnología. A medida que los aventureros avanzan, el aire vibrante con la energía de la ciudad les envuelve, mezclando la excitación de lo desconocido con una cautela bien fundada. Las estructuras que se elevan sobre ellos no son simplemente edificios; son monumentos a la ambición de Shinra, cada uno resonando con el zumbido de la energía que fluye a través de sus entrañas. Morsten, en este momento, es una revelación para el grupo: un testimonio de la magnitud de Shinra y su dominio sobre el poder de la mak (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-  - 31/03/2024, 17:37: ruinas - también contarían, por lo que dudo que a Kirara le haga especial gracia. Será mejor dejarlo para una emergencia Dirigió su mirada hacia Kirara con una expresión inquisitiva. -Las ruinas están en dirección contraria a nuestro destino, pero si no tienes nada planeado, serías más que bienvenida. Siempre es útil contar con una mano adicional, especialmente si es habilidosa Dijo, mientras observaba la carreta con una mezcla de determinación y curiosidad. El joven inventor pareció sumergirse en sus pensamientos por un m (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-  - 31/03/2024, 17:23: ruinas - orque si nos dijeron que nos uniéramos a una nación pero más allá de eso... Parecemos más monedas o cromos coleccionables que otra cosa. ​​​​​​​Entiendo ¿Nos pillan de camino esas ruinas? Luego podría ayudaros, si no me retiene otro encargo claro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-  - 30/03/2024, 19:12: ruinas - pero aparte de Hajime, no hay conocimiento del paradero ni se recuerda el nombre de ninguno Agregó. -Mi amigo Ever es como un arqueólogo, supongo. Se ha dedicado a investigar las ruinas de los alrededores de Grymoire. De todos los héroes de mi generación, él es el que más se ha movido. En su antigua vida era arquitecto, y como tenemos una torre que se cae a pedazos, queríamos ver si nos ayudaba a reconstruirla. Está de acuerdo en ayudar, pero quiere que le ayudemos a investigar unas ruinas a cambio. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 04/04/2024, 23:35: muerte - La parte buena de viajar sobre animales, es que estos tarde o temprano necesitaban detenerse para pastar o descansar, lo cual para mí me venía bastante favorable a la hora de buscar alimentos ... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 04/04/2024, 07:16: fundada - Continuaron su viaje en dirección a Morsten, con el antiguo camino cubierto parcialmente por la vegetación circundante, aunque aún discernible gracias a las marcas y grietas que indicaban un pasado próspero de comercio... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 31/03/2024, 17:37: ruinas - Euclid, con los brazos cruzados, adoptó una postura reflexiva mientras hablaba. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 31/03/2024, 17:23: ruinas - A senti la cabeza y trate de retener en mi memoria toda la información.. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 30/03/2024, 19:12: ruinas - Salieron de la taberna y el grupo de mercaderes los guió hasta la puerta de salida, donde tres caravanas tiradas por unas extrañas bestias peludas los esperaban. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+
 - Ultimo evento conocido:
   - 05/04/2024, 01:23 - Director:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+
 - Amenazas activas:
-  - 04/04/2024, 23:35: puede que la No-muerte sea mi sen, pero ...
+  - Confianza: baja
+  - 04/04/2024, 23:35: puede que la No-muerte sea mi sen, pero ... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+
 - Misiones abiertas:
-  - 04/04/2024, 23:35: La parte buena de viajar sobre animales, es que estos tarde o temprano necesitaban detenerse para pastar o descansar, lo cual para mí me venía bastante favorable a la hora de buscar alimentos ...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 04/04/2024, 07:16: A medida que los aventureros avanzan, el aire vibrante con la energía de la ciudad les envuelve, mezclando la excitación de lo desconocido con una cautela bien fundada.
+  - 04/04/2024, 07:16: A medida que los aventureros avanzan, el aire vibrante con la energía de la ciudad les envuelve, mezclando la excitación de lo desconocido con una cautela bien fundada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+  - 31/03/2024, 19:24: Mas me refería a volver a la torre, y de allí trasladarla a una posición cercana al aeroplano para ahorrarnos tantos días de viaje - mientras sacaba el mapa que aunque no estaba tan desbloqueado, mas o menos me servía para explicarme - Aunque, es bueno saber... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra
 
 ## 1612 Morsten
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Fuerte Belvor
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Lucia
   - Beatrix L'back
   - Kirara
   - Euclid
   - Rouxgor
-  - Comenzó Lucía
-  - Continuó Lucía
-  - Esmeralda y Jasmalus
-  - Final Fantasy
-  - Saku y Tama
-  - Torre de Granath
-  - Alrededor de
+  - Zelda
+  - Ingeniero Tom
+
 - Jugadores que han actuado aqui:
   - Lucia
   - Beatrix L'back
   - Kirara
   - Euclid
   - Rouxgor
+
 - Eventos importantes ocurridos:
-  - 21/04/2024, 02:49: muerte, murieron - por la espalda con una daga -HERMANO, YO, TE VENGARE... El dolor y la rabia resonaron en las palabras de Jasmalus mientras gritaba el nombre de su hermano, jurando venganza por su muerte injusta. Su mirada buscó el apoyo del grupo. -¿Podemos darles un entierro digno? Malin, a pesar de sus objeciones iniciales debido al retraso que ya habían experimentado, cedió ante la petición de Jasmalus cuando vio la determinación en los ojos de sus compañeros. La decisión estaba tomada: darían a los fallecidos el último acto de (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6)
-  - 20/04/2024, 19:40: ataque - por ninguna parte. La carga de las carretas estaba esparcida por doquier, con flechas carbonizadas clavadas en algunas de las mercancías. Era evidente que habían sido blanco de un ataque, pero el misterio de los perpetradores y el destino de los ocupantes aún estaba por resolver. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6)
-  - 18/04/2024, 17:29: ataque - Euclid extendió su bastón, canalizando una suave energía curativa que envolvió el cuerpo de Kirara, sanando las heridas causadas por el ataque del Growlithe. Una vez asegurada su recuperación, se acercó a ella con una expresión inquisitiva. -¿Qué ha ocurrido aquí? ¿Por qué de repente esto se parece a Kingdom Hearts? Preguntó, su tono lleno de confusión y preocupación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
-  - 18/04/2024, 15:58: ataque - que los acompañaban. Todo lo que soy ahora es oscuridad y deseo de aniquilar la luz. La rabia que sientes es comprensible, pero no cambiará mi propósito. Kirara, frustrada por sus ataques fallidos, presenció cómo Euclid resultaba herido por el feroz ataque del Growlithe. Sin embargo, su chaqueta, como última defensa, respondió con una llamarada que causó un daño significativo a la criatura. Con un gesto de triunfo, Euclid lanzó sus dardos mágicos hacia el Growlithe, infligiendo heridas graves. - ¡Te lo advertí! Exc (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
-  - 18/04/2024, 06:26: combate - soy nueva en esto, no pasará más... Espero. Vi los poderes de Beatrix y me quedé asombrada con el pollo esqueleto y la sombra. son geniales, céntrate kirara. Volver mi atención al combate para ver que no estaba consiguiendo gran cosa con gorou. Pues si las palabras no valen, intentaremos meter algo de sentido común a golpes. ¿Y desde cuándo es tu misión desde los últimos diez minutos? Porque hace diez minutos estábamos librando un combate Pokémon con tu growlite y mis eevees. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
+  - 21/04/2024, 02:49: muerte, murieron - Kirara pudo ver algunos apilamientos de troncos de arboles, al acercarse encontro nueve cuerpos, o mejor dicho, nueve cadaveres, posiblemente los miembros de la caravana que murieron en la incursion, todos parecian ser... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6)
+  - 20/04/2024, 19:40: ataque - El grupo inició la marcha hacia Fuerte Belvor con determinación. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6)
+  - 18/04/2024, 17:29: ataque - Euclid extendió su bastón, canalizando una suave energía curativa que envolvió el cuerpo de Kirara, sanando las heridas causadas por el ataque del Growlithe. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
+  - 18/04/2024, 15:58: ataque - Rouxgor, con una voz imperturbable y una mirada fría, contestaría: -Los recuerdos que una vez tuve son como sombras en mi mente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
+  - 18/04/2024, 06:26: combate - Iba a atacar a las bocins y uno de los ataques me salió decente pero el segundo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5)
+
 - Ultimo evento conocido:
   - 25/04/2024, 09:06 - Director:  (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=7)
+
 - Amenazas activas:
-  - 24/04/2024, 16:17: siendo mercantes nos les interesa saber que es lo que provoca que las carreteras habituales se estén volviendo así de peligrosas ?
+  - Confianza: baja
+  - 24/04/2024, 16:17: siendo mercantes nos les interesa saber que es lo que provoca que las carreteras habituales se estén volviendo así de peligrosas ? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=7)
+
 - Misiones abiertas:
-  - 25/04/2024, 06:23: Por lo que habéis dicho shinra solo va a sus propios intereses y nosotros todo lo que queremos hacer es ayudar para evitar que esta atrocidad vuelva a pasar, queríamos ayudaros, pero tranquilos que no preguntamos más sigamos el camino.
-  - 25/04/2024, 06:23: vayamos echando un ojo por el camino quizá veamos algo que pueda ayudar más tarde a resolver esto.
+  - Confianza: baja
+  - 23/04/2024, 18:45: Habría que acabar con el entierro del hermano de jasmalus y no sé si querrán acabar la misión o investigar esto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=7)
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten
 
 ## 1709 La villa de Barduk
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Fuerte Belvor
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Beatrix L'back
   - Kirara
   - Euclid
   - Aqua
-  - Kirara y Beatrix
-  - Beatrix y Kirara
-  - Aqua y Euclid
-  - Euclid y Aqua
-  - Saku y Tama
-  - Joven Euclid
-  - Señorita Kirara
-  - Torre de Cristal
+  - Lucia
+
 - Jugadores que han actuado aqui:
   - Beatrix L'back
   - Kirara
+
 - Eventos importantes ocurridos:
-  - 19/06/2025, 15:40: ataque - Su tono no era de reproche, sino de comprensión. Como si, desde un principio, hubiera sabido que el corazón de Kirara estaba dividido. -No te detendré, pero no vayas a ciegas. El ataque a Barduk fue más que una simple ofensiva orca. Fue coordinado. Deliberado. Si algo o alguien te relaciona con ese blanco... podrías ser la siguiente. Señaló hacia el límite norte de la villa, donde el bosque comenzaba a engullir el paisaje, apenas perturbado por las columnas de humo aún dispersas. -Ve. Pero regresa. No tenemos tant (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
-  - 25/05/2025, 15:09: plaga - ada, preocupada. -Aqua estaba hablando con uno de los sacerdotes de paso. El tipo ese del medallón con el símbolo fracturado. Creo que estaban discutiendo sobre los síntomas de la Plaga Ardiente en los sobrevivientes Explicó Euclid -Seguro que no tarda en volver a aparecer. La maestra no se va sin despedirse. Es demasiado correcta para eso. Kirara aún sostenía el comunicador que Beatrix le había puesto en las manos. El peso de la pequeña herramienta parecía mucho mayor que su tamaño, porque no era solo un aparato. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
-  - 22/04/2025, 00:38: ataque - volvió como un suspiro de bienvenida. La posada parecía más tranquila ahora. Todo Barduk lo estaba. Pero en ese silencio, su preocupación regresó con fuerza. Aerith. Los niños. El ataque había sido salvaje y repentino. Celini los había engañado a todos. ¿Y si esa paz que vio en la cabaña solo fue momentánea? La idea la punzaba como una espina bajo la piel. Su mirada se perdió en la salida del edificio. Podría escabullirse. Solo un rato. Asegurarse de que estaban bien. Volver. No necesitaba permiso para cuidar de lo (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
-  - 20/04/2025, 18:22: batalla - ía: tu dignidad. La miró por última vez, y esta vez, con una expresión difícil de leer. -Gracias por venir, Kirara. No todos los héroes tienen que ganarse su título en el campo de batalla. Algunos lo hacen aquí… con esto. Y se tocó el pecho. Sin decir más, volvió a sentarse y retomó sus papeles. La conversación había terminado. Pero algo había cambiado. Aunque no lo mostrara más de lo necesario… Malin había escuchado. Y había respetado. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
-  - 20/04/2025, 09:31: muerte - estoy acostumbrada a este tipo de problemas...en mi mundo casi lo más problemático es pasar los exámenes de la escuela e incluso si fallas tienes más oportunidades. Y no supone la muerte de nadie... Es verdad que hay desastres y catástrofes pero lejos mío y supongo que ojos que no ven corazón que no siente supongo... Lágrimas empiezan a caer de mis ojos del estrés de todo lo sucedido. Y al llegar a este mundo... He perdido el mío, mi vida, mi familia para estar en un mundo que no entiendo... No llevo ni una semana (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
+  - 19/06/2025, 15:40: ataque - Aqua no tardó en percibir la tensión en los ojos de Kirara. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+  - 25/05/2025, 15:09: plaga - Euclid soltó una leve risa nasal ante el comentario de Beatrix, aunque no era exactamente divertida. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+  - 22/04/2025, 00:38: ataque - Malin no respondió de inmediato. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
+  - 20/04/2025, 18:22: batalla - Malin no dijo nada al principio. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
+  - 20/04/2025, 09:31: muerte - Estuve a punto de dar la vuelta e irme cuando le oí hablar. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11)
+
 - Ultimo evento conocido:
-  - 25/07/2025, 20:59 - Beatrix L'back: Puede que mi bocota lo provocara... o fuese una coincidencia bastante lúgubre... pero una cosa estaba mas que clara... pasaban cosas... y no las mas gratas.   Euclid... cariño - mirando a este mismo el cual parecía que acababa de recuperarse de tan inquietante situación - cambio de planes... nos tenemos que mover a la torre... pero ya - diría mientras me aferraba a mis cosas y posaba mi otra mano sobre mi erudito compañero de viaje - parece que otro de los locos que toquetean el sistema acaba de (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+  - 25/07/2025, 20:59 - Beatrix L'back: Puede que mi bocota lo provocara... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+
 - Amenazas activas:
+  - Confianza: baja
   - Desconocido
+
 - Misiones abiertas:
-  - 25/07/2025, 20:59: cariño - mirando a este mismo el cual parecía que acababa de recuperarse de tan inquietante situación - cambio de planes...
-  - 25/07/2025, 20:59: nos tenemos que mover a la torre...
-  - 24/07/2025, 10:45: Algo me dice que no van a estar bien pero tengo que verlo yo misma tengo que intentar ayudar.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
-  - 25/07/2025, 20:59: cariño - mirando a este mismo el cual parecía que acababa de recuperarse de tan inquietante situación - cambio de planes...
-  - 23/07/2025, 20:15: Pero no fue lo único: un sendero que Kirara conocía bien —el que llevaba directamente a la cabaña— se curvó sobre sí mismo y reapareció frente a ella, cerrado, bloqueado por una espesa niebla negra que jamás había estado allí.
-  - 23/07/2025, 20:12: No cambió de color: se reseteó.
+  - 25/07/2025, 20:59: cariño - mirando a este mismo el cual parecía que acababa de recuperarse de tan inquietante situación - cambio de planes... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+  - 23/07/2025, 20:15: Pero no fue lo único: un sendero que Kirara conocía bien —el que llevaba directamente a la cabaña— se curvó sobre sí mismo y reapareció frente a ella, cerrado, bloqueado por una espesa niebla negra que jamás había estado allí. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+  - 23/07/2025, 20:12: No cambió de color: se reseteó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk
 
 ## 1710 Villa Batlet/Fuerte Desastre
 
 - Estado actual: En conflicto
-- Control / faccion dominante: Fuerte Belvor
+- Confianza estado: media
+
+- Control / faccion dominante: Desconocido
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Kirara
   - Beatrix L'back
   - Euclid
   - Aqua
-  - Beatrix y Euclid
-  - Fuerte Desastre
-  - Kirara y Beatrix
-  - Algunos de
-  - Beatrix y
-  - Kirara y
-  - Llave Espada
-  - Maestra Aqua
+
 - Jugadores que han actuado aqui:
   - Kirara
   - Beatrix L'back
   - Euclid
   - Aqua
+
 - Eventos importantes ocurridos:
-  - 04/12/2024, 22:18: ataque - o de enemigos nos sorprenda mientras estamos distraídos. Mantengamos la formación. Aqua escuchó atentamente la sugerencia de Kirara sobre flanquear (que no blanquear, no es que la ataquen por que son racistas...) la caravana y asintió lentamente, evaluando la idea con su característico enfoque táctico. -Es una estrategia sólida Dijo finalmente -Tener defensas móviles a los lados puede ser crucial si nos emboscan desde un punto ciego. Sin embargo, requiere que quienes flanqueen la caravana estén preparados para move (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-  - 02/12/2024, 17:38: amenaza - como si estuviera guiando a un aprendiz: -Es probable que haya más peligros. No bajes la guardia, Kirara. Este río parece un punto estratégico, y dudo que los orcos sean la única amenaza en la zona. Mientras tanto, Beatrix curaba las heridas de Euclid, quien la miró con una leve risa nerviosa, agradecido pero algo despreocupado. -Gracias, Beatrix, pero no hace falta que te esfuerces tanto. Golpeó suavemente su chaqueta, señalándola con un gesto rápido -Este bebé tiene un sistema de regeneración incorporado. Me pon (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-  - 01/12/2024, 23:32: batalla, combate, amenaza, ataque - olpes críticos en rápida sucesión, desarmando al sargento orco y derribándolo en un despliegue de destreza que dejó al enemigo mortalmente herido antes de desplomarse. El campo de batalla quedó en un tenso silencio, roto solo por el rugido del río y los jadeos de los combatientes. La amenaza más inmediata había sido eliminada. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-  - 01/12/2024, 22:16: ataque - Estaba claro que mi apoyo ofensivo estaba en los números, pero entre que invocara a Festín y que el mismo escuchará mis órdenes, algún nuevo ataque le podía caer a mis compañeros, por lo mismo... y concentrado mis influencias sobre Kirara, una aura protectora ayudaría a que la misma evitará uno que otro golpe a futuro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 04/12/2024, 22:18: ataque - La Maestra Aqua observó a Kirara con una mezcla de aprobación y seriedad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 02/12/2024, 17:38: amenaza - Aqua observó al grupo con una calma que no ocultaba su constante estado de alerta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 01/12/2024, 23:32: batalla, combate, amenaza, ataque - Kirara, recuperándose del golpe anterior, concentró su energía y se lanzó hacia el jinete orco. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 01/12/2024, 22:16: ataque - Estaba claro que mi apoyo ofensivo estaba en los números, pero entre que invocara a Festín y que el mismo escuchará mis órdenes, algún nuevo ataque le podía caer a mis compañeros, por lo mismo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
   - 01/12/2024, 01:48: ataque - Tras el primer ataque volvi a atacar con gran velocidad a los orcos restantes, había que aprovechar para acabarlos antes de que contratacar o llamaran a los refuerzos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+
 - Ultimo evento conocido:
-  - 04/12/2024, 22:18 - Director: La Maestra Aqua observó a Kirara con una mezcla de aprobación y seriedad. Aunque la joven había peleado bien, aún había mucho que aprender.  -Por suerte, la mercancía sigue intacta  Comentó Malin, claramente satisfecho pero con un dejo de cansancio  -Pero reforzar la caravana no es mala idea. Si podemos usar algo del equipo de los orcos, tal vez logremos mejorar nuestra defensa.  -Buena idea  Respondió Esmeralda, mientras inspeccionaba los alrededores con su bastón en mano  -Aunque cargar con to (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 04/12/2024, 22:18 - Director: La Maestra Aqua observó a Kirara con una mezcla de aprobación y seriedad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+
 - Amenazas activas:
-  - 04/12/2024, 22:18: No queremos que otro grupo de enemigos nos sorprenda mientras estamos distraídos.
-  - 04/12/2024, 22:18: Aqua escuchó atentamente la sugerencia de Kirara sobre flanquear (que no blanquear, no es que la ataquen por que son racistas...) la caravana y asintió lentamente, evaluando la idea con su característico enfoque táctico.
-  - 04/12/2024, 22:18: Esto nos dará la flexibilidad necesaria para reaccionar a cualquier ataque.
+  - Confianza: media
+  - 04/12/2024, 22:18: No queremos que otro grupo de enemigos nos sorprenda mientras estamos distraídos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 04/12/2024, 22:18: Aqua escuchó atentamente la sugerencia de Kirara sobre flanquear (que no blanquear, no es que la ataquen por que son racistas...) la caravana y asintió lentamente, evaluando la idea con su característico enfoque táctico. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+  - 04/12/2024, 22:18: Esto nos dará la flexibilidad necesaria para reaccionar a cualquier ataque. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
+
 - Misiones abiertas:
-  - 03/12/2024, 15:55: Acto seguido desconvoqué las llaves espada para liberarlos.
-  - 02/12/2024, 17:38: Pero debemos movernos pronto antes de que algo más nos sorprenda.
-  - 02/12/2024, 17:38: Si Malin insiste en forzar la marcha hasta Barduk, debemos estar preparados.
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre
 
 ## 1712 Fuerte Belvor
 
 - Estado actual: En conflicto
+- Confianza estado: media
+
 - Control / faccion dominante: Gremio de Inventores
+- Confianza control: baja
+
 - NPCs presentes o relevantes:
   - Beatrix L'back
   - Kirara
   - Euclid
   - Kristal
-  - Beatrix y Euclid
-  - Joven Euclid
-  - Kirara y Bellatrix
-  - Esmeralda y Jasmalus
-  - Kirara y Beatrix
-  - Acid Squirt
-  - Armor Class
-  - Beatrix y
+
 - Jugadores que han actuado aqui:
   - Beatrix L'back
   - Kirara
   - Euclid
   - Kristal
+
 - Eventos importantes ocurridos:
-  - 10/08/2024, 00:44: combate - no. La sensación de poder y vida llenó sus venas, energizándola para lo que pudiera venir. Mientras tanto, los mercaderes, que habían permanecido a una distancia segura durante el combate, comenzaron a revisar las carretas. Por suerte, los daños sufridos eran mínimos. Las mercancías estaban prácticamente intactas, lo que fue un gran alivio para todos. Malin, sin embargo, no pudo evitar quejarse. -Deberíamos haber intentado atrapar a alguno para interrogarlo Refunfuñó, claramente frustrado. -Los dejamos escapar dema (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
-  - 09/08/2024, 11:24: combate, ataque - Pues no era para tanto. ​​​​El Goblin berserker había desaparecido tras el segundo ataque. No era consciente de la fuerza que había empleado en este combate. Oye, ¿Estáis bien? (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
-  - 08/08/2024, 16:07: batalla, ataque - es mágicos, en marcha!" Tres dardos de energía mágica volaron por el aire, impactando con precisión letal y acabando con tres de los orcos rasos que aún quedaban en pie. El campo de batalla quedó en silencio por un momento, con el berserker reducido a cenizas y dos de los orcos aun en pie. Los dos orcos restantes, al ver a su líder caído y a sus compañeros abatidos, decidieron que no valía la pena continuar la lucha. Con terror en sus ojos, se dieron la vuelta y comenzaron a huir corriendo, tratando de salvar sus p (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
-  - 08/08/2024, 11:31: combate, ataque - ió en luz y polvo. Por desgracia esto no terminaba aquí. Otro orco enorme apareció con un hacha gigante. Parecía mucho más fuerte que los anteriores. Eucid siguió dirigiéndonos en combate mientras acababa con los otros ¡A la orden! Sin plantearme demasiado el tamaño del bicho corría hacia él con las llaves espadas extendidas, con un salto como los de antes logré darle un fuerte golpe. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
-  - 07/08/2024, 21:39: combate, amenaza, ataque - nube de polvo y luz, poniendo fin a su amenaza. Mientras tanto, Beatrix utilizó su magia para dar vida a su propia sombra. La figura oscura emergió del suelo, lista para unirse al combate. Festin, siempre fiel, se mantuvo en una postura defensiva, preparado para proteger a su ama. Euclid, ajustando su bastón y sus gafas, también adoptó una posición defensiva, sabiendo que la próxima oleada sería crítica. El orco del gran hacha, un berserker feroz, llegó al frente de la carga junto con sus soldados. Sus ojos brillab (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+  - 10/08/2024, 00:44: combate - Las almas, representadas como sombras etéreas y luminosas, comenzaron a desprenderse de los cuerpos, siendo absorbidas lentamente por Beatrix. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+  - 09/08/2024, 11:24: combate, ataque - Pues no era para tanto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+  - 08/08/2024, 16:07: batalla, ataque - Festin se lanzó sobre el orco berserker con una fuerza brutal. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+  - 08/08/2024, 11:31: combate, ataque - Con el último ataque el jefe, este se desvaneció en luz y polvo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+  - 07/08/2024, 21:39: combate, amenaza, ataque - Kirara, con determinación en sus ojos, observó al jinete jefe que aún tambaleaba herido. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+
 - Ultimo evento conocido:
-  - 16/08/2024, 22:56 - Director: El grupo continuó su camino, avanzando con cautela a través del terreno cada vez más desolado. El sol comenzó a descender en el horizonte, tiñendo el cielo de tonos anaranjados y púrpuras, mientras la oscuridad de la noche empezaba a envolver el paisaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+  - 16/08/2024, 22:56 - Director: El grupo continuó su camino, avanzando con cautela a través del terreno cada vez más desolado. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+
 - Amenazas activas:
-  - 13/08/2024, 15:56: Aunque no lo exteriorizara al resto, se me podia notar demasiada a gusto en mi extraño acto de robarles el alma a los muertos al punto...
-  - 10/08/2024, 13:21: Al ver que ya no había peligro desconvocar las llaves espadas y me agaché para acariciar a Tama y saku.
-  - 10/08/2024, 00:44: Están muertos y no tenemos de qué preocuparnos ahora.
+  - Confianza: media
+  - 13/08/2024, 15:56: Aunque no lo exteriorizara al resto, se me podia notar demasiada a gusto en mi extraño acto de robarles el alma a los muertos al punto... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+  - 10/08/2024, 13:21: Al ver que ya no había peligro desconvocar las llaves espadas y me agaché para acariciar a Tama y saku. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+  - 10/08/2024, 00:44: Están muertos y no tenemos de qué preocuparnos ahora. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+
 - Misiones abiertas:
-  - 10/08/2024, 13:21: ​​​​​​Al parecer los demás compañeros intentaron calmarlo, y acabaron agradeciendo aunque yo seguía molesta con como nos llevaba tratando toda la misión.
-  - 10/08/2024, 00:44: Sin vuestra ayuda, no sé cómo habríamos salido de esta.
-  - 09/08/2024, 17:24: Festín una ayudita - le decia mientras señalaba los cuerpos que si quedaron por el sitio - juntemos para hacer esto mas fácil - y tras unos segundos, quizás menos si mis compañeros de viaje me ayudaban con la tarea, comenzaría a extraer el alma que aun quedara de aquellos orcos en especial la del clérigo, sintiendo como poco a poco mi cuerpo se iba revita...
+  - Confianza: baja
+  - Desconocido
+
 - Cambios respecto al mapa base:
   - Desconocido
+
 - Dudas / necesita revision manual:
   - Revisar manualmente para confirmar inferencias automaticas.
+
 - URL original: https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor
