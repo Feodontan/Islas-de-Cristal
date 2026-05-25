@@ -11,6 +11,7 @@ const WHITELIST_FILE = path.join(DATA_DIR, "entidades", "personajes_whitelist.js
 const LOCATIONS_WHITELIST_FILE = path.join(DATA_DIR, "entidades", "localizaciones_whitelist.json");
 
 const UNKNOWN = "Desconocido";
+const EM_DASH = "\u2014";
 const RECENT_POSTS = 6;
 
 const THREAT_WORDS = [
@@ -586,7 +587,7 @@ async function main() {
     const threatConfidence = confidenceForEvidence(threats);
     const missionConfidence = confidenceForEvidence(missions);
 
-    lineas.push(`## ${location.code} — ${location.name}`);
+    lineas.push(`## ${location.code} ${EM_DASH} ${location.name}`);
     lineas.push("");
 
     lineas.push("### Estado actual");
@@ -672,7 +673,7 @@ async function main() {
     lineas.push("");
 
     debug.push(
-      `## ${location.code} — ${location.name}`,
+      `## ${location.code} ${EM_DASH} ${location.name}`,
       debugBlock("Inferencias", {
         estado: state,
         control,

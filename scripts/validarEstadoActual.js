@@ -5,6 +5,8 @@ const ROOT = path.resolve(__dirname, "..");
 const FILE = path.join(ROOT, "exports", "02_Estado_Actual.md");
 const LOCATIONS_WHITELIST_FILE = path.join(ROOT, "data", "entidades", "localizaciones_whitelist.json");
 
+const EM_DASH = "\u2014";
+
 const FORBIDDEN_TERMS = [
   "Añadió",
   "Añadio",
@@ -26,9 +28,10 @@ const FORBIDDEN_TERMS = [
 ];
 
 const HTML_RE = /<\/?[a-z][\s\S]*?>/i;
-const SECTION_RE = /^##\s+(\d{4})\s+—\s+(.+)$/;
+const SECTION_RE = new RegExp(`^##\\s+(\\d{4})\\s+${EM_DASH}\\s+(.+)$`);
 const NPC_HEADER_RE = /^###\s+NPCs presentes o relevantes$/;
 const NEXT_SECTION_RE = /^(##|###)\s+/;
+const COMPACT_SECTION_RE = /^##\s+\d{4}\s+.+\s+###\s+.+\s+-\s+/;
 
 function normalize(value) {
   return String(value || "")
@@ -81,6 +84,9 @@ function main() {
     if (/^## .+- /.test(line) && line.includes("- Estado actual:")) {
       warnings.push(`${lineNo}: posible seccion apelmazada sin salto de linea`);
     }
+    if (COMPACT_SECTION_RE.test(line) || (/^##\s+\d{4}/.test(line) && line.includes("###"))) {
+      warnings.push(`${lineNo}: localizacion compactada en una sola linea`);
+    }
     const sectionMatch = line.match(SECTION_RE);
     if (sectionMatch && !locationWhitelist.sections.has(locationKey(sectionMatch[1], sectionMatch[2]))) {
       warnings.push(`${lineNo}: seccion no corresponde a localizacion real: ${line}`);
@@ -104,6 +110,9 @@ function main() {
 
   const sectionCount = lines.filter((line) => SECTION_RE.test(line)).length;
   if (!sectionCount) warnings.push("No se detectaron secciones de localizacion con formato ## 0000 Nombre");
+  if (sectionCount && lines.length < sectionCount * 10) {
+    warnings.push(`El archivo parece compactado: ${lines.length} lineas para ${sectionCount} secciones`);
+  }
 
   if (warnings.length) {
     console.warn(`Validacion con avisos (${warnings.length}):`);
