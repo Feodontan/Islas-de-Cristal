@@ -1,1622 +1,513 @@
-# Estado Actual
+# Estado Actual de Islas Cristalinas
 
-Generado automaticamente desde `data/localizaciones`, `data/cronologia_global.json`, `data/entidades` y `data/eventos`.
+Documento de trabajo para consulta rápida del estado vivo de la campaña.
 
-Criterio: resume estado jugable actual a partir de ultimos mensajes y eventos detectados. Cuando no hay evidencia suficiente se usa `Desconocido`.
+**Criterio usado:** este archivo no sustituye a la historia completa. Resume el estado jugable de las localizaciones a partir de los últimos eventos conocidos, perfiles de personaje y señales narrativas relevantes. Cuando el archivo automático solo aporta frases aisladas o resúmenes no incluidos, se marca como **pendiente de revisión** en vez de convertirlo en canon.
 
-Localizaciones incluidas: 34.
+**Prioridad de fuentes:**
+
+1. Posts jugados en `05_Historia_Completa.md`.
+2. Últimos eventos por localización.
+3. Perfiles de personaje, solo como memoria condensada.
+4. Mapa/base inicial, solo como punto de partida.
+
+---
+
+## Resumen global
+
+El mundo se encuentra en una fase de inestabilidad abierta. Varias regiones muestran señales de destrucción, corrupción, alteración del entorno o amenazas sistémicas. Hay tres focos especialmente importantes:
+
+* **Smel / Tenebris / Llave Xion:** amenaza recurrente vinculada a corrupción, conocimiento incompleto y peligros todavía no cerrados.
+* **Crisis del Sistema / glitches / Becky:** Rebecca ha pactado con el Administrador una oportunidad para intentar restaurar a Becky, pero bajo condiciones estrictas. Si Becky vuelve a amenazar Grymoire, Rebecca deberá detenerla; además, el Administrador ha prohibido la creación de nuevos glitches.
+* **Ruina o alteración de enclaves importantes:** Strixhaven, Nueva Lyrule, Fortaleza de Roland, Torre de Granath, Fortaleza de Shin-Ra y Villa de Barduk presentan daños, bloqueos o alteraciones que deben tratarse como estado activo hasta revisión en escena.
+
+---
+
+# Localizaciones
 
 ## 0607 — Pecio Maldito
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+**Estado jugable:** En conflicto menor o escena abierta antigua.
+**Confianza:** Baja-media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Chibi Meido ha actuado aquí. El último evento conocido describe una escena de observación de objetos brillantes, pero no hay suficiente evidencia resumida para fijar control, amenaza o misión.
 
-### NPCs presentes o relevantes
-- Chibi Meido
+**NPCs / PJ relevantes:** Chibi Meido.
 
-### Jugadores que han actuado aqui
-- Chibi Meido
+**Pendiente:** Revisar manualmente los posts cercanos al 30/06/2024 para determinar si el conflicto sigue activo o si fue una escena cerrada.
 
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 30/06/2024, 16:24 - Director: Las observa fascinada, girándolas entre sus dedos para admirar el destello de las luces reflejadas en sus superficies... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito
-
-### Archivo JSON
-- data/localizaciones/0607-pecio-maldito.json
+---
 
 ## 0608 — Nueva Vector
 
-### Estado actual
-- Valor: Amenazado por corrupcion o plaga
-- Confianza: media
+**Estado jugable:** Amenazada por fenómeno anómalo, maldición, posesión o alteración de tono incierto.
+**Confianza:** Media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Nueva Vector aparece vinculada a Terra y al Gremio de Cuidadores como fortaleza/sede tomada en las Tierras de Cristal. El archivo automático detecta amenaza, pero las frases recogidas son ambiguas y pueden pertenecer a una escena cómica o de sospecha, no necesariamente a una plaga confirmada.
 
-### NPCs presentes o relevantes
-- Desconocido
+**Control probable:** Terra y Gremio de Cuidadores, según estado base del mapa.
 
-### Jugadores que han actuado aqui
-- Desconocido
+**Amenazas abiertas:** Posible maldición, posesión o manipulación; pendiente de confirmar en posts completos.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Revisar la escena del 04/05/2025 al 11/05/2025 antes de afirmar que hay corrupción o plaga real.
 
-### Ultimo evento conocido
-- 11/05/2025, 03:33 - Director: Lo pensó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=3)
+---
 
-### Amenazas activas
-- Confianza: media
-- 04/05/2025, 23:23: -Se llevó una mano al pecho, como si acabara de aterrizar de un salto épico y estuviera ocultando una herida de guerra,... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
-- 04/05/2025, 23:23: Probable origen: maldición, posesión o marketing. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+## 0706 — Dragon’s Rest
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Estado jugable:** Punto de paso reciente; escena de salida en carreta.
+**Confianza:** Media.
 
-### Cambios respecto al mapa base
-- 10/05/2025, 23:12: Mamoru, en cambio, se giró hacia el burro y le dio unas palmadas en el lomo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2)
+**Situación:** Chibi Meido y Doragonkuin han actuado aquí. El último evento claro indica que una carreta partió de Dragon’s Rest el 15/05/2025. No hay una amenaza local confirmada; las frases automáticas marcadas como amenaza parecen pertenecer al diálogo de la escena.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**NPCs / PJ relevantes:** Chibi Meido, Doragonkuin.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector
+**Pendiente:** Confirmar destino de la carreta y si Dragon’s Rest queda estable tras la partida.
 
-### Archivo JSON
-- data/localizaciones/0608-nueva-vector.json
-
-## 0706 — Dragons Rest
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Chibi Meido
-- Doragonkuin
-
-### Jugadores que han actuado aqui
-- Chibi Meido
-- Doragonkuin
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 15/05/2025, 16:53 - Director: La carreta partió de Dragon’s Rest envuelta en una mezcla de vapor matinal, olor a cuero húmedo y una motivación... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-
-### Amenazas activas
-- Confianza: media
-- 14/05/2025, 20:29: O me hago el muerto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-- 12/05/2025, 21:19: Que se transcriba, que se preserve, que se silbe si hay peligro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest
-
-### Archivo JSON
-- data/localizaciones/0706-dragons-rest.json
+---
 
 ## 0707 — Planicie
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Escena cómica/anómala activa o recientemente interrumpida.
+**Confianza:** Media-baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Mamoru Ai Yastis se esposó a Cid en una escena con kobolds, causando confusión general. No consta una amenaza territorial real; el archivo automático parece haber confundido movimiento de personajes con cambio de mapa.
 
-### NPCs presentes o relevantes
-- Chibi Meido
-- Doragonkuin
+**NPCs / PJ relevantes:** Mamoru Ai Yastis, Cid, kobolds Laylee y Myla, Chibi Meido.
 
-### Jugadores que han actuado aqui
-- Chibi Meido
+**Estado recomendado:** No clasificar como amenazada. Tratar como escena de personaje pendiente o cerrada según continuación.
 
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 07/03/2025, 02:41 - Director: -…¡¿QUÉ?! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 26/02/2025, 22:07: Mamoru, en cambio, ya estaba avanzando sin dirección. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie
-
-### Archivo JSON
-- data/localizaciones/0707-planicie.json
+---
 
 ## 0711 — Strixhaven
 
-### Estado actual
-- Valor: Dañado o destruido
-- Confianza: media
+**Estado jugable:** Dañado o destruido.
+**Confianza:** Alta-media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Los últimos eventos hablan de puerto vacío, restos carbonizados y objetos quemados. Debe tratarse como localización dañada, con consecuencias visibles y posiblemente evacuada o parcialmente inutilizada.
 
-### NPCs presentes o relevantes
-- Carol Copper
-- Jacklin
-- Aranea
-- Aldar
-- Cecil
-- Rosa
-- Zelda
+**NPCs / PJ relevantes:** Carol Copper, Jacklin, Aranea, Aldar, Cecil, Rosa, Zelda.
 
-### Jugadores que han actuado aqui
-- Carol Copper
-- Jacklin
+**Amenazas abiertas:** No hay enemigo activo confirmado en el resumen, pero el daño sí está confirmado.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Revisar causa exacta de la destrucción y supervivientes.
 
-### Ultimo evento conocido
-- 18/06/2025, 22:25 - Director: Solo echó un último vistazo al puerto vacío y a los restos carbonizados. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+---
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+## 0813 — Valle de Huesos
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Estado jugable:** En conflicto militar o de conquista.
+**Confianza:** Media.
 
-### Cambios respecto al mapa base
-- 18/06/2025, 22:25: Solo echó un último vistazo al puerto vacío y a los restos carbonizados. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
-- 24/05/2025, 15:31: El cuero quemado de unas botas encantadas. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9)
+**Situación:** La base del mundo indica que Arcadia atacó y se hizo con territorio en el Valle de Huesos. El archivo actual conserva señales de combate y desafío por control de ciudad.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Control probable:** Imperio de Arcadia o fuerzas arcadianas, salvo que posts posteriores indiquen lo contrario.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven
+**NPCs / PJ relevantes:** Carol Copper.
 
-### Archivo JSON
-- data/localizaciones/0711-strixhaven.json
+**Pendiente:** Confirmar si el control arcadiano se mantiene y qué facciones resisten.
 
-## 0813 — El Valle De Huesos
+---
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+## 0907 — Cuevas de Pleamar
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Posible corrupción o amenaza natural/mágica.
+**Confianza:** Baja.
 
-### NPCs presentes o relevantes
-- Carol Copper
+**Situación:** El archivo automático la clasifica como amenazada por corrupción o plaga, pero no ofrece suficiente evidencia en los extractos disponibles.
 
-### Jugadores que han actuado aqui
-- Carol Copper
+**Pendiente:** Revisar posts de la localización antes de usar como amenaza activa.
 
-### Eventos importantes ocurridos
-- Desconocido
+---
 
-### Ultimo evento conocido
-- 20/05/2024, 23:15 - SISTEMA: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=4)
+## 1012 — Aldea entre las montañas
 
-### Amenazas activas
-- Confianza: media
-- 20/05/2024, 07:02: Si deseas la ciudad y mi muerte, tendrás que ganártelo en combate. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
-- 19/05/2024, 12:14: -Me refiero, en una guerra cualquier soldado tiene miedo de morir porque está en una situación peligrosa, o las... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3)
+**Estado jugable:** Pueblo fantasma / comunidad en crisis.
+**Confianza:** Media-alta como estado base.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Situación:** En el mapa base aparece como un pueblo aparentemente abandonado, con cultivos invadidos por maleza y sin movimiento visible. Fedregar solicita ayuda para la aldea y la pista conduce hacia las montañas relacionadas con la fiebre del oro.
 
-### Cambios respecto al mapa base
-- Desconocido
+**NPCs relevantes:** Fedregar.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Misión abierta probable:** Ayudar al pueblo investigando la causa en las montañas.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos
+**Pendiente:** Confirmar qué ocurrió tras la intervención de personajes si hubo posts jugados posteriores.
 
-### Archivo JSON
-- data/localizaciones/0813-el-valle-de-huesos.json
+---
 
-## 0907 — Las Cuevas De Pleamar
+## 1013 — Fortaleza / Túmulo Gnoll
 
-### Estado actual
-- Valor: Amenazado por corrupcion o plaga
-- Confianza: media
+**Estado jugable:** Punto de investigación peligroso.
+**Confianza:** Media-baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Farar había enviado exploradores a investigar un túmulo gnoll cercano. No hay suficientes datos en el estado automático para saber si la amenaza fue resuelta.
 
-### NPCs presentes o relevantes
-- Desconocido
+**Misión abierta probable:** Investigar qué ocurrió con los exploradores de Farar.
 
-### Jugadores que han actuado aqui
-- Desconocido
+**Pendiente:** Revisar posts completos antes de clasificarla como limpia, ocupada o en conflicto.
 
-### Eventos importantes ocurridos
-- Desconocido
+---
 
-### Ultimo evento conocido
-- 24/07/2025, 10:24 - Mamoru Ai Yastis: Mamoru Ai Yastis se quedó quieto. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+## 1110 — Pantano de las Grandes Bestias
 
-### Amenazas activas
-- Confianza: media
-- 20/06/2025, 12:29: Y al fondo, su voz rebotó entre cristales y gas: -¡ATENCIÓN, CRISTAL TÓXICO! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-- 18/06/2025, 22:47: Era tóxico, sí. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-- 18/06/2025, 22:47: La plaga no era un enemigo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+**Estado jugable:** Zona peligrosa vinculada a expedición y bestias.
+**Confianza:** Media-baja.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Situación:** La localización tiene actividad de Horus, Hjelma, Fang y Kaela. El archivo automático detecta una amenaza, pero solo conserva una frase de precaución. No basta para fijar una amenaza concreta.
 
-### Cambios respecto al mapa base
-- 23/07/2025, 19:13: Y en el centro… un enorme cristal naranja bloqueaba una abertura en la roca por donde deberían salir los gases. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
-- 18/06/2025, 22:47: El gran cristal bloquea la grieta. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1)
+**NPCs / PJ relevantes:** Horus Icarus, Hjelma, Fang, Kaela, Cecilia, Cecil.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Pendiente:** Revisar la escena del 05/12/2024 y separar peligro real de diálogo preventivo.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar
-
-### Archivo JSON
-- data/localizaciones/0907-las-cuevas-de-pleamar.json
-
-## 0913 — La Torre Negra
-
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Jacklin
-- Aranea
-- Aldar
-
-### Jugadores que han actuado aqui
-- Jacklin
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 29/07/2025, 18:39 - Jacklin: Pensaba que iba a morir. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 25/12/2024, 19:45: Si quieren algo a cambio, necesitamos saber qué estamos dispuestos a ofrecer. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra
-
-### Archivo JSON
-- data/localizaciones/0913-la-torre-negra.json
-
-## 1012 — La Aldea 2
-
-### Estado actual
-- Valor: Dañado o destruido
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Jacklin
-- Drake
-- Cecil
-
-### Jugadores que han actuado aqui
-- Jacklin
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 20/07/2023, 08:37 - Director: La tierra aun estaba empapada, y a los chocobos les costaba bastante avanzar, pero estaba oscureciendo cuando por fin... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 16/07/2023, 19:51: no me gustaría abandonarla asi por que si. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2
-
-### Archivo JSON
-- data/localizaciones/1012-la-aldea-2.json
-
-## 1013 — Fortaleza Gnoll 2
-
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Fang
-- Cecilia
-- Zelo
-
-### Jugadores que han actuado aqui
-- Fang
-- Cecilia
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 16/02/2025, 23:20 - Director: Los gnolls comenzaron a moverse rápidamente, algunos recogiendo sus armas, otros preparando su equipo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-
-### Amenazas activas
-- Confianza: media
-- 16/02/2025, 23:20: Cuando nos llames, estaremos listos para la guerra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-- 14/02/2025, 18:20: -Prepararnos para la guerra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-- 14/02/2025, 18:20: La guerra se avecinaba. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2
-
-### Archivo JSON
-- data/localizaciones/1013-fortaleza-gnoll-2.json
-
-## 1110 — Pantano De Las Grandes Bestias
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Horus Icarus
-- Hjelma
-- Fang
-- Kaela
-- Cecilia
-- HJELMA
-- Cecil
-
-### Jugadores que han actuado aqui
-- Horus Icarus
-- Hjelma
-- Fang
-- Kaela
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 05/12/2024, 22:05 - Director: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
-
-### Amenazas activas
-- Confianza: baja
-- 05/12/2024, 01:50: No puedo correr el riesgo de ponerte en peligro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias
-
-### Archivo JSON
-- data/localizaciones/1110-pantano-de-las-grandes-bestias.json
+---
 
 ## 1111 — Nueva Roclenia
 
-### Estado actual
-- Valor: Amenazado por corrupcion o plaga
-- Confianza: media
+**Estado jugable:** Ciudad importante bajo tensión; posible crisis cercana.
+**Confianza:** Media-alta.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Nueva Roclenia sigue siendo un centro relevante de Talsyrc y del Gremio de Protectores, pero los últimos eventos del archivo señalan que “no fue un simple ataque al azar” y que la amenaza está más cerca de una crisis de lo esperado. También hubo una alteración drástica de una calle el 10/12/2024.
 
-### NPCs presentes o relevantes
-- Jacklin
-- Drake
-- Rosa
-- Carol Copper
-- Hjelma
-- Cecil
-- Horus Icarus
-- Axel
-- Fang
-- Aranea
-- HJELMA
-- Aldar
+**Control base:** Talsyrc / Cecil / estructura del Gremio de Protectores, salvo cambios posteriores no revisados.
 
-### Jugadores que han actuado aqui
-- Jacklin
-- Drake
-- Rosa
-- Carol Copper
-- Hjelma
-- Cecil
-- Horus Icarus
-- Axel
-- Fang
+**NPCs / PJ relevantes:** Jacklin, Drake, Rosa, Carol Copper, Hjelma, Cecil, Horus Icarus, Axel, Fang, Aranea, Aldar.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Amenazas abiertas:** Ataque no aleatorio; amenaza cercana no identificada; posible alteración urbana o sistémica.
 
-### Ultimo evento conocido
-- 30/12/2024, 01:24 - Director: -Acabo de recibir un mensaje de Jacklin. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+**Pendiente:** Identificar el origen del ataque y si la alteración de la calle es física, mágica o sistémica.
 
-### Amenazas activas
-- Confianza: media
-- 30/12/2024, 01:24: Esto no fue un simple ataque al azar. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-- 30/12/2024, 01:24: —Es peligroso. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
-- 30/12/2024, 01:22: Siempre pensé que su amenaza era distante, pero si esto es cierto, estamos más cerca de una crisis de lo que esperaba. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+---
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+## 1112 — Fortaleza de Farar
 
-### Cambios respecto al mapa base
-- 10/12/2024, 00:19: Al momento siguiente, la apariencia de la calle cambió drásticamente. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27)
+**Estado jugable:** Fortaleza activa y lugar de reunión de personajes; sin amenaza local confirmada.
+**Confianza:** Media.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Situación:** Aunque el archivo automático marca estado desconocido, los posts conocidos muestran la fortaleza como un enclave estratégico de Filgaia y punto de paso de varios héroes. El último evento conocido es una interacción de Jack, no un ataque ni desastre.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia
+**Control base:** Filgaia / Farar, salvo cambio posterior no detectado.
 
-### Archivo JSON
-- data/localizaciones/1111-nueva-roclenia.json
+**NPCs / PJ relevantes:** Fang, Cecilia, Jacklin, Drake, Aldar, Aranea, Cecil, Kaela.
 
-## 1112 — Fortaleza De Farar
+**Estado recomendado:** No clasificar como destruida ni en conflicto sin revisión adicional.
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Fang
-- Cecilia
-- Jacklin
-- Drake
-- Aldar
-- Aranea
-- Cecil
-- Kaela
-
-### Jugadores que han actuado aqui
-- Fang
-- Cecilia
-- Jacklin
-- Drake
-- Aldar
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 26/03/2025, 00:02 - Director: Jack frunció ligeramente el ceño. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar
-
-### Archivo JSON
-- data/localizaciones/1112-fortaleza-de-farar.json
+---
 
 ## 1114 — Nubelon
 
-### Estado actual
-- Valor: Abandonado o parcialmente abandonado
-- Confianza: media
+**Estado jugable:** Asentamiento abandonado o parcialmente abandonado; ligado a información sobre Smel/Tenebris.
+**Confianza:** Media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** El archivo automático la clasifica como abandonada o parcialmente abandonada. Hay referencia a textos que relacionan Tenebris con Smel, lo que vuelve la localización importante para investigación de lore y amenaza.
 
-### NPCs presentes o relevantes
-- Jacklin
-- Aldar
-- Aranea
-- Goraksha
+**NPCs / PJ relevantes:** Jacklin, Aldar, Aranea, Goraksha.
 
-### Jugadores que han actuado aqui
-- Jacklin
+**Amenaza / pista:** Tenebris podría ser otro aspecto de Smel.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Confirmar qué queda físicamente de Nubelon y si hay habitantes, ruinas o presencia enemiga.
 
-### Ultimo evento conocido
-- 24/04/2024, 22:27 - Director: -Que tus viajes te sean favorables, y que encuentres lo que buscas dondequiera que te lleve tu camino. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=2)
+---
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+## 1210 — Fortaleza de Roland
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Estado jugable:** Dañada o destruida; posible idea peligrosa en curso.
+**Confianza:** Media.
 
-### Cambios respecto al mapa base
-- 24/04/2024, 21:08: -Por lo que logro entender de estos textos, Tenebris parece ser no más que otro aspecto de Smel, una transformación que... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1)
+**Situación:** El archivo la marca como dañada o destruida. Hay una frase posterior sobre una “idea peligrosa”, pero sin contexto suficiente. Horus Icarus ha actuado aquí y el último evento conocido es de agosto de 2025.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Control base:** Talsyrc / Roland, salvo que el daño haya alterado el control.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon
+**NPCs / PJ relevantes:** Horus Icarus.
 
-### Archivo JSON
-- data/localizaciones/1114-nubelon.json
+**Pendiente:** Revisar posts de 2025 para confirmar qué daño sufrió y qué idea peligrosa quedó planteada.
 
-## 1210 — Fortaleza De Roland
-
-### Estado actual
-- Valor: Dañado o destruido
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Horus Icarus
-
-### Jugadores que han actuado aqui
-- Horus Icarus
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 24/08/2025, 03:10 - Horus Icarus: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
-
-### Amenazas activas
-- Confianza: baja
-- 25/05/2025, 16:28: El silencio volvió a llenar la sala, cargado de la promesa de una idea peligrosa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland
-
-### Archivo JSON
-- data/localizaciones/1210-fortaleza-de-roland.json
+---
 
 ## 1211 — Nueva Lyrule
 
-### Estado actual
-- Valor: Dañado o destruido
-- Confianza: media
+**Estado jugable:** Dañada o destruida; ruina de la nación Triarca.
+**Confianza:** Alta como estado base, media para detalles actuales.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** La base del mundo establece que los Triarcas quedaron extintos tras un ataque no identificado y que Nueva Lyrule fue destruida. El estado actual la mantiene como dañada o destruida.
 
-### NPCs presentes o relevantes
-- Kirara
-- Zelda
-- Horus Icarus
-- Ganondorf
-- Drake
-- Rosa
+**NPCs / PJ relevantes:** Kirara, Zelda, Horus Icarus, Ganondorf, Drake, Rosa.
 
-### Jugadores que han actuado aqui
-- Kirara
-- Zelda
-- Horus Icarus
+**Misión / eje narrativo:** Reconstrucción, investigación de la destrucción o recuperación de legado triarca.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Confirmar si hay supervivientes, fuerzas ocupantes o actividad reciente.
 
-### Ultimo evento conocido
-- 22/01/2025, 23:05 - SISTEMA: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-
-### Amenazas activas
-- Confianza: media
-- 05/01/2025, 22:12: Junto a ellos, una Neosombra más grande y peligrosa lideraba el ataque. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-- 05/01/2025, 22:12: Nadia, al ver a Saria en peligro, desenvainó su cimitarra mientras gritaba: -¡Saria! (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-- 05/01/2025, 22:12: Al mismo tiempo, fijó su mirada en la Neosombra, sabiendo que era la verdadera amenaza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 30/12/2024, 01:31: En cambio, levantó una mano y señaló hacia el corazón del bosque antes de desaparecer en la oscuridad. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-- 30/12/2024, 01:30: Narración: Explorando las Ruinas de Nueva Lyrule El grupo se abrió paso entre los escombros de Nueva Lyrule, una ciudad... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-- 30/12/2024, 01:30: Descubrimientos en las Ruinas Restos de la Batalla: 	Encuentran fragmentos de tecnología de Shin-Ra esparcidos por las... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule
-
-### Archivo JSON
-- data/localizaciones/1211-nueva-lyrule.json
+---
 
 ## 1212 — Cueva Goblin
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Núcleo de Forbin / goblins; escena social y política reciente.
+**Confianza:** Media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Fang, Rådgiver, Cecilia, Zelo, Goraksha y Kaela aparecen como relevantes. Hay actividad reciente en mayo de 2025, incluyendo un viaje con ruedas de madera. No hay amenaza activa confirmada en el resumen.
 
-### NPCs presentes o relevantes
-- Fang
-- Rådgiver
-- Cecilia
-- Zelo
-- Goraksha
-- Kaela
+**Control probable:** Reino de Forbin / goblins aliados a Rebecca, si no hay contradicción posterior.
 
-### Jugadores que han actuado aqui
-- Fang
-- Rådgiver
-- Cecilia
-- Zelo
+**NPCs / PJ relevantes:** Fang, Rådgiver, Cecilia, Zelo, Goraksha, Kaela.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Confirmar destino del viaje iniciado el 29/05/2025.
 
-### Ultimo evento conocido
-- 29/05/2025, 05:11 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=15)
+---
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+## 1213 — Lipwick / Bosque de Smel
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Estado jugable:** Zona clave vinculada a Smel; estado local no confirmado.
+**Confianza:** Media-baja.
 
-### Cambios respecto al mapa base
-- 17/05/2025, 12:43: Se rió, disfrutando el show y los cambios de tono de Rebecca. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14)
+**Situación:** A pesar del nombre, el archivo automático no confirma amenaza activa. La localización reúne muchos personajes y es relevante por el trasfondo de Smel.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**NPCs / PJ relevantes:** Carol Copper, Hjelma, Aithara, Fang, Cecilia, Kristal, Jacklin, Aldar, Kaela, Aranea, Zelo.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin
+**Pendiente:** Revisar manualmente antes de usar como zona ocupada por Smel o limpia.
 
-### Archivo JSON
-- data/localizaciones/1212-cueva-goblin.json
-
-## 1213 — Lipwick_ Bosque De Smel
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Carol Copper
-- Hjelma
-- Aithara
-- Fang
-- Cecilia
-- Kristal
-- Jacklin
-- HJELMA
-- Aldar
-- Kaela
-- Aranea
-- Zelo
-
-### Jugadores que han actuado aqui
-- Carol Copper
-- Hjelma
-- Aithara
-- Fang
-- Cecilia
-- Kristal
-- Jacklin
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 17/05/2024, 09:52 - Director: Pero cada rango refleja un compromiso y una habilidad excepcional. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel
-
-### Archivo JSON
-- data/localizaciones/1213-lipwick_-bosque-de-smel.json
+---
 
 ## 1214 — Poblado Orco
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+**Estado jugable:** Comunidad orca en proceso de integración política/religiosa con Forbin; tensión no necesariamente hostil.
+**Confianza:** Media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Jacklin, Goraksha, Aranea, Aldar, Fang, Kaela y Zelo han actuado aquí. Los últimos eventos muestran a la líder orco solemne y a su hija entusiasmada. El archivo lo marca “en conflicto”, pero las evidencias disponibles sugieren más bien negociación, vínculo comunitario o transición.
 
-### NPCs presentes o relevantes
-- Jacklin
-- Goraksha
-- Aranea
-- Aldar
-- Fang
-- Kaela
-- Zelo
+**Control probable:** Goraksha / comunidad orca, con influencia creciente de Forbin.
 
-### Jugadores que han actuado aqui
-- Jacklin
-- Goraksha
-- Aranea
-- Aldar
-- Fang
-- Kaela
+**NPCs / PJ relevantes:** Jacklin, Goraksha, Aranea, Aldar, Fang, Kaela, Zelo.
 
-### Eventos importantes ocurridos
-- Desconocido
+**Pendiente:** Confirmar si el conflicto es externo, interno o una mala clasificación automática.
 
-### Ultimo evento conocido
-- 12/12/2024, 23:23 - Director: La líder orco mantuvo su expresión solemne, mientras que su hija no ocultaba su entusiasmo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 11/12/2024, 02:48: Su mirada cambió de un lado a otro. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco
-
-### Archivo JSON
-- data/localizaciones/1214-poblado-orco.json
+---
 
 ## 1310 — Tybra
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Enclave Talsyrc de apoyo; estado reciente desconocido.
+**Confianza:** Baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Tybra aparece como ciudad secundaria de Talsyrc en el material base, pero el estado automático no aporta suficiente información reciente.
 
-### NPCs presentes o relevantes
-- Rosa
-- Cecil
+**Pendiente:** Revisar posts antes de fijar amenazas, control o misiones.
 
-### Jugadores que han actuado aqui
-- Rosa
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 31/01/2024, 13:20 - Director: -Pues usted esta en... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-
-### Amenazas activas
-- Confianza: baja
-- 01/08/2023, 01:56: y entiendo ese virus, es muy peligroso ¿Cierto?... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra
-
-### Archivo JSON
-- data/localizaciones/1310-tybra.json
-
-## 1312 — Nueva Delhyde 2
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Fang
-- Cecilia
-- Jane
-- Carol Copper
-- Aithara
-- Ingeniero Tom
-- Euclid
-- Zelo
-
-### Jugadores que han actuado aqui
-- Fang
-- Cecilia
-- Jane
-- Carol Copper
-- Aithara
-- Ingeniero Tom
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 24/07/2025, 18:42 - Fang: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2
-
-### Archivo JSON
-- data/localizaciones/1312-nueva-delhyde-2.json
+---
 
 ## 1313 — Cueva Kobold
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Escena de grupo y reflexión; sin amenaza local confirmada en los fragmentos revisados.
+**Confianza:** Media.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** En la cueva se han desarrollado conversaciones importantes entre Cecilia, Rebecca y Fang sobre la pérdida del reino de Cecilia, la libertad amarga de ya no tener que gobernar y posibles caminos futuros.
 
-### NPCs presentes o relevantes
-- Fang
-- Zelo
-- Cecilia
+**NPCs / PJ relevantes:** Cecilia, Rebecca, Fang.
 
-### Jugadores que han actuado aqui
-- Fang
-- Zelo
-- Cecilia
+**Pendiente:** Confirmar si la amenaza kobold original fue resuelta o si quedan peligros físicos.
 
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 29/05/2025, 04:15 - Director: El sonido de ruedas de madera girando sobre la tierra dura marcaba el ritmo del viaje. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold
-
-### Archivo JSON
-- data/localizaciones/1313-cueva-kobold.json
-
-## 1315 — El Gran Paramo
-
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Jacklin
-- Aranea
-- Aldar
-
-### Jugadores que han actuado aqui
-- Jacklin
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 24/04/2024, 18:35 - Director: Sin embargo, es precisamente porque valoramos tanto lo que has hecho y lo que aún tienes que enfrentar, que te... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-
-### Amenazas activas
-- Confianza: media
-- 24/04/2024, 17:27: Ataques tan organizados, por unos pergaminos, sin información previa sobre ellos, en templos perdidos de una acceso... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-- 24/04/2024, 17:21: -Has hecho bien en ser honesto sobre los peligros que enfrentamos. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-- 24/04/2024, 17:21: No es cuestión de si habrá más ataques, sino de cuándo y cómo responderemos Afirmó Yang-Fang, infundiendo una mezcla de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 24/04/2024, 17:48: A medida que el gesto se transformaba en un abrazo, su expresión se suavizó, reflejando la profundidad del vínculo... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo
-
-### Archivo JSON
-- data/localizaciones/1315-el-gran-paramo.json
+---
 
 ## 1316 — Valleoscuro
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+**Estado jugable:** Desconocido.
+**Confianza:** Baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** El estado automático no aporta datos suficientes.
 
-### NPCs presentes o relevantes
-- Jacklin
-- Aldar
-- Aranea
-- Drake
+**Pendiente:** Revisión manual completa.
 
-### Jugadores que han actuado aqui
-- Jacklin
-- Aldar
+---
 
-### Eventos importantes ocurridos
-- Desconocido
+## 1410 — Torre de Granath
 
-### Ultimo evento conocido
-- 24/04/2024, 17:16 - Director: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+**Estado jugable:** Dañada, alterada o en transformación; sede relevante para Inventores.
+**Confianza:** Media.
 
-### Amenazas activas
-- Confianza: baja
-- 24/04/2024, 16:48: Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6)
+**Situación:** El archivo la marca dañada o destruida, pero las frases detectadas hablan de cambio en la atmósfera y posibilidades misteriosas, no necesariamente ruina física total. Jane permanece asociada a la torre en los perfiles y actúa como apoyo logístico.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Control probable:** Beatrix / Gremio de Inventores / Jane, salvo cambio posterior.
 
-### Cambios respecto al mapa base
-- Desconocido
+**NPCs / PJ relevantes:** Jane, Euclid, Ingeniero Tom, Beatrix.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+**Pendiente:** Confirmar si “dañada” significa destrucción material, alteración mágica/sistémica o simple transformación de escena.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro
+---
 
-### Archivo JSON
-- data/localizaciones/1316-valleoscuro.json
+## 1411 — Ciénaga Negra
 
-## 1410 — La Torre De Granath
+**Estado jugable:** Zona en conflicto; amenaza de Smel y Llave Xion.
+**Confianza:** Alta-media.
 
-### Estado actual
-- Valor: Dañado o destruido
-- Confianza: media
+**Situación:** Drake y Nadia huyeron de una criatura invisible que no podían vencer. Luego la Wiki del Sistema mostró datos glitcheados e indicó que se necesita la Llave Xion para restablecer datos. Más tarde se afirma que Smel sigue siendo una amenaza y que su búsqueda de la Llave Xion puede implicar un peligro mayor.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**NPCs / PJ relevantes:** Drake, Nadia Stormstride, Cecil.
 
-### NPCs presentes o relevantes
-- Jane
-- Euclid
-- Ingeniero Tom
+**Amenazas abiertas:** Criatura invisible no identificada; Smel; Llave Xion; datos del Sistema corruptos.
 
-### Jugadores que han actuado aqui
-- Jane
-- Euclid
+**Pendiente:** Determinar relación exacta entre criatura invisible, Smel y Llave Xion.
 
-### Eventos importantes ocurridos
-- Desconocido
+---
 
-### Ultimo evento conocido
-- 20/04/2024, 08:08 - Director: Finley, al mando del vehículo, percibe el cambio en la atmósfera. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+## 1412 — Torre del Mago
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+**Estado jugable:** Desconocido / posible escena mágica no cerrada.
+**Confianza:** Baja.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**NPCs / PJ relevantes:** Kirara, Ganondorf, Zelda.
 
-### Cambios respecto al mapa base
-- 20/04/2024, 08:08: Finley, al mando del vehículo, percibe el cambio en la atmósfera. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
-- 20/04/2024, 08:08: Las posibilidades pueden ser misteriosas, y a veces abrumadoras, pero también son la fuente de cambio y crecimiento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8)
+**Pendiente:** Revisión manual.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+---
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath
+## 1413 — Tumba de Shraevyn
 
-### Archivo JSON
-- data/localizaciones/1410-la-torre-de-granath.json
+**Estado jugable:** En conflicto resuelto parcialmente.
+**Confianza:** Media.
 
-## 1411 — Cienaga Negra
+**Situación:** El archivo automático la marca en conflicto, pero conserva una frase indicando que “esos bichos no volverán a ser una amenaza”. Esto sugiere que al menos una amenaza menor fue eliminada, aunque no confirma que la tumba esté totalmente segura.
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+**NPCs / PJ relevantes:** Fang, Zelo, Cecilia, Rådgiver.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Pendiente:** Revisar si la tumba quedó limpia, saqueada, sellada o con tramas abiertas.
 
-### NPCs presentes o relevantes
-- Drake
-- Cecil
-
-### Jugadores que han actuado aqui
-- Desconocido
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 30/12/2024, 01:21 - Director: El viaje de regreso fue relativamente tranquilo. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-
-### Amenazas activas
-- Confianza: media
-- 30/12/2024, 01:19: Smel sigue siendo una amenaza, y su búsqueda de la Llave Xion podría significar un peligro aún mayor. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-- 21/12/2024, 05:11: Aunque Nicholas había sido derrotado, la verdadera amenaza apenas comenzaba a revelarse. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-- 21/12/2024, 04:03: Más muerte, más sufrimiento. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 30/12/2024, 01:19: El grupo, agotado pero victorioso, decidió abandonar el castillo y regresar a Ciénaga Negra. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra
-
-### Archivo JSON
-- data/localizaciones/1411-cienaga-negra.json
-
-## 1412 — La Torre Del Mago
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Kirara
-- Ganondorf
-- Zelda
-
-### Jugadores que han actuado aqui
-- Kirara
-- Ganondorf
-- Zelda
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 25/06/2023, 16:53 - Director: La velada paso sin pena ni gloria, se notaba que pese a que hicieron el banquete en tu honor, por haberles librado de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Desconocido
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago
-
-### Archivo JSON
-- data/localizaciones/1412-la-torre-del-mago.json
-
-## 1413 — Tumba De Shraevyn
-
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Fang
-- Zelo
-- Cecilia
-- Rådgiver
-
-### Jugadores que han actuado aqui
-- Fang
-- Zelo
-- Cecilia
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 10/04/2024, 01:24 - Cecilia: -Sí, lo sé. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
-
-### Amenazas activas
-- Confianza: baja
-- 09/04/2024, 16:22: Esos bichos no volverán a ser una amenaza. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn
-
-### Archivo JSON
-- data/localizaciones/1413-tumba-de-shraevyn.json
+---
 
 ## 1512 — Paso Duvik
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Desconocido.
+**Confianza:** Baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**NPCs / PJ relevantes:** Kirara, Zelda, Ganondorf.
 
-### NPCs presentes o relevantes
-- Kirara
-- Zelda
-- Ganondorf
+**Pendiente:** El resumen automático remite a DEBUG; requiere revisión manual.
 
-### Jugadores que han actuado aqui
-- Kirara
-- Zelda
-- Ganondorf
+---
 
-### Eventos importantes ocurridos
-- Desconocido
+## 1611 — Fortaleza de Shin-Ra
 
-### Ultimo evento conocido
-- 13/03/2024, 20:39 - Director: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=5)
+**Estado jugable:** Bloqueada o alterada.
+**Confianza:** Media.
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+**Situación:** El archivo automático la marca como bloqueada o alterada. Hay señales de no-muerte o necromancia, pero las frases conservadas no bastan para definir la amenaza.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**Control base probable:** Shin-Ra, aunque puede estar alterado por eventos de partida.
 
-### Cambios respecto al mapa base
-- Desconocido
+**NPCs / PJ relevantes:** Kirara, Zelda, Euclid, Lucia, Ganondorf, Jane.
 
-### Dudas / necesita revision manual
-- Desconocido
+**Pendiente:** Confirmar tipo de bloqueo, estado de la fortaleza y papel de Shin-Ra.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik
-
-### Archivo JSON
-- data/localizaciones/1512-paso-duvik.json
-
-## 1611 — Fortaleza De Shin Ra
-
-### Estado actual
-- Valor: Bloqueado o alterado
-- Confianza: media
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Kirara
-- Zelda
-- Euclid
-- Lucia
-- Ganondorf
-- Jane
-
-### Jugadores que han actuado aqui
-- Kirara
-- Zelda
-- Euclid
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 05/04/2024, 01:23 - Director: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-
-### Amenazas activas
-- Confianza: baja
-- 04/04/2024, 23:35: puede que la No-muerte sea mi sen, pero ... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra
-
-### Archivo JSON
-- data/localizaciones/1611-fortaleza-de-shin-ra.json
+---
 
 ## 1612 — Morsten
 
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
+**Estado jugable:** Desconocido.
+**Confianza:** Baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**NPCs / PJ relevantes:** Lucia, Kirara, Euclid, Zelda, Ingeniero Tom.
 
-### NPCs presentes o relevantes
-- Lucia
-- Kirara
-- Euclid
-- Zelda
-- Ingeniero Tom
+**Pendiente:** El último evento aparece como “Resumen no incluido; ver DEBUG”; requiere revisión manual.
 
-### Jugadores que han actuado aqui
-- Lucia
-- Kirara
-- Euclid
+---
 
-### Eventos importantes ocurridos
-- Desconocido
+## 1709 — Villa de Barduk
 
-### Ultimo evento conocido
-- 25/04/2024, 09:06 - Director: Resumen no incluido; ver DEBUG. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=7)
+**Estado jugable:** Bloqueada, alterada o reseteada.
+**Confianza:** Media-alta.
 
-### Amenazas activas
-- Confianza: baja
-- Desconocido
+**Situación:** Los últimos eventos indican que algo “se reseteó” y que hubo un cambio inquietante. Beatrix reconoce que quizá sus palabras provocaron lo ocurrido. Debe tratarse como anomalía activa o localización alterada.
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+**NPCs / PJ relevantes:** Kirara, Euclid, Lucia, Beatrix.
 
-### Cambios respecto al mapa base
-- Desconocido
+**Amenazas abiertas:** Anomalía de reseteo / cambio de estado no explicado.
 
-### Dudas / necesita revision manual
-- Desconocido
+**Pendiente:** Confirmar consecuencias del reseteo y si afecta a habitantes, estructura o continuidad.
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten
+---
 
-### Archivo JSON
-- data/localizaciones/1612-morsten.json
+## 1710 — Villa Batlet / Fuerte Desastre
 
-## 1709 — La Villa De Barduk
+**Estado jugable:** Plaza defensiva bajo preparación ante ataques.
+**Confianza:** Media.
 
-### Estado actual
-- Valor: Bloqueado o alterado
-- Confianza: media
+**Situación:** Aunque el archivo la deja como estado desconocido, las frases detectadas hablan de prepararse para ataques, resistir emboscadas y proteger la posición. Parece más una localización fortificada en alerta que destruida.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**NPCs / PJ relevantes:** Kirara, Euclid.
 
-### NPCs presentes o relevantes
-- Kirara
-- Euclid
-- Lucia
+**Amenaza abierta:** Posibles ataques sorpresa.
 
-### Jugadores que han actuado aqui
-- Kirara
+**Pendiente:** Confirmar enemigo, estado de defensas y si la villa/fuerte sufrió daños.
 
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 25/07/2025, 20:59 - Beatrix L'back: Puede que mi bocota lo provocara... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
-
-### Amenazas activas
-- Confianza: baja
-- Desconocido
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- 25/07/2025, 20:59: cariño - mirando a este mismo el cual parecía que acababa de recuperarse de tan inquietante situación - cambio de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
-- 23/07/2025, 20:12: No cambió de color: se reseteó. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12)
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk
-
-### Archivo JSON
-- data/localizaciones/1709-la-villa-de-barduk.json
-
-## 1710 — Villa Batlet_fuerte Desastre
-
-### Estado actual
-- Valor: Desconocido
-- Confianza: baja
-
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
-
-### NPCs presentes o relevantes
-- Kirara
-- Euclid
-
-### Jugadores que han actuado aqui
-- Kirara
-- Euclid
-
-### Eventos importantes ocurridos
-- Desconocido
-
-### Ultimo evento conocido
-- 04/12/2024, 22:18 - Director: Aunque la joven había peleado bien, aún había mucho que aprender. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-
-### Amenazas activas
-- Confianza: media
-- 04/12/2024, 22:18: Esto nos dará la flexibilidad necesaria para reaccionar a cualquier ataque. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-- 04/12/2024, 22:18: Si se mantiene, podremos resistir cualquier ataque sorpresa. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-- 03/12/2024, 15:55: Podíamos blanquearla por los cuatro lados así nos saltarían de donde nos ataquen siempre habría alguien para protegerla. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7)
-
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
-
-### Cambios respecto al mapa base
-- Desconocido
-
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
-
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre
-
-### Archivo JSON
-- data/localizaciones/1710-villa-batlet_fuerte-desastre.json
+---
 
 ## 1712 — Fuerte Belvor
 
-### Estado actual
-- Valor: En conflicto
-- Confianza: media
+**Estado jugable:** Escolta o misión de protección en curso / reciente.
+**Confianza:** Media-baja.
 
-### Control / faccion dominante
-- Valor: Desconocido
-- Confianza: baja
+**Situación:** Malin, Esmeralda y Jasmalus expresan preocupación porque Kirara y Beatrix estén descansadas para proteger al grupo al día siguiente. No consta ataque inmediato en el fragmento, pero sí una misión de guardaespaldas.
 
-### NPCs presentes o relevantes
-- Kirara
-- Euclid
-- Kristal
+**NPCs / PJ relevantes:** Kirara, Beatrix, Malin, Esmeralda, Jasmalus.
 
-### Jugadores que han actuado aqui
-- Kirara
-- Euclid
-- Kristal
+**Pendiente:** Revisar si la amenaza llegó a materializarse.
 
-### Eventos importantes ocurridos
-- Desconocido
+---
 
-### Ultimo evento conocido
-- 16/08/2024, 22:56 - Director: El sol comenzó a descender en el horizonte, tiñendo el cielo de tonos anaranjados y púrpuras, mientras la oscuridad de... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
+# Focos narrativos activos
 
-### Amenazas activas
-- Confianza: media
-- 13/08/2024, 15:56: Aunque no lo exteriorizara al resto, se me podia notar demasiada a gusto en mi extraño acto de robarles el alma a los... (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7)
-- 09/08/2024, 11:24: ​​​​El Goblin berserker había desaparecido tras el segundo ataque. (https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6)
+## Smel, Tenebris y la Llave Xion
 
-### Misiones abiertas
-- Confianza: baja
-- Desconocido
+Smel sigue siendo una amenaza importante. Hay indicios de que Tenebris podría ser otro aspecto de Smel, y la Llave Xion aparece relacionada con datos corruptos o inaccesibles del Sistema. Este eje conecta al menos Nubelon, Ciénaga Negra y posiblemente otras zonas tocadas por corrupción o anomalías.
 
-### Cambios respecto al mapa base
-- Desconocido
+**Estado:** Activo.
+**Confianza:** Alta-media.
 
-### Dudas / necesita revision manual
-- Revisar manualmente para confirmar inferencias automaticas.
+---
 
-### URL original
-- https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor
+## Rebecca, Becky y los glitches
 
-### Archivo JSON
-- data/localizaciones/1712-fuerte-belvor.json
+Rebecca ha obtenido del Administrador una oportunidad para intentar traer de vuelta a Becky sin destruirla ni poner en peligro Grymoire. El pacto tiene condiciones: si Becky vuelve a ser una amenaza, Rebecca debe detenerla; si no lo hace, intervendrá el Administrador. Además, Rebecca debe dejar de crear glitches porque han comprometido la supervisión del Sistema y permitido fugas de información crítica.
+
+**Estado:** Activo y delicado.
+**Confianza:** Alta.
+
+---
+
+## Forbin y sus aliados monstruosos
+
+Forbin continúa expandiendo influencia a través de Rebecca, Fang, Kaela, Korpo/Rådgiver, Goraksha y otros aliados. La Cueva Goblin y el Poblado Orco parecen nodos importantes de esta consolidación.
+
+**Estado:** Activo.
+**Confianza:** Media.
+
+---
+
+## Daños y reconstrucción
+
+Varias localizaciones importantes están dañadas o destruidas: Strixhaven, Nueva Lyrule, Fortaleza de Roland y quizá Torre de Granath. No todas tienen el mismo tipo de daño: algunas parecen ruina física, otras alteración mágica/sistémica.
+
+**Estado:** Activo.
+**Confianza:** Media.
+
+---
+
+# Pendientes de revisión prioritaria
+
+1. **Nueva Roclenia:** identificar el ataque no aleatorio y la amenaza cercana.
+2. **Ciénaga Negra:** aclarar criatura invisible, Llave Xion y relación con Smel.
+3. **Villa de Barduk:** definir qué significa exactamente el reseteo.
+4. **Strixhaven:** confirmar causa del incendio/destrucción y supervivientes.
+5. **Fortaleza de Roland:** determinar daño real y “idea peligrosa”.
+6. **Torre de Granath:** distinguir daño físico de alteración atmosférica/sistémica.
+7. **Nueva Vector:** confirmar si hay maldición/posesión real o falso positivo del resumen automático.
+8. **Poblado Orco:** aclarar si el “conflicto” es externo, interno o solo transición política.
+9. **Valle de Huesos:** confirmar control actual de Arcadia.
+10. **Fortaleza de Shin-Ra:** precisar bloqueo, no-muerte y estado de control.
+
+---
+
+# Notas de limpieza respecto al archivo automático
+
+* No convertir frases sueltas en amenazas confirmadas sin contexto.
+* No usar “Resumen no incluido; ver DEBUG” como evento narrativo.
+* Un personaje diciendo “es peligroso” no prueba por sí solo amenaza territorial.
+* Un cambio emocional, cómico o de diálogo no debe clasificarse automáticamente como cambio de mapa.
+* Mantener “Desconocido” solo cuando no haya evidencia, pero añadir qué debe revisarse.
+* Separar siempre: **estado físico**, **control político**, **amenaza activa**, **misión abierta** y **duda pendiente**.
