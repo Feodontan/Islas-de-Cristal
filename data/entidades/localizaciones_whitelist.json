@@ -1,0 +1,206 @@
+[
+  {
+    "codigo": "0607",
+    "nombre": "Pecio Maldito",
+    "slug": "pecio-maldito",
+    "archivo": "0607-pecio-maldito.json"
+  },
+  {
+    "codigo": "0608",
+    "nombre": "Nueva Vector",
+    "slug": "nueva-vector",
+    "archivo": "0608-nueva-vector.json"
+  },
+  {
+    "codigo": "0706",
+    "nombre": "Dragons Rest",
+    "slug": "dragons-rest",
+    "archivo": "0706-dragons-rest.json"
+  },
+  {
+    "codigo": "0707",
+    "nombre": "Planicie",
+    "slug": "planicie",
+    "archivo": "0707-planicie.json"
+  },
+  {
+    "codigo": "0711",
+    "nombre": "Strixhaven",
+    "slug": "strixhaven",
+    "archivo": "0711-strixhaven.json"
+  },
+  {
+    "codigo": "0813",
+    "nombre": "El Valle De Huesos",
+    "slug": "el-valle-de-huesos",
+    "archivo": "0813-el-valle-de-huesos.json"
+  },
+  {
+    "codigo": "0907",
+    "nombre": "Las Cuevas De Pleamar",
+    "slug": "las-cuevas-de-pleamar",
+    "archivo": "0907-las-cuevas-de-pleamar.json"
+  },
+  {
+    "codigo": "0913",
+    "nombre": "La Torre Negra",
+    "slug": "la-torre-negra",
+    "archivo": "0913-la-torre-negra.json"
+  },
+  {
+    "codigo": "1012",
+    "nombre": "La Aldea 2",
+    "slug": "la-aldea-2",
+    "archivo": "1012-la-aldea-2.json"
+  },
+  {
+    "codigo": "1013",
+    "nombre": "Fortaleza Gnoll 2",
+    "slug": "fortaleza-gnoll-2",
+    "archivo": "1013-fortaleza-gnoll-2.json"
+  },
+  {
+    "codigo": "1110",
+    "nombre": "Pantano De Las Grandes Bestias",
+    "slug": "pantano-de-las-grandes-bestias",
+    "archivo": "1110-pantano-de-las-grandes-bestias.json"
+  },
+  {
+    "codigo": "1111",
+    "nombre": "Nueva Roclenia",
+    "slug": "nueva-roclenia",
+    "archivo": "1111-nueva-roclenia.json"
+  },
+  {
+    "codigo": "1112",
+    "nombre": "Fortaleza De Farar",
+    "slug": "fortaleza-de-farar",
+    "archivo": "1112-fortaleza-de-farar.json"
+  },
+  {
+    "codigo": "1114",
+    "nombre": "Nubelon",
+    "slug": "nubelon",
+    "archivo": "1114-nubelon.json"
+  },
+  {
+    "codigo": "1210",
+    "nombre": "Fortaleza De Roland",
+    "slug": "fortaleza-de-roland",
+    "archivo": "1210-fortaleza-de-roland.json"
+  },
+  {
+    "codigo": "1211",
+    "nombre": "Nueva Lyrule",
+    "slug": "nueva-lyrule",
+    "archivo": "1211-nueva-lyrule.json"
+  },
+  {
+    "codigo": "1212",
+    "nombre": "Cueva Goblin",
+    "slug": "cueva-goblin",
+    "archivo": "1212-cueva-goblin.json"
+  },
+  {
+    "codigo": "1213",
+    "nombre": "Lipwick_ Bosque De Smel",
+    "slug": "lipwick_-bosque-de-smel",
+    "archivo": "1213-lipwick_-bosque-de-smel.json"
+  },
+  {
+    "codigo": "1214",
+    "nombre": "Poblado Orco",
+    "slug": "poblado-orco",
+    "archivo": "1214-poblado-orco.json"
+  },
+  {
+    "codigo": "1310",
+    "nombre": "Tybra",
+    "slug": "tybra",
+    "archivo": "1310-tybra.json"
+  },
+  {
+    "codigo": "1312",
+    "nombre": "Nueva Delhyde 2",
+    "slug": "nueva-delhyde-2",
+    "archivo": "1312-nueva-delhyde-2.json"
+  },
+  {
+    "codigo": "1313",
+    "nombre": "Cueva Kobold",
+    "slug": "cueva-kobold",
+    "archivo": "1313-cueva-kobold.json"
+  },
+  {
+    "codigo": "1315",
+    "nombre": "El Gran Paramo",
+    "slug": "el-gran-paramo",
+    "archivo": "1315-el-gran-paramo.json"
+  },
+  {
+    "codigo": "1316",
+    "nombre": "Valleoscuro",
+    "slug": "valleoscuro",
+    "archivo": "1316-valleoscuro.json"
+  },
+  {
+    "codigo": "1410",
+    "nombre": "La Torre De Granath",
+    "slug": "la-torre-de-granath",
+    "archivo": "1410-la-torre-de-granath.json"
+  },
+  {
+    "codigo": "1411",
+    "nombre": "Cienaga Negra",
+    "slug": "cienaga-negra",
+    "archivo": "1411-cienaga-negra.json"
+  },
+  {
+    "codigo": "1412",
+    "nombre": "La Torre Del Mago",
+    "slug": "la-torre-del-mago",
+    "archivo": "1412-la-torre-del-mago.json"
+  },
+  {
+    "codigo": "1413",
+    "nombre": "Tumba De Shraevyn",
+    "slug": "tumba-de-shraevyn",
+    "archivo": "1413-tumba-de-shraevyn.json"
+  },
+  {
+    "codigo": "1512",
+    "nombre": "Paso Duvik",
+    "slug": "paso-duvik",
+    "archivo": "1512-paso-duvik.json"
+  },
+  {
+    "codigo": "1611",
+    "nombre": "Fortaleza De Shin Ra",
+    "slug": "fortaleza-de-shin-ra",
+    "archivo": "1611-fortaleza-de-shin-ra.json"
+  },
+  {
+    "codigo": "1612",
+    "nombre": "Morsten",
+    "slug": "morsten",
+    "archivo": "1612-morsten.json"
+  },
+  {
+    "codigo": "1709",
+    "nombre": "La Villa De Barduk",
+    "slug": "la-villa-de-barduk",
+    "archivo": "1709-la-villa-de-barduk.json"
+  },
+  {
+    "codigo": "1710",
+    "nombre": "Villa Batlet_fuerte Desastre",
+    "slug": "villa-batlet_fuerte-desastre",
+    "archivo": "1710-villa-batlet_fuerte-desastre.json"
+  },
+  {
+    "codigo": "1712",
+    "nombre": "Fuerte Belvor",
+    "slug": "fuerte-belvor",
+    "archivo": "1712-fuerte-belvor.json"
+  }
+]

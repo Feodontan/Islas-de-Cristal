@@ -9,7 +9,8 @@
     "parse:debug": "node src/scrape.js --from-debug",
     "analyze:history": "node src/analyzeChronology.js",
     "generar:whitelist": "node scripts/generarPersonajesWhitelist.js",
-    "generar:estado": "node scripts/generarEstadoActual.js",
+    "generar:localizaciones": "node scripts/generarLocalizacionesWhitelist.js",
+    "generar:estado": "npm run generar:localizaciones && node scripts/generarEstadoActual.js",
     "validar:estado": "node scripts/validarEstadoActual.js"
   },
   "keywords": [],

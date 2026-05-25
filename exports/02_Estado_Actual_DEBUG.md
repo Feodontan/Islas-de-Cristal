@@ -2,7 +2,7 @@
 
 Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 
-## 0607 Pecio Maldito
+## 0607 — Pecio Maldito
 
 ### Inferencias
 
@@ -104,59 +104,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00919",
-    "fecha": "19/06/2024, 13:31",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "La porra de la criatura cae al suelo, y la arpía se tambalea, claramente debilitada.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2"
-  },
-  {
-    "id": "evt-00918",
-    "fecha": "18/06/2024, 21:30",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "La arpía se levanta lentamente, aturdida por el golpe.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2"
-  },
-  {
-    "id": "evt-00911",
-    "fecha": "10/06/2024, 13:16",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Ember frunce el ceño, evaluando la situación mientras observa a Chibi Meido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=2"
-  },
-  {
-    "id": "evt-00900",
-    "fecha": "04/06/2024, 13:37",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "-Está bien.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1"
-  },
-  {
-    "id": "evt-00899",
-    "fecha": "03/06/2024, 22:05",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "-Fue un final abrupto...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0607-pecio-maldito?__Pg=1"
-  }
-]
+[]
 ```
 
-## 0608 Nueva Vector
+## 0608 — Nueva Vector
 
 ### Inferencias
 
@@ -278,70 +239,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01513",
-    "fecha": "04/05/2025, 23:23",
-    "palabrasClave": [
-      "guerra",
-      "sello",
-      "maldicion"
-    ],
-    "resumen": "Avanzó.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2"
-  },
-  {
-    "id": "evt-01512",
-    "fecha": "03/05/2025, 15:54",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "Lo cual ya es estadísticamente improbable.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2"
-  },
-  {
-    "id": "evt-01511",
-    "fecha": "27/04/2025, 18:20",
-    "palabrasClave": [
-      "guerra"
-    ],
-    "resumen": "Laylee se llevó ambas manos a la boca, los ojos brillando como si estuviera frente a una profecía cumplida.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2"
-  },
-  {
-    "id": "evt-01510",
-    "fecha": "27/04/2025, 02:26",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "Objetivo: Cafetería táctica.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2"
-  },
-  {
-    "id": "evt-01505",
-    "fecha": "22/04/2025, 00:34",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "-¿Procedimiento 8-G…?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0608-nueva-vector?__Pg=2"
-  }
-]
+[]
 ```
 
-## 0706 Dragon's Rest
+## 0706 — Dragons Rest
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -448,60 +368,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01521",
-    "fecha": "15/05/2025, 09:50",
-    "palabrasClave": [
-      "invadir"
-    ],
-    "resumen": "-Bien… veo que la operación ha escalado de peculiar a festival micótico sin retorno.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6"
-  },
-  {
-    "id": "evt-01520",
-    "fecha": "14/05/2025, 20:29",
-    "palabrasClave": [
-      "traicion"
-    ],
-    "resumen": "Mamoru Ai Yastis observó el saco mugriento como si acabaran de dejarle un corazón palpitante sobre el escritorio.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6"
-  },
-  {
-    "id": "evt-01518",
-    "fecha": "12/05/2025, 23:18",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Laylee, desde una esquina, ya empezaba a buscar su banderín.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6"
-  },
-  {
-    "id": "evt-01517",
-    "fecha": "12/05/2025, 21:19",
-    "palabrasClave": [
-      "traicion"
-    ],
-    "resumen": "No aplaudía bien.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6"
-  },
-  {
-    "id": "evt-01515",
-    "fecha": "11/05/2025, 14:42",
-    "palabrasClave": [
-      "plaga",
-      "sello"
-    ],
-    "resumen": "Uno golpeaba dos cascos viejos como platillos.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0706-dragons-rest?__Pg=6"
-  }
-]
+[]
 ```
 
-## 0707 Planicie
+## 0707 — Planicie
 
 ### Inferencias
 
@@ -611,52 +491,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01450",
-    "fecha": "26/02/2025, 20:09",
-    "palabrasClave": [
-      "ritual"
-    ],
-    "resumen": "Cid dejó de respirar por un segundo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=2"
-  },
-  {
-    "id": "evt-01441",
-    "fecha": "25/02/2025, 12:34",
-    "palabrasClave": [
-      "destruccion",
-      "ruinas"
-    ],
-    "resumen": "Lo que realmente importaba aquí era la multa.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1"
-  },
-  {
-    "id": "evt-01439",
-    "fecha": "23/02/2025, 23:54",
-    "palabrasClave": [
-      "asesinato"
-    ],
-    "resumen": "-…¿Perdón?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1"
-  },
-  {
-    "id": "evt-01432",
-    "fecha": "20/02/2025, 18:26",
-    "palabrasClave": [
-      "destruida",
-      "amenaza"
-    ],
-    "resumen": "Pero no.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0707-planicie?__Pg=1"
-  }
-]
+[]
 ```
 
-## 0711 Strixhaven
+## 0711 — Strixhaven
 
 ### Inferencias
 
@@ -772,60 +620,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01522",
-    "fecha": "24/05/2025, 15:31",
-    "palabrasClave": [
-      "destruida",
-      "cristal"
-    ],
-    "resumen": "-Sí, claro… tú cree lo que quieras.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9"
-  },
-  {
-    "id": "evt-01519",
-    "fecha": "13/05/2025, 02:29",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "Cid gruñó entre dientes mientras pasaba la mano por la pared pulida de la cámara, lanzando una mirada a los huecos vacíos del armamento desaparecido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9"
-  },
-  {
-    "id": "evt-01514",
-    "fecha": "07/05/2025, 19:02",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "El descenso terminó en un giro inesperado.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9"
-  },
-  {
-    "id": "evt-01509",
-    "fecha": "26/04/2025, 11:39",
-    "palabrasClave": [
-      "huida"
-    ],
-    "resumen": "Cid soltó un gruñido bajo, rodando los hombros mientras bajaba tras Jacklin.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=9"
-  },
-  {
-    "id": "evt-01508",
-    "fecha": "25/04/2025, 11:04",
-    "palabrasClave": [
-      "destruccion"
-    ],
-    "resumen": "Así que di un par de pasos para bajar por los escalones.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0711-strixhaven?__Pg=8"
-  }
-]
+[]
 ```
 
-## 0813 El valle de huesos
+## 0813 — El Valle De Huesos
 
 ### Inferencias
 
@@ -940,65 +748,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00881",
-    "fecha": "20/05/2024, 23:08",
-    "palabrasClave": [
-      "combate",
-      "ataque"
-    ],
-    "resumen": "El primer golpe del líder, un corte limpio y preciso, impactó en un punto crítico, haciendo que Carol se tambaleara por el dolor.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3"
-  },
-  {
-    "id": "evt-00880",
-    "fecha": "20/05/2024, 13:26",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Eso me da cierto \"estatus\" por encima de los demás revolucionarios.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3"
-  },
-  {
-    "id": "evt-00879",
-    "fecha": "20/05/2024, 07:02",
-    "palabrasClave": [
-      "muerte",
-      "combate",
-      "destruccion"
-    ],
-    "resumen": "-Tu desprecio por el orden y la autoridad es evidente.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3"
-  },
-  {
-    "id": "evt-00878",
-    "fecha": "19/05/2024, 12:14",
-    "palabrasClave": [
-      "muerte",
-      "muere",
-      "batalla",
-      "guerra"
-    ],
-    "resumen": "-Pues en principio buscaba saber si el ácido te hacía daño.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3"
-  },
-  {
-    "id": "evt-00876",
-    "fecha": "18/05/2024, 12:34",
-    "palabrasClave": [
-      "traicion"
-    ],
-    "resumen": "-Y aún así estoy yo aquí.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0813-el-valle-de-huesos?__Pg=3"
-  }
-]
+[]
 ```
 
-## 0907 Las cuevas de Pleamar
+## 0907 — Las Cuevas De Pleamar
 
 ### Inferencias
 
@@ -1132,63 +895,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01536",
-    "fecha": "24/07/2025, 10:24",
-    "palabrasClave": [
-      "destruccion",
-      "descubrimiento",
-      "cristal"
-    ],
-    "resumen": "Mamoru Ai Yastis se quedó quieto.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1"
-  },
-  {
-    "id": "evt-01535",
-    "fecha": "23/07/2025, 19:13",
-    "palabrasClave": [
-      "cristal"
-    ],
-    "resumen": "Una raíz luminiscente, aún cruzada en su torso, emitía un latido inverso.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1"
-  },
-  {
-    "id": "evt-01533",
-    "fecha": "20/06/2025, 12:29",
-    "palabrasClave": [
-      "amenaza",
-      "cristal"
-    ],
-    "resumen": "Lo leí una vez en...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1"
-  },
-  {
-    "id": "evt-01529",
-    "fecha": "18/06/2025, 22:47",
-    "palabrasClave": [
-      "plaga",
-      "cristal"
-    ],
-    "resumen": "La colonia entera exhaló, no aire, sino una pulsación de esporas que se dispersaron como un aplauso silente y orgánico.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1"
-  },
-  {
-    "id": "evt-01527",
-    "fecha": "31/05/2025, 10:49",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "-Lo sabíamos, chicas.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0907-las-cuevas-de-pleamar?__Pg=1"
-  }
-]
+[]
 ```
 
-## 0913 La Torre Negra
+## 0913 — La Torre Negra
 
 ### Inferencias
 
@@ -1298,63 +1018,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01534",
-    "fecha": "26/06/2025, 16:24",
-    "palabrasClave": [
-      "batalla",
-      "amenaza"
-    ],
-    "resumen": "pero no, realmente vino.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=3"
-  },
-  {
-    "id": "evt-01251",
-    "fecha": "18/12/2024, 22:03",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "Sus expresiones reflejaban una mezcla de comprensión y aceptación, aunque ninguna indicaba que captaran los matices más profundos que Jacklin sabía que estaban fuera de su alcance.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2"
-  },
-  {
-    "id": "evt-01250",
-    "fecha": "18/12/2024, 14:22",
-    "palabrasClave": [
-      "capturado",
-      "maldicion"
-    ],
-    "resumen": "Baje la mirada cuando Alexander menciono lo peligroso que era dejarlo suelto ante la posibilidad de que su “maldición” se expandiera- Precisamente, al parecer no es la primera vez que algo así ocurre, al menos si creemos sus palabras.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2"
-  },
-  {
-    "id": "evt-01249",
-    "fecha": "18/12/2024, 03:07",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "El grupo escuchó atentamente a Jacklin mientras hablaba, sus palabras cuidadosamente diseñadas para ser procesadas por ellos, evitando mencionar las verdades más profundas que no podían comprender.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2"
-  },
-  {
-    "id": "evt-01248",
-    "fecha": "18/12/2024, 01:52",
-    "palabrasClave": [
-      "combate",
-      "portal",
-      "maldicion"
-    ],
-    "resumen": "- No me refería a Grymoire...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/0913-la-torre-negra?__Pg=2"
-  }
-]
+[]
 ```
 
-## 1012 La Aldea
+## 1012 — La Aldea 2
 
 ### Inferencias
 
@@ -1461,60 +1138,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00276",
-    "fecha": "18/07/2023, 11:35",
-    "palabrasClave": [
-      "ruinas",
-      "amenaza"
-    ],
-    "resumen": "Ya habíamos completado la misión, podríamos haber vuelto todos juntos, pero en lugar de eso decidí seguir peleando.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6"
-  },
-  {
-    "id": "evt-00273",
-    "fecha": "16/07/2023, 13:01",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "pese a ser tan solo un pequeño grupo de orcos su líder es sumamente fuerte, no se trata en absoluto de orco ordinario.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=6"
-  },
-  {
-    "id": "evt-00271",
-    "fecha": "16/07/2023, 05:42",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "Fedregar es cruzo de brazos, pensativo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5"
-  },
-  {
-    "id": "evt-00270",
-    "fecha": "14/07/2023, 01:59",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Poco me importaba eso sinceramente, ellos volverían al pueblo que era mi objetivo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5"
-  },
-  {
-    "id": "evt-00260",
-    "fecha": "12/07/2023, 01:34",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Y cuando iba a golpear a Kryle en lugar de eso, se limpio los ojos.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1012-la-aldea-2?__Pg=5"
-  }
-]
+[]
 ```
 
-## 1013 Fortaleza Gnoll
+## 1013 — Fortaleza Gnoll 2
 
 ### Inferencias
 
@@ -1639,73 +1276,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01423",
-    "fecha": "16/02/2025, 23:20",
-    "palabrasClave": [
-      "combate",
-      "guerra"
-    ],
-    "resumen": "Los gnolls comenzaron a moverse rápidamente, algunos recogiendo sus armas, otros preparando su equipo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8"
-  },
-  {
-    "id": "evt-01421",
-    "fecha": "14/02/2025, 18:20",
-    "palabrasClave": [
-      "batalla",
-      "guerra"
-    ],
-    "resumen": "Los gnolls se rieron entre dientes, algunos soltando gruñidos de aprobación.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8"
-  },
-  {
-    "id": "evt-01420",
-    "fecha": "13/02/2025, 18:18",
-    "palabrasClave": [
-      "guerra",
-      "portal"
-    ],
-    "resumen": "Ya estaba resuelto.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=8"
-  },
-  {
-    "id": "evt-01410",
-    "fecha": "11/02/2025, 22:16",
-    "palabrasClave": [
-      "traicion",
-      "liberacion"
-    ],
-    "resumen": "Sus pasos la lelvaron, inexorablemnte, a las celdas.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7"
-  },
-  {
-    "id": "evt-01406",
-    "fecha": "11/02/2025, 13:13",
-    "palabrasClave": [
-      "guerra",
-      "portal"
-    ],
-    "resumen": "Rebecca cruzó el umbral sin dudarlo, seguida de Fang.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1013-fortaleza-gnoll-2?__Pg=7"
-  }
-]
+[]
 ```
 
-## 1110 Pantano de las grandes bestias
+## 1110 — Pantano De Las Grandes Bestias
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -1809,61 +1402,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01179",
-    "fecha": "05/12/2024, 01:50",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "-Entiendo...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18"
-  },
-  {
-    "id": "evt-01178",
-    "fecha": "05/12/2024, 00:32",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "Que divertida - No, no t ela cargues, Fang, es divertida...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=18"
-  },
-  {
-    "id": "evt-01177",
-    "fecha": "04/12/2024, 22:51",
-    "palabrasClave": [
-      "ritual"
-    ],
-    "resumen": "¡muy probablemente sí!",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17"
-  },
-  {
-    "id": "evt-01174",
-    "fecha": "04/12/2024, 22:15",
-    "palabrasClave": [
-      "ritual"
-    ],
-    "resumen": "- Uhmmm, estoy de acuerdo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17"
-  },
-  {
-    "id": "evt-01173",
-    "fecha": "04/12/2024, 18:13",
-    "palabrasClave": [
-      "batalla",
-      "combate",
-      "guerra"
-    ],
-    "resumen": "-Ah, así que la diosa inmortal quiere jugar a ser una zorra de vez en cuando, ¿eh?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1110-pantano-de-las-grandes-bestias?__Pg=17"
-  }
-]
+[]
 ```
 
-## 1111 Nueva Roclenia
+## 1111 — Nueva Roclenia
 
 ### Inferencias
 
@@ -1993,68 +1545,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01279",
-    "fecha": "30/12/2024, 01:24",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "-Acabo de recibir un mensaje de Jacklin.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27"
-  },
-  {
-    "id": "evt-01278",
-    "fecha": "30/12/2024, 01:22",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Al llegar a Nueva Roclenia, el grupo fue recibido por los guardias del castillo, quienes los escoltaron directamente a la sala del trono.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27"
-  },
-  {
-    "id": "evt-01208",
-    "fecha": "10/12/2024, 00:19",
-    "palabrasClave": [
-      "invadir"
-    ],
-    "resumen": "Sus movimientos se hicieron erráticos, buscando cualquier manera de liberarse.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27"
-  },
-  {
-    "id": "evt-01207",
-    "fecha": "09/12/2024, 03:04",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=27"
-  },
-  {
-    "id": "evt-01156",
-    "fecha": "02/12/2024, 00:17",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "Tras las palabras de Jacklin, la sala permaneció en silencio por un momento.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1111-nueva-roclenia?__Pg=26"
-  }
-]
+[]
 ```
 
-## 1112 Fortaleza de Farar
+## 1112 — Fortaleza De Farar
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -2152,68 +1665,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01488",
-    "fecha": "24/03/2025, 23:21",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "- Está bien, partiremos de inmediato de vuelta.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27"
-  },
-  {
-    "id": "evt-01472",
-    "fecha": "14/03/2025, 17:42",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=27"
-  },
-  {
-    "id": "evt-01454",
-    "fecha": "01/03/2025, 10:36",
-    "palabrasClave": [
-      "liberacion"
-    ],
-    "resumen": "Suspiró.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25"
-  },
-  {
-    "id": "evt-01446",
-    "fecha": "25/02/2025, 22:55",
-    "palabrasClave": [
-      "corrupcion"
-    ],
-    "resumen": "No sabía que había ocurrido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25"
-  },
-  {
-    "id": "evt-01445",
-    "fecha": "25/02/2025, 22:32",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "La figura en el trono no reaccionó de inmediato.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1112-fortaleza-de-farar?__Pg=25"
-  }
-]
+[]
 ```
 
-## 1114 Nubelon
+## 1114 — Nubelon
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
+    "value": "Abandonado o parcialmente abandonado",
     "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "evidence": "Mensajes recientes mencionan abandono."
   },
   "control": {
     "value": "Desconocido",
@@ -2313,61 +1787,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00808",
-    "fecha": "24/04/2024, 20:26",
-    "palabrasClave": [
-      "traicion"
-    ],
-    "resumen": "-Me alegra haber podido ayudar en el momento justo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1"
-  },
-  {
-    "id": "evt-00807",
-    "fecha": "24/04/2024, 20:09",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "el mismo que mora en el bosque que hay al norte.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1"
-  },
-  {
-    "id": "evt-00618",
-    "fecha": "10/04/2024, 19:08",
-    "palabrasClave": [
-      "ritual",
-      "portal"
-    ],
-    "resumen": "Una mezcla de gratitud y preocupación se reflejaba en sus ojos mientras absorbía cada palabra del druida.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1"
-  },
-  {
-    "id": "evt-00617",
-    "fecha": "10/04/2024, 15:28",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Casi al momento en que la teletransportación fue mencionada levante la mirada al cielo agradeciendo sin que sonido saliera de mis labios pese a estar articulando palabras.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1"
-  },
-  {
-    "id": "evt-00614",
-    "fecha": "10/04/2024, 00:26",
-    "palabrasClave": [
-      "batalla",
-      "corrompido"
-    ],
-    "resumen": "Mientras el grupo avanzaba por las calles empedradas de Núbelon, Loy-yang no podía evitar sentir una sensación de familiaridad.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1114-nubelon?__Pg=1"
-  }
-]
+[]
 ```
 
-## 1210 Fortaleza de Roland
+## 1210 — Fortaleza De Roland
 
 ### Inferencias
 
@@ -2474,61 +1907,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01531",
-    "fecha": "19/06/2025, 07:26",
-    "palabrasClave": [
-      "destruido",
-      "cristal"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2"
-  },
-  {
-    "id": "evt-01524",
-    "fecha": "25/05/2025, 16:28",
-    "palabrasClave": [
-      "cristal"
-    ],
-    "resumen": "Lucien no se movió cuando Horus entró.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2"
-  },
-  {
-    "id": "evt-01437",
-    "fecha": "22/02/2025, 16:15",
-    "palabrasClave": [
-      "descubre"
-    ],
-    "resumen": "El sonido de los golpes de Horus resonó en la habitación, pero no hubo respuesta inmediata.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=2"
-  },
-  {
-    "id": "evt-01435",
-    "fecha": "22/02/2025, 14:09",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "¿Subestimando?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1"
-  },
-  {
-    "id": "evt-01419",
-    "fecha": "13/02/2025, 01:05",
-    "palabrasClave": [
-      "amenaza",
-      "maldicion"
-    ],
-    "resumen": "El aire en la habitación se volvió más denso, como si la amenaza implícita en las palabras de Horus hubiera cambiado la atmósfera por completo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1210-fortaleza-de-roland?__Pg=1"
-  }
-]
+[]
 ```
 
-## 1211 Nueva Lyrule
+## 1211 — Nueva Lyrule
 
 ### Inferencias
 
@@ -2666,79 +2058,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01300",
-    "fecha": "05/01/2025, 22:12",
-    "palabrasClave": [
-      "combate",
-      "captura",
-      "amenaza",
-      "ataque"
-    ],
-    "resumen": "Junto a ellos, una Neosombra más grande y peligrosa lideraba el ataque.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4"
-  },
-  {
-    "id": "evt-01281",
-    "fecha": "30/12/2024, 01:31",
-    "palabrasClave": [
-      "invadir",
-      "ruinas"
-    ],
-    "resumen": "A medida que Nadia y su grupo avanzaban, el aire parecía volverse más pesado, y el silencio se rompía solo por el crujido de sus pasos y el ocasional aleteo de un ave que huía a lo lejos.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4"
-  },
-  {
-    "id": "evt-01280",
-    "fecha": "30/12/2024, 01:30",
-    "palabrasClave": [
-      "batalla",
-      "combate",
-      "destruccion",
-      "destruido",
-      "ruinas",
-      "ataque"
-    ],
-    "resumen": "Entendido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4"
-  },
-  {
-    "id": "evt-00418",
-    "fecha": "21/03/2024, 13:05",
-    "palabrasClave": [
-      "batalla",
-      "guerra",
-      "ruinas"
-    ],
-    "resumen": "De repente se escucho un estallido en las afueras, solo el inicio de muchos otros.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4"
-  },
-  {
-    "id": "evt-00397",
-    "fecha": "18/03/2024, 08:04",
-    "palabrasClave": [
-      "alianza"
-    ],
-    "resumen": "-Debería haber sido Robie quien te informara sobre este asunto.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1211-nueva-lyrule?__Pg=4"
-  }
-]
+[]
 ```
 
-## 1212 Cueva Goblin
+## 1212 — Cueva Goblin
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -2844,68 +2186,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01516",
-    "fecha": "12/05/2025, 06:56",
-    "palabrasClave": [
-      "cristal"
-    ],
-    "resumen": "Las estalactitas naturales seguían colgando, dándole al lugar un aire entre rudimentario y encantador.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14"
-  },
-  {
-    "id": "evt-01507",
-    "fecha": "24/04/2025, 01:59",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "y resignación.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=14"
-  },
-  {
-    "id": "evt-01494",
-    "fecha": "29/03/2025, 23:02",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "Korpo, como siempre eficiente.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=13"
-  },
-  {
-    "id": "evt-01234",
-    "fecha": "14/12/2024, 05:54",
-    "palabrasClave": [
-      "guerra"
-    ],
-    "resumen": "Estaban todos en formación.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12"
-  },
-  {
-    "id": "evt-01233",
-    "fecha": "14/12/2024, 01:57",
-    "palabrasClave": [
-      "guerra"
-    ],
-    "resumen": "Comienzo a mirar alrededor buscando a alguien -Claro que no pongo en duda el trabajo de Rådgiver-.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1212-cueva-goblin?__Pg=12"
-  }
-]
+[]
 ```
 
-## 1213 Lipwick/ Bosque de Smel
+## 1213 — Lipwick_ Bosque De Smel
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -2999,61 +2302,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00873",
-    "fecha": "17/05/2024, 09:52",
-    "palabrasClave": [
-      "descubrimiento"
-    ],
-    "resumen": "Pero cada rango refleja un compromiso y una habilidad excepcional.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=9"
-  },
-  {
-    "id": "evt-00867",
-    "fecha": "15/05/2024, 03:09",
-    "palabrasClave": [
-      "descubren",
-      "cristal"
-    ],
-    "resumen": "-Entiendo, pero actualmente estoy inmersa en investigaciones en la biblioteca de la torre.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8"
-  },
-  {
-    "id": "evt-00866",
-    "fecha": "14/05/2024, 18:52",
-    "palabrasClave": [
-      "cristal"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8"
-  },
-  {
-    "id": "evt-00865",
-    "fecha": "13/05/2024, 07:17",
-    "palabrasClave": [
-      "destruccion",
-      "amenaza"
-    ],
-    "resumen": "La figura de Tenebris, como dices, adoptando la imagen de una mujer, es una revelación importante.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8"
-  },
-  {
-    "id": "evt-00864",
-    "fecha": "13/05/2024, 01:33",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "Me cruce de brazos en cuanto empezaron a explicar los motivos de su presencia por la zona.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1213-lipwick_-bosque-de-smel?__Pg=8"
-  }
-]
+[]
 ```
 
-## 1214 Poblado orco
+## 1214 — Poblado Orco
 
 ### Inferencias
 
@@ -3165,72 +2427,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01220",
-    "fecha": "12/12/2024, 23:23",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "La líder orco mantuvo su expresión solemne, mientras que su hija no ocultaba su entusiasmo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
-  },
-  {
-    "id": "evt-01219",
-    "fecha": "12/12/2024, 23:08",
-    "palabrasClave": [
-      "batalla",
-      "portal"
-    ],
-    "resumen": "- Ya lo pensaremos de camino, tengo que ultimar detalles, y tenemos varios día spor delante.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
-  },
-  {
-    "id": "evt-01212",
-    "fecha": "10/12/2024, 13:08",
-    "palabrasClave": [
-      "muerte",
-      "combate",
-      "portal",
-      "liberacion"
-    ],
-    "resumen": "Se terminoó de colocar el sombrero.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
-  },
-  {
-    "id": "evt-01211",
-    "fecha": "10/12/2024, 04:03",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "-Gnolls, la próxima misión es delicada todo debe ser preciso y metódico, un fallo podría desembocar en un baño de sangre innecesario- Entonces me detengo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
-  },
-  {
-    "id": "evt-01206",
-    "fecha": "08/12/2024, 23:10",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "aunque creo que nos hace falta un cambio en la party.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1214-poblado-orco?__Pg=11"
-  }
-]
+[]
 ```
 
-## 1310 Tybra
+## 1310 — Tybra
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -3328,71 +2547,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00298",
-    "fecha": "02/09/2023, 02:46",
-    "palabrasClave": [
-      "cristal"
-    ],
-    "resumen": "La mujer se cruzaria de brazos ante tus preguntas, posiblemente preguntandose cuantas debia de responder.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3"
-  },
-  {
-    "id": "evt-00296",
-    "fecha": "01/08/2023, 01:31",
-    "palabrasClave": [
-      "destruido",
-      "ritual",
-      "amenaza",
-      "cristal"
-    ],
-    "resumen": "En el templo Rosa os cedio su habitacion, claramente la mujer no vivia en la pobreza.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3"
-  },
-  {
-    "id": "evt-00292",
-    "fecha": "27/07/2023, 04:59",
-    "palabrasClave": [
-      "liberacion"
-    ],
-    "resumen": "Cuando terminó, llevó su mano a sus cabellos para arreglarlos y quedar mirando a ambos dándose cuenta que Rosa guardó silencio.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3"
-  },
-  {
-    "id": "evt-00286",
-    "fecha": "26/07/2023, 00:39",
-    "palabrasClave": [
-      "ritual"
-    ],
-    "resumen": "Al golpear el Laud notaste como tu espada rebotaba en el, como si hubieses golpeado una gran roca.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3"
-  },
-  {
-    "id": "evt-00285",
-    "fecha": "26/07/2023, 00:12",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "La bruja resopla, y les pide tiempo para revisar el objeto, determinar si hay algo de información extra, pero comienza a sentir como su oscuridad la va envolviendo así que antes de cualquier cosa, la lanza al aire y saca su espada para darle un golpe seco y de lleno para partirlo en dos.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1310-tybra?__Pg=3"
-  }
-]
+[]
 ```
 
-## 1312 Nueva Delhyde
+## 1312 — Nueva Delhyde 2
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -3487,69 +2664,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01530",
-    "fecha": "18/06/2025, 23:17",
-    "palabrasClave": [
-      "ruinas",
-      "cristal"
-    ],
-    "resumen": "La carreta avanzó sin sobresaltos por los amplios bulevares de Nueva Delhyde.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20"
-  },
-  {
-    "id": "evt-01528",
-    "fecha": "31/05/2025, 16:56",
-    "palabrasClave": [
-      "sello"
-    ],
-    "resumen": "El replicante uniformado apenas parpadeó.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=20"
-  },
-  {
-    "id": "evt-00811",
-    "fecha": "25/04/2024, 11:42",
-    "palabrasClave": [
-      "traicion"
-    ],
-    "resumen": "Comentaria -No ha aparecido ningun heroe por los alrededores, al menos, que sepamos, y tampoco parece que nadie haya hecho movimientos nuevos, mas alla de la traicion de la mayoria de los del gremio de inventores que han abandonado la ciudad.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19"
-  },
-  {
-    "id": "evt-00802",
-    "fecha": "24/04/2024, 16:56",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "Así que, basándose en las descripciones de la gente, creó esas pancartas.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19"
-  },
-  {
-    "id": "evt-00799",
-    "fecha": "24/04/2024, 15:09",
-    "palabrasClave": [
-      "liberacion"
-    ],
-    "resumen": "Por lo que dejarla al mando era una buena idea, una idea fortuita al parecer, pero buena idea a fin de cuentas.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1312-nueva-delhyde-2?__Pg=19"
-  }
-]
+[]
 ```
 
-## 1313 Cueva Kobold
+## 1313 — Cueva Kobold
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -3643,59 +2780,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00638",
-    "fecha": "12/04/2024, 03:01",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11"
-  },
-  {
-    "id": "evt-00634",
-    "fecha": "12/04/2024, 01:39",
-    "palabrasClave": [
-      "alianza"
-    ],
-    "resumen": "vi todas las notificaciones...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11"
-  },
-  {
-    "id": "evt-00633",
-    "fecha": "12/04/2024, 00:43",
-    "palabrasClave": [
-      "alianza"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11"
-  },
-  {
-    "id": "evt-00630",
-    "fecha": "11/04/2024, 21:16",
-    "palabrasClave": [
-      "alianza"
-    ],
-    "resumen": "-Sí, cerramos el trato, Rebecca.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11"
-  },
-  {
-    "id": "evt-00629",
-    "fecha": "11/04/2024, 21:02",
-    "palabrasClave": [
-      "alianza"
-    ],
-    "resumen": "Espera, ¿que?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1313-cueva-kobold?__Pg=11"
-  }
-]
+[]
 ```
 
-## 1315 El gran Paramo
+## 1315 — El Gran Paramo
 
 ### Inferencias
 
@@ -3821,60 +2919,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00804",
-    "fecha": "24/04/2024, 17:27",
-    "palabrasClave": [
-      "batalla",
-      "amenaza"
-    ],
-    "resumen": "Ataques tan organizados, por unos pergaminos, sin información previa sobre ellos, en templos perdidos de una acceso dificilísimo...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2"
-  },
-  {
-    "id": "evt-00803",
-    "fecha": "24/04/2024, 17:21",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Mientras el joven héroe explicaba la situación.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2"
-  },
-  {
-    "id": "evt-00664",
-    "fecha": "14/04/2024, 01:42",
-    "palabrasClave": [
-      "destruido"
-    ],
-    "resumen": "Mientras las primeras luces del día iluminaban el panorama, los miembros del grupo se prepararon para abordar las tareas pendientes.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=2"
-  },
-  {
-    "id": "evt-00663",
-    "fecha": "14/04/2024, 00:37",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Al ver esa escena de comunión bañada por las primeras luces del mañana termine de por relajar mi cuerpo dejando la cabeza caer a plomo de nuevo al suelo de nuevo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1"
-  },
-  {
-    "id": "evt-00661",
-    "fecha": "13/04/2024, 23:03",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "Uno tras otro iba sanando las heridas en todos los que traía Loy, cada vez había más, pero no podía dejarlo a su suerte...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1315-el-gran-paramo?__Pg=1"
-  }
-]
+[]
 ```
 
-## 1316 Valleoscuro
+## 1316 — Valleoscuro
 
 ### Inferencias
 
@@ -3983,62 +3041,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00801",
-    "fecha": "24/04/2024, 16:48",
-    "palabrasClave": [
-      "portal",
-      "ataque"
-    ],
-    "resumen": "Meterse a través de un portal de teletransporte hacia probablemente un enclave enemigo sin nada de información previa...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6"
-  },
-  {
-    "id": "evt-00797",
-    "fecha": "24/04/2024, 00:43",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "-Creo que es la decision mas sabia.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6"
-  },
-  {
-    "id": "evt-00795",
-    "fecha": "23/04/2024, 23:14",
-    "palabrasClave": [
-      "combate",
-      "portal",
-      "ataque"
-    ],
-    "resumen": "Ya en el otro lado, se dio cuenta de que aquel espejo era un portal, podia atravesarlo aunque a simple vista, no se veia a donde llegaba.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=6"
-  },
-  {
-    "id": "evt-00787",
-    "fecha": "23/04/2024, 07:13",
-    "palabrasClave": [
-      "maldicion"
-    ],
-    "resumen": "Jacklin ingresó a la sala sin incidentes.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5"
-  },
-  {
-    "id": "evt-00776",
-    "fecha": "21/04/2024, 02:54",
-    "palabrasClave": [
-      "descubrimiento"
-    ],
-    "resumen": "Suponía que si teniendo en cuenta el avance tecnológico de otras naciones, de hecho Roclenia también era avanzada en cierto sentido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1316-valleoscuro?__Pg=5"
-  }
-]
+[]
 ```
 
-## 1410 La torre de Granath
+## 1410 — La Torre De Granath
 
 ### Inferencias
 
@@ -4153,60 +3169,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00759",
-    "fecha": "19/04/2024, 21:16",
-    "palabrasClave": [
-      "destruido"
-    ],
-    "resumen": "Jane, honorables inventores...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
-  },
-  {
-    "id": "evt-00739",
-    "fecha": "18/04/2024, 19:29",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "Es crucial que podamos recibir y enviar información de manera rápida y segura.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
-  },
-  {
-    "id": "evt-00736",
-    "fecha": "18/04/2024, 18:04",
-    "palabrasClave": [
-      "combate",
-      "cristal"
-    ],
-    "resumen": "Aunque me gustaría haberme manejado mejor - comentaría un tanto apenada a Jane - Basto un combate algo mas difícil que el anterior como para tener que estar reviviendo por medio de la torre...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
-  },
-  {
-    "id": "evt-00730",
-    "fecha": "18/04/2024, 08:05",
-    "palabrasClave": [
-      "muerte"
-    ],
-    "resumen": "La oscuridad de la muerte se despeja poco a poco mientras una luz azulada suave comienza a impregnar la cámara superior de la Torre de Granath.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
-  },
-  {
-    "id": "evt-00405",
-    "fecha": "18/03/2024, 23:35",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "Euclid se encogeria de hombros ante tu pregunta.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1410-la-torre-de-granath?__Pg=8"
-  }
-]
+[]
 ```
 
-## 1411 Cienaga Negra
+## 1411 — Cienaga Negra
 
 ### Inferencias
 
@@ -4332,65 +3308,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01277",
-    "fecha": "30/12/2024, 01:19",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "El grupo, agotado pero victorioso, decidió abandonar el castillo y regresar a Ciénaga Negra.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3"
-  },
-  {
-    "id": "evt-01256",
-    "fecha": "21/12/2024, 05:11",
-    "palabrasClave": [
-      "combate",
-      "ritual",
-      "amenaza"
-    ],
-    "resumen": "Nadia, aún recuperándose pero incapaz de resistir su curiosidad, comenzó a examinar los documentos en la mesa.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3"
-  },
-  {
-    "id": "evt-01255",
-    "fecha": "21/12/2024, 04:14",
-    "palabrasClave": [
-      "batalla",
-      "ataque"
-    ],
-    "resumen": "Drake retrocedió un paso, su expresión endureciéndose.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3"
-  },
-  {
-    "id": "evt-01254",
-    "fecha": "21/12/2024, 04:03",
-    "palabrasClave": [
-      "muerte",
-      "batalla",
-      "amenaza"
-    ],
-    "resumen": "La opresión en el aire era casi tangible, como si la misma esencia del mal los envolviera.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3"
-  },
-  {
-    "id": "evt-01253",
-    "fecha": "21/12/2024, 02:20",
-    "palabrasClave": [
-      "sacrificio",
-      "ataque"
-    ],
-    "resumen": "Canalizando su energía, lanzó un Orbe Cromático que impactó de lleno en uno de los engendros, provocando que gruñera de dolor mientras el impacto lo empujaba hacia atrás.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1411-cienaga-negra?__Pg=3"
-  }
-]
+[]
 ```
 
-## 1412 La torre del mago
+## 1412 — La Torre Del Mago
 
 ### Inferencias
 
@@ -4492,62 +3423,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00217",
-    "fecha": "20/06/2023, 10:49",
-    "palabrasClave": [
-      "muerte"
-    ],
-    "resumen": "El Stirge que dormia en el piso de abajo por lo visto huyo al sentir la muerte de su reina.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3"
-  },
-  {
-    "id": "evt-00199",
-    "fecha": "17/06/2023, 01:33",
-    "palabrasClave": [
-      "muerte",
-      "combate",
-      "ataque"
-    ],
-    "resumen": "-¿Estais todos bien?",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=3"
-  },
-  {
-    "id": "evt-00171",
-    "fecha": "11/06/2023, 14:51",
-    "palabrasClave": [
-      "combate",
-      "ataque"
-    ],
-    "resumen": "SAKU USO PLACAJE...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2"
-  },
-  {
-    "id": "evt-00165",
-    "fecha": "10/06/2023, 16:16",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "EL entrenador parecía estar disfrutando del combate.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2"
-  },
-  {
-    "id": "evt-00159",
-    "fecha": "09/06/2023, 23:54",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "Growlithe, usa ascuas...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1412-la-torre-del-mago?__Pg=2"
-  }
-]
+[]
 ```
 
-## 1413 Tumba de Shraevyn
+## 1413 — Tumba De Shraevyn
 
 ### Inferencias
 
@@ -4657,64 +3546,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00611",
-    "fecha": "09/04/2024, 17:57",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "- Uhmm, esto...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6"
-  },
-  {
-    "id": "evt-00607",
-    "fecha": "09/04/2024, 16:22",
-    "palabrasClave": [
-      "combate",
-      "amenaza",
-      "portal"
-    ],
-    "resumen": "Respecto a los pergaminos, tienes razón en que podrían ser útiles en una emergencia, pero estoy seguro de que un mago podría sacarles mucho más partido.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6"
-  },
-  {
-    "id": "evt-00606",
-    "fecha": "09/04/2024, 16:12",
-    "palabrasClave": [
-      "portal"
-    ],
-    "resumen": "al final esas cosas estaban muertas, pero por si acaso, lancé más llamas sagradas.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=6"
-  },
-  {
-    "id": "evt-00604",
-    "fecha": "09/04/2024, 03:09",
-    "palabrasClave": [
-      "destruido",
-      "descubrimiento",
-      "amenaza",
-      "ataque"
-    ],
-    "resumen": "Viendo la oportunidad, Rebecca invocó su llama celestial, una poderosa manifestación de su poder divino.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5"
-  },
-  {
-    "id": "evt-00603",
-    "fecha": "08/04/2024, 23:52",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Aunque sabía que su arma no era la más adecuada para la tarea, no tenía otra opción.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1413-tumba-de-shraevyn?__Pg=5"
-  }
-]
+[]
 ```
 
-## 1512 Paso duvik
+## 1512 — Paso Duvik
 
 ### Inferencias
 
@@ -4814,70 +3659,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00326",
-    "fecha": "06/03/2024, 19:26",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "Una pantalla aparecio ante ti.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4"
-  },
-  {
-    "id": "evt-00323",
-    "fecha": "04/03/2024, 23:55",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "-La plaga ardiente es como denominaron a la enfermedad que acabamos de combatir.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4"
-  },
-  {
-    "id": "evt-00321",
-    "fecha": "04/03/2024, 18:22",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "Mmmm no entiendo este mundo.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4"
-  },
-  {
-    "id": "evt-00320",
-    "fecha": "04/03/2024, 17:56",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "También puedes identificar el tipo de veneno, criatura venenosa o enfermedad en cada caso.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=4"
-  },
-  {
-    "id": "evt-00317",
-    "fecha": "28/02/2024, 12:47",
-    "palabrasClave": [
-      "muerte",
-      "combate",
-      "plaga"
-    ],
-    "resumen": "La derrota del orco tiene un efecto inmediato sobre las aguas del arrollo, que empiezan a aclararse de fango al poco tiempo de su muerte.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1512-paso-duvik?__Pg=3"
-  }
-]
+[]
 ```
 
-## 1611 Fortaleza de Shin-ra
+## 1611 — Fortaleza De Shin Ra
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
+    "value": "Bloqueado o alterado",
     "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "evidence": "Mensajes recientes mencionan bloqueo o alteracion."
   },
   "control": {
     "value": "Desconocido",
@@ -4977,68 +3781,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00547",
-    "fecha": "04/04/2024, 23:35",
-    "palabrasClave": [
-      "muerte"
-    ],
-    "resumen": "La parte buena de viajar sobre animales, es que estos tarde o temprano necesitaban detenerse para pastar o descansar, lo cual para mí me venía bastante favorable a la hora de buscar alimentos ...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6"
-  },
-  {
-    "id": "evt-00540",
-    "fecha": "04/04/2024, 07:16",
-    "palabrasClave": [
-      "fundada"
-    ],
-    "resumen": "Los campos abiertos y llanos predominaban al principio del camino, hasta que este giraba hacia el Este, siguiendo el curso del río Veng.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6"
-  },
-  {
-    "id": "evt-00498",
-    "fecha": "31/03/2024, 17:37",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "-Todo esto es un verdadero quebradero de cabeza.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6"
-  },
-  {
-    "id": "evt-00497",
-    "fecha": "31/03/2024, 17:23",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "A senti la cabeza y trate de retener en mi memoria toda la información..",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6"
-  },
-  {
-    "id": "evt-00483",
-    "fecha": "30/03/2024, 19:12",
-    "palabrasClave": [
-      "ruinas"
-    ],
-    "resumen": "Salieron de la taberna y el grupo de mercaderes los guió hasta la puerta de salida, donde tres caravanas tiradas por unas extrañas bestias peludas los esperaban.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1611-fortaleza-de-shin-ra?__Pg=6"
-  }
-]
+[]
 ```
 
-## 1612 Morsten
+## 1612 — Morsten
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -5132,69 +3897,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00775",
-    "fecha": "21/04/2024, 02:49",
-    "palabrasClave": [
-      "muerte",
-      "murieron"
-    ],
-    "resumen": "El dolor y la rabia resonaron en las palabras de Jasmalus mientras gritaba el nombre de su hermano, jurando venganza por su muerte injusta.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6"
-  },
-  {
-    "id": "evt-00765",
-    "fecha": "20/04/2024, 19:40",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Si no nos retrasamos, deberíamos llegar esta misma noche.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=6"
-  },
-  {
-    "id": "evt-00735",
-    "fecha": "18/04/2024, 17:29",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Euclid extendió su bastón, canalizando una suave energía curativa que envolvió el cuerpo de Kirara, sanando las heridas causadas por el ataque del Growlithe.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5"
-  },
-  {
-    "id": "evt-00734",
-    "fecha": "18/04/2024, 15:58",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "No puedo acceder a esos momentos que compartimos, ni a las emociones que los acompañaban.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5"
-  },
-  {
-    "id": "evt-00728",
-    "fecha": "18/04/2024, 06:26",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "Iba a atacar a las bocins y uno de los ataques me salió decente pero el segundo...",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1612-morsten?__Pg=5"
-  }
-]
+[]
 ```
 
-## 1709 La villa de Barduk
+## 1709 — La Villa De Barduk
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
+    "value": "Bloqueado o alterado",
     "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "evidence": "Mensajes recientes mencionan bloqueo o alteracion."
   },
   "control": {
     "value": "Desconocido",
@@ -5301,68 +4026,29 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01532",
-    "fecha": "19/06/2025, 15:40",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Aqua no tardó en percibir la tensión en los ojos de Kirara.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12"
-  },
-  {
-    "id": "evt-01523",
-    "fecha": "25/05/2025, 15:09",
-    "palabrasClave": [
-      "plaga"
-    ],
-    "resumen": "Euclid soltó una leve risa nasal ante el comentario de Beatrix, aunque no era exactamente divertida.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=12"
-  },
-  {
-    "id": "evt-01506",
-    "fecha": "22/04/2025, 00:38",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Malin no respondió de inmediato.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11"
-  },
-  {
-    "id": "evt-01504",
-    "fecha": "20/04/2025, 18:22",
-    "palabrasClave": [
-      "batalla"
-    ],
-    "resumen": "Mantuvo la mirada fija en Kirara durante todo su discurso, sin pestañear siquiera.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11"
-  },
-  {
-    "id": "evt-01502",
-    "fecha": "20/04/2025, 09:31",
-    "palabrasClave": [
-      "muerte"
-    ],
-    "resumen": "Estuve a punto de dar la vuelta e irme cuando le oí hablar.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1709-la-villa-de-barduk?__Pg=11"
-  }
-]
+[]
 ```
 
-## 1710 Villa Batlet/Fuerte Desastre
+## 1710 — Villa Batlet_fuerte Desastre
 
 ### Inferencias
 
 ```json
 {
   "estado": {
-    "value": "En conflicto",
-    "confidence": "media",
-    "evidence": "Hay eventos o mensajes recientes de batalla, combate o asedio."
+    "value": "Desconocido",
+    "confidence": "baja",
+    "evidence": "No hay evidencia reciente clara."
   },
   "control": {
     "value": "Desconocido",
@@ -5475,62 +4161,20 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-01175",
-    "fecha": "04/12/2024, 22:18",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Aunque la joven había peleado bien, aún había mucho que aprender.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7"
-  },
-  {
-    "id": "evt-01160",
-    "fecha": "02/12/2024, 17:38",
-    "palabrasClave": [
-      "amenaza"
-    ],
-    "resumen": "No bajes la guardia, Kirara.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7"
-  },
-  {
-    "id": "evt-01153",
-    "fecha": "01/12/2024, 23:32",
-    "palabrasClave": [
-      "batalla",
-      "combate",
-      "amenaza",
-      "ataque"
-    ],
-    "resumen": "El orco apenas tuvo tiempo de reaccionar antes de caer al suelo sin vida.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7"
-  },
-  {
-    "id": "evt-01150",
-    "fecha": "01/12/2024, 22:16",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7"
-  },
-  {
-    "id": "evt-01143",
-    "fecha": "01/12/2024, 01:48",
-    "palabrasClave": [
-      "ataque"
-    ],
-    "resumen": "Resumen no incluido; ver DEBUG.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1710-villa-batlet_fuerte-desastre?__Pg=7"
-  }
-]
+[]
 ```
 
-## 1712 Fuerte Belvor
+## 1712 — Fuerte Belvor
 
 ### Inferencias
 
@@ -5645,59 +4289,15 @@ Textos fuente e inferencias usadas para generar `02_Estado_Actual.md`.
 ```
 
 
+### Candidatos descartados por coincidir con localizaciones
+
+```json
+[]
+```
+
+
 ### Eventos importantes usados
 
 ```json
-[
-  {
-    "id": "evt-00945",
-    "fecha": "10/08/2024, 00:44",
-    "palabrasClave": [
-      "combate"
-    ],
-    "resumen": "Las almas, representadas como sombras etéreas y luminosas, comenzaron a desprenderse de los cuerpos, siendo absorbidas lentamente por Beatrix.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=7"
-  },
-  {
-    "id": "evt-00944",
-    "fecha": "09/08/2024, 11:24",
-    "palabrasClave": [
-      "combate",
-      "ataque"
-    ],
-    "resumen": "Pues no era para tanto.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6"
-  },
-  {
-    "id": "evt-00943",
-    "fecha": "08/08/2024, 16:07",
-    "palabrasClave": [
-      "batalla",
-      "ataque"
-    ],
-    "resumen": "Sin embargo, la fuerza del golpe desestabilizó a Festin, causando que errara su segundo ataque.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6"
-  },
-  {
-    "id": "evt-00942",
-    "fecha": "08/08/2024, 11:31",
-    "palabrasClave": [
-      "combate",
-      "ataque"
-    ],
-    "resumen": "Por desgracia esto no terminaba aquí.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6"
-  },
-  {
-    "id": "evt-00941",
-    "fecha": "07/08/2024, 21:39",
-    "palabrasClave": [
-      "combate",
-      "amenaza",
-      "ataque"
-    ],
-    "resumen": "El jinete se desvaneció en una nube de polvo y luz, poniendo fin a su amenaza.",
-    "url": "https://www.comunidadumbria.com/partida/islas-cristalinas-18/1712-fuerte-belvor?__Pg=6"
-  }
-]
+[]
 ```

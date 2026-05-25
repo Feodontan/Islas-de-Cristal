@@ -8,6 +8,7 @@ const EXPORTS_DIR = path.join(ROOT, "exports");
 const OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual.md");
 const DEBUG_OUTPUT = path.join(EXPORTS_DIR, "02_Estado_Actual_DEBUG.md");
 const WHITELIST_FILE = path.join(DATA_DIR, "entidades", "personajes_whitelist.json");
+const LOCATIONS_WHITELIST_FILE = path.join(DATA_DIR, "entidades", "localizaciones_whitelist.json");
 
 const UNKNOWN = "Desconocido";
 const RECENT_POSTS = 6;
@@ -257,6 +258,10 @@ function titleWithoutCode(title) {
   return clean(String(title || "").replace(/^\d{4}\s*:?\s*/, ""));
 }
 
+function locationSlugFromFile(file) {
+  return String(file || "").replace(/^\d{4}-/, "").replace(/\.json$/, "");
+}
+
 async function readJsonIfExists(filePath, fallback) {
   try {
     return JSON.parse(await fs.readFile(filePath, "utf8"));
@@ -416,20 +421,27 @@ function recentLine(post) {
 }
 
 async function loadLocations() {
-  const files = (await fs.readdir(LOCATIONS_DIR)).filter((file) => file.endsWith(".json"));
+  const whitelist = await readJsonIfExists(LOCATIONS_WHITELIST_FILE, []);
+  const files = whitelist.length
+    ? whitelist.map((item) => item.archivo).filter(Boolean)
+    : (await fs.readdir(LOCATIONS_DIR)).filter((file) => file.endsWith(".json"));
   const locations = [];
 
   for (const file of files) {
     const posts = await readJsonIfExists(path.join(LOCATIONS_DIR, file), []);
     if (!posts.length) continue;
     const first = posts[0];
-    const slug = file.replace(/\.json$/, "");
-    const code = codeFromSlug(slug) || codeFromTitle(first.localizacion?.titulo);
+    const whitelistItem = whitelist.find((item) => item.archivo === file);
+    const fileStem = file.replace(/\.json$/, "");
+    const slug = whitelistItem?.slug || locationSlugFromFile(file);
+    const code = whitelistItem?.codigo || codeFromSlug(fileStem) || codeFromTitle(first.localizacion?.titulo);
     if (!code) continue;
     locations.push({
       slug,
       code,
-      title: first.localizacion?.titulo || slug,
+      name: whitelistItem?.nombre || titleWithoutCode(first.localizacion?.titulo) || slug,
+      title: first.localizacion?.titulo || `${code} ${slug}`,
+      archivo: file,
       url: first.localizacion?.url || first.url || null,
       posts
     });
@@ -472,11 +484,26 @@ function isWhitelisted(name, whitelist) {
   return whitelist.has(normalize(name));
 }
 
-function splitWhitelistedNames(names, whitelist, knownNames) {
+function buildLocationWhitelist(items) {
+  const names = new Set();
+  for (const item of items) {
+    if (item.nombre) names.add(normalize(item.nombre));
+    if (item.slug) names.add(normalize(String(item.slug).replace(/-/g, " ")));
+  }
+  return names;
+}
+
+function isLocationName(name, locationWhitelist) {
+  return locationWhitelist.has(normalize(name));
+}
+
+function splitWhitelistedNames(names, whitelist, knownNames, locationWhitelist) {
   const valid = unique(names.filter((name) => esNpcValido(name, knownNames)));
-  const confirmed = valid.filter((name) => isWhitelisted(name, whitelist));
-  const candidates = valid.filter((name) => !isWhitelisted(name, whitelist));
-  return { confirmed: unique(confirmed), candidates: unique(candidates) };
+  const locations = valid.filter((name) => isLocationName(name, locationWhitelist));
+  const notLocations = valid.filter((name) => !isLocationName(name, locationWhitelist));
+  const confirmed = notLocations.filter((name) => isWhitelisted(name, whitelist));
+  const candidates = notLocations.filter((name) => !isWhitelisted(name, whitelist));
+  return { confirmed: unique(confirmed), candidates: unique(candidates), locations: unique(locations) };
 }
 
 function debugBlock(title, data) {
@@ -500,14 +527,16 @@ function pushList(lines, title, items, render) {
 }
 
 async function main() {
-  const [locations, locationEntities, npcs, events, whitelistItems] = await Promise.all([
+  const [locations, locationEntities, npcs, events, whitelistItems, locationWhitelistItems] = await Promise.all([
     loadLocations(),
     readJsonIfExists(path.join(DATA_DIR, "entidades", "localizaciones.json"), []),
     readJsonIfExists(path.join(DATA_DIR, "entidades", "npcs.json"), []),
     readJsonIfExists(path.join(DATA_DIR, "eventos", "eventos_importantes.json"), []),
-    readJsonIfExists(WHITELIST_FILE, [])
+    readJsonIfExists(WHITELIST_FILE, []),
+    readJsonIfExists(LOCATIONS_WHITELIST_FILE, [])
   ]);
   const personajesWhitelist = buildWhitelist(whitelistItems);
+  const localizacionesWhitelist = buildLocationWhitelist(locationWhitelistItems);
 
   const locationBySlug = new Map(locationEntities.map((item) => [item.slug, item]));
   const eventsBySlug = new Map();
@@ -546,7 +575,7 @@ async function main() {
   ];
 
   for (const location of locations) {
-    const entity = locationBySlug.get(location.slug);
+    const entity = locationBySlug.get(`${location.code}-${location.slug}`) || locationBySlug.get(location.slug);
     const locationEvents = (eventsBySlug.get(location.slug) || []).sort((a, b) =>
       String(a.fechaIso || "").localeCompare(String(b.fechaIso || ""))
     );
@@ -563,11 +592,12 @@ async function main() {
       .sort((a, b) => (b.frecuencia || 0) - (a.frecuencia || 0))
       .filter((item) => item.esAutorOPersonaje || knownNames.has(normalize(item.nombre)))
       .map((item) => item.nombre);
-    const actorSplit = splitWhitelistedNames(rawActorNames, personajesWhitelist, knownNames);
-    const entitySplit = splitWhitelistedNames(rawEntityNames, personajesWhitelist, knownNames);
+    const actorSplit = splitWhitelistedNames(rawActorNames, personajesWhitelist, knownNames, localizacionesWhitelist);
+    const entitySplit = splitWhitelistedNames(rawEntityNames, personajesWhitelist, knownNames, localizacionesWhitelist);
     const relevantNpcs = unique([...actorSplit.confirmed, ...entitySplit.confirmed]).slice(0, 12);
     const players = actorSplit.confirmed.slice(0, 12);
     const npcCandidates = unique([...actorSplit.candidates, ...entitySplit.candidates]).slice(0, 30);
+    const locationCandidates = unique([...actorSplit.locations, ...entitySplit.locations]).slice(0, 30);
 
     const threats = findSentences(recentPosts, (sentence) => containsAnyWord(sentence, THREAT_WORDS), 3);
     const missions = findSentences(recentPosts, isMissionSentence, 3);
@@ -577,7 +607,7 @@ async function main() {
     const threatConfidence = confidenceForEvidence(threats);
     const missionConfidence = confidenceForEvidence(missions);
 
-    lines.push(`## ${location.code} ${titleWithoutCode(location.title) || location.title}`);
+    lines.push(`## ${location.code} — ${location.name}`);
     lines.push("");
 
     pushSection(lines, "Estado actual", [`- Valor: ${state.value}`, `- Confianza: ${state.confidence}`]);
@@ -632,8 +662,10 @@ async function main() {
 
     pushSection(lines, "URL original", [`- ${location.url || latestPost?.url || UNKNOWN}`]);
 
+    pushSection(lines, "Archivo JSON", [`- data/localizaciones/${location.archivo}`]);
+
     debug.push(
-      `## ${location.code} ${titleWithoutCode(location.title) || location.title}`,
+      `## ${location.code} — ${location.name}`,
       debugBlock("Inferencias", {
         estado: state,
         control,
@@ -654,6 +686,7 @@ async function main() {
       debugBlock("Misiones detectadas", missions),
       debugBlock("Cambios detectados", changes),
       debugBlock("Candidatos NPC descartados por no estar en whitelist", npcCandidates),
+      debugBlock("Candidatos descartados por coincidir con localizaciones", locationCandidates),
       debugBlock(
         "Eventos importantes usados",
         importantEvents.map((event) => ({

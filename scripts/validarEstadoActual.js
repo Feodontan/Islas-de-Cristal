@@ -3,6 +3,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const FILE = path.join(ROOT, "exports", "02_Estado_Actual.md");
+const LOCATIONS_WHITELIST_FILE = path.join(ROOT, "data", "entidades", "localizaciones_whitelist.json");
 
 const FORBIDDEN_TERMS = [
   "Añadió",
@@ -25,9 +26,9 @@ const FORBIDDEN_TERMS = [
 ];
 
 const HTML_RE = /<\/?[a-z][\s\S]*?>/i;
-const SECTION_RE = /^##\s+\d{4}\s+/;
-const NPC_HEADER = "- NPCs presentes o relevantes:";
-const NEXT_TOP_LEVEL = /^- (Jugadores|Eventos|Ultimo|Amenazas|Misiones|Cambios|Dudas|URL)/;
+const SECTION_RE = /^##\s+(\d{4})\s+—\s+(.+)$/;
+const NPC_HEADER_RE = /^###\s+NPCs presentes o relevantes$/;
+const NEXT_SECTION_RE = /^(##|###)\s+/;
 
 function normalize(value) {
   return String(value || "")
@@ -45,10 +46,29 @@ function isSuspiciousNpc(value) {
   return FORBIDDEN_TERMS.some((term) => normalized.includes(normalize(term)));
 }
 
+function locationKey(codigo, nombre) {
+  return `${codigo}|${normalize(nombre).replace(/\s+/g, " ").trim()}`;
+}
+
+function loadLocationWhitelist() {
+  if (!fs.existsSync(LOCATIONS_WHITELIST_FILE)) return { sections: new Set(), names: new Set() };
+  const locations = JSON.parse(fs.readFileSync(LOCATIONS_WHITELIST_FILE, "utf8"));
+  return {
+    sections: new Set(locations.map((item) => locationKey(item.codigo, item.nombre))),
+    names: new Set(
+      locations.flatMap((item) => [
+        normalize(item.nombre).replace(/\s+/g, " ").trim(),
+        normalize(String(item.slug || "").replace(/-/g, " ")).replace(/\s+/g, " ").trim()
+      ])
+    )
+  };
+}
+
 function main() {
   const text = fs.readFileSync(FILE, "utf8");
   const lines = text.split(/\r?\n/);
   const warnings = [];
+  const locationWhitelist = loadLocationWhitelist();
   let inNpcBlock = false;
 
   lines.forEach((line, index) => {
@@ -61,13 +81,24 @@ function main() {
     if (/^## .+- /.test(line) && line.includes("- Estado actual:")) {
       warnings.push(`${lineNo}: posible seccion apelmazada sin salto de linea`);
     }
-    if (line.trim() === NPC_HEADER) {
+    const sectionMatch = line.match(SECTION_RE);
+    if (sectionMatch && !locationWhitelist.sections.has(locationKey(sectionMatch[1], sectionMatch[2]))) {
+      warnings.push(`${lineNo}: seccion no corresponde a localizacion real: ${line}`);
+    }
+    if (NPC_HEADER_RE.test(line.trim())) {
       inNpcBlock = true;
       return;
     }
-    if (inNpcBlock && NEXT_TOP_LEVEL.test(line)) inNpcBlock = false;
+    if (inNpcBlock && NEXT_SECTION_RE.test(line)) inNpcBlock = false;
     if (inNpcBlock && /^\s+-\s+/.test(line) && isSuspiciousNpc(line)) {
       warnings.push(`${lineNo}: NPC sospechoso: ${line.trim().replace(/^- /, "")}`);
+    }
+    if (inNpcBlock && /^\s+-\s+/.test(line)) {
+      const npc = line.replace(/^\s*-\s*/, "").trim();
+      const npcKey = normalize(npc).replace(/\s+/g, " ").trim();
+      if (npc !== "Desconocido" && locationWhitelist.names.has(npcKey)) {
+        warnings.push(`${lineNo}: NPC coincide con una localizacion: ${npc}`);
+      }
     }
   });
 
