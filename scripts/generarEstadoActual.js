@@ -405,11 +405,6 @@ function inferControl(locationEntity, posts, locationEvents) {
   };
 }
 
-function formatBullets(items, render) {
-  if (!items.length) return `  - ${UNKNOWN}`;
-  return items.map((item) => `  - ${render(item)}`).join("\n");
-}
-
 function eventLine(event) {
   const keys = (event.palabrasClave || []).slice(0, 4).join(", ");
   const summary = oneSentence(event.textoFuente || event.resumenAutomatico || "", 120);
@@ -510,22 +505,6 @@ function debugBlock(title, data) {
   return ["", `### ${title}`, "", "```json", JSON.stringify(data, null, 2), "```", ""].join("\n");
 }
 
-function pushSection(lines, title, rows) {
-  lines.push(`### ${title}`);
-  for (const row of rows) lines.push(row);
-  lines.push("");
-}
-
-function pushList(lines, title, items, render) {
-  lines.push(`### ${title}`);
-  if (!items.length) {
-    lines.push(`- ${UNKNOWN}`);
-  } else {
-    for (const item of items) lines.push(`- ${render(item)}`);
-  }
-  lines.push("");
-}
-
 async function main() {
   const [locations, locationEntities, npcs, events, whitelistItems, locationWhitelistItems] = await Promise.all([
     loadLocations(),
@@ -557,7 +536,7 @@ async function main() {
     }
   }
 
-  const lines = [
+  const lineas = [
     "# Estado Actual",
     "",
     "Generado automaticamente desde `data/localizaciones`, `data/cronologia_global.json`, `data/entidades` y `data/eventos`.",
@@ -607,62 +586,90 @@ async function main() {
     const threatConfidence = confidenceForEvidence(threats);
     const missionConfidence = confidenceForEvidence(missions);
 
-    lines.push(`## ${location.code} — ${location.name}`);
-    lines.push("");
+    lineas.push(`## ${location.code} — ${location.name}`);
+    lineas.push("");
 
-    pushSection(lines, "Estado actual", [`- Valor: ${state.value}`, `- Confianza: ${state.confidence}`]);
+    lineas.push("### Estado actual");
+    lineas.push(`- Valor: ${state.value}`);
+    lineas.push(`- Confianza: ${state.confidence}`);
+    lineas.push("");
 
-    pushSection(lines, "Control / faccion dominante", [
-      `- Valor: ${control.value}`,
-      `- Confianza: ${control.confidence}`
-    ]);
+    lineas.push("### Control / faccion dominante");
+    lineas.push(`- Valor: ${control.value}`);
+    lineas.push(`- Confianza: ${control.confidence}`);
+    lineas.push("");
 
-    pushList(lines, "NPCs presentes o relevantes", relevantNpcs, (name) => name);
+    lineas.push("### NPCs presentes o relevantes");
+    if (!relevantNpcs.length) {
+      lineas.push(`- ${UNKNOWN}`);
+    } else {
+      for (const name of relevantNpcs) lineas.push(`- ${name}`);
+    }
+    lineas.push("");
 
-    pushList(lines, "Jugadores que han actuado aqui", players, (name) => name);
+    lineas.push("### Jugadores que han actuado aqui");
+    if (!players.length) {
+      lineas.push(`- ${UNKNOWN}`);
+    } else {
+      for (const name of players) lineas.push(`- ${name}`);
+    }
+    lineas.push("");
 
-    pushList(lines, "Eventos importantes ocurridos", importantEvents, eventLine);
+    lineas.push("### Eventos importantes ocurridos");
+    if (!importantEvents.length) {
+      lineas.push(`- ${UNKNOWN}`);
+    } else {
+      for (const event of importantEvents) lineas.push(`- ${eventLine(event)}`);
+    }
+    lineas.push("");
 
-    pushSection(lines, "Ultimo evento conocido", [
-      `- ${latestPost ? recentLine(latestPost) : UNKNOWN}`
-    ]);
+    lineas.push("### Ultimo evento conocido");
+    lineas.push(`- ${latestPost ? recentLine(latestPost) : UNKNOWN}`);
+    lineas.push("");
 
-    lines.push("### Amenazas activas");
-    lines.push(`- Confianza: ${threatConfidence}`);
+    lineas.push("### Amenazas activas");
+    lineas.push(`- Confianza: ${threatConfidence}`);
     if (!threats.length) {
-      lines.push(`- ${UNKNOWN}`);
+      lineas.push(`- ${UNKNOWN}`);
     } else {
       for (const item of threats) {
-        lines.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
+        lineas.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
       }
     }
-    lines.push("");
+    lineas.push("");
 
-    lines.push("### Misiones abiertas");
-    lines.push(`- Confianza: ${missionConfidence}`);
+    lineas.push("### Misiones abiertas");
+    lineas.push(`- Confianza: ${missionConfidence}`);
     if (!missions.length) {
-      lines.push(`- ${UNKNOWN}`);
+      lineas.push(`- ${UNKNOWN}`);
     } else {
       for (const item of missions) {
-        lines.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
+        lineas.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
       }
     }
-    lines.push("");
+    lineas.push("");
 
-    pushList(
-      lines,
-      "Cambios respecto al mapa base",
-      changes,
-      (item) => `${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`
-    );
+    lineas.push("### Cambios respecto al mapa base");
+    if (!changes.length) {
+      lineas.push(`- ${UNKNOWN}`);
+    } else {
+      for (const item of changes) {
+        lineas.push(`- ${item.fecha}: ${item.texto}${item.url ? ` (${item.url})` : ""}`);
+      }
+    }
+    lineas.push("");
 
-    pushSection(lines, "Dudas / necesita revision manual", [
-      `- ${threats.length || missions.length || changes.length || importantEvents.length ? "Revisar manualmente para confirmar inferencias automaticas." : UNKNOWN}`
-    ]);
+    lineas.push("### Dudas / necesita revision manual");
+    lineas.push(`- ${threats.length || missions.length || changes.length || importantEvents.length ? "Revisar manualmente para confirmar inferencias automaticas." : UNKNOWN}`);
+    lineas.push("");
 
-    pushSection(lines, "URL original", [`- ${location.url || latestPost?.url || UNKNOWN}`]);
+    lineas.push("### URL original");
+    lineas.push(`- ${location.url || latestPost?.url || UNKNOWN}`);
+    lineas.push("");
 
-    pushSection(lines, "Archivo JSON", [`- data/localizaciones/${location.archivo}`]);
+    lineas.push("### Archivo JSON");
+    lineas.push(`- data/localizaciones/${location.archivo}`);
+    lineas.push("");
 
     debug.push(
       `## ${location.code} — ${location.name}`,
@@ -701,7 +708,8 @@ async function main() {
   }
 
   await fs.mkdir(EXPORTS_DIR, { recursive: true });
-  await fs.writeFile(OUTPUT, `${lines.join("\n").trim()}\n`, "utf8");
+  const markdown = lineas.join("\n");
+  await fs.writeFile(OUTPUT, `${markdown.trim()}\n`, "utf8");
   await fs.writeFile(DEBUG_OUTPUT, `${debug.join("\n").trim()}\n`, "utf8");
   console.log(`Estado actual generado: ${path.relative(ROOT, OUTPUT)}`);
   console.log(`Debug generado: ${path.relative(ROOT, DEBUG_OUTPUT)}`);
